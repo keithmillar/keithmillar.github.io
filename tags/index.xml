@@ -6,15 +6,24 @@
     <description>Recent content in Tags on Keith&#39;s Diary and Other Stuff</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 16 Dec 2012 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 15 Oct 2013 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://keithmillar.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>Bike</title>
+      <link>https://keithmillar.github.io/tags/bike/</link>
+      <pubDate>Tue, 15 Oct 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://keithmillar.github.io/tags/bike/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Computing</title>
       <link>https://keithmillar.github.io/tags/computing/</link>
-      <pubDate>Sun, 16 Dec 2012 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 27 Jul 2013 00:00:00 +0000</pubDate>
       
       <guid>https://keithmillar.github.io/tags/computing/</guid>
       <description></description>
@@ -26,6 +35,15 @@
       <pubDate>Fri, 08 Feb 2019 00:00:00 +0000</pubDate>
       
       <guid>https://keithmillar.github.io/tags/cycling/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cycling Race</title>
+      <link>https://keithmillar.github.io/tags/cycling-race/</link>
+      <pubDate>Wed, 29 May 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://keithmillar.github.io/tags/cycling-race/</guid>
       <description></description>
     </item>
     
@@ -48,9 +66,18 @@
     </item>
     
     <item>
+      <title>Diet</title>
+      <link>https://keithmillar.github.io/tags/diet/</link>
+      <pubDate>Sat, 09 Mar 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://keithmillar.github.io/tags/diet/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Dining</title>
       <link>https://keithmillar.github.io/tags/dining/</link>
-      <pubDate>Tue, 25 Dec 2012 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 30 Nov 2013 00:00:00 +0000</pubDate>
       
       <guid>https://keithmillar.github.io/tags/dining/</guid>
       <description></description>
@@ -75,6 +102,15 @@
     </item>
     
     <item>
+      <title>Fast Diet</title>
+      <link>https://keithmillar.github.io/tags/fast-diet/</link>
+      <pubDate>Tue, 05 Feb 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://keithmillar.github.io/tags/fast-diet/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Food</title>
       <link>https://keithmillar.github.io/tags/food/</link>
       <pubDate>Sat, 17 Dec 2011 10:59:35 +0000</pubDate>
@@ -86,7 +122,7 @@
     <item>
       <title>Garden</title>
       <link>https://keithmillar.github.io/tags/garden/</link>
-      <pubDate>Fri, 29 Apr 2011 08:51:59 +0000</pubDate>
+      <pubDate>Sun, 21 Jul 2013 00:00:00 +0000</pubDate>
       
       <guid>https://keithmillar.github.io/tags/garden/</guid>
       <description></description>
@@ -113,7 +149,7 @@
     <item>
       <title>Holiday</title>
       <link>https://keithmillar.github.io/tags/holiday/</link>
-      <pubDate>Sat, 15 Sep 2012 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 24 Sep 2013 00:00:00 +0000</pubDate>
       
       <guid>https://keithmillar.github.io/tags/holiday/</guid>
       <description></description>
@@ -122,7 +158,7 @@
     <item>
       <title>Linux</title>
       <link>https://keithmillar.github.io/tags/linux/</link>
-      <pubDate>Sun, 22 Jul 2012 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 20 Aug 2013 00:00:00 +0000</pubDate>
       
       <guid>https://keithmillar.github.io/tags/linux/</guid>
       <description></description>
@@ -131,7 +167,7 @@
     <item>
       <title>Lotti</title>
       <link>https://keithmillar.github.io/tags/lotti/</link>
-      <pubDate>Thu, 13 Dec 2012 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 11 Jan 2013 00:00:00 +0000</pubDate>
       
       <guid>https://keithmillar.github.io/tags/lotti/</guid>
       <description></description>
@@ -152,6 +188,15 @@
       <pubDate>Tue, 29 Jan 2019 00:00:00 +0000</pubDate>
       
       <guid>https://keithmillar.github.io/tags/mtb/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mutt</title>
+      <link>https://keithmillar.github.io/tags/mutt/</link>
+      <pubDate>Thu, 30 May 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://keithmillar.github.io/tags/mutt/</guid>
       <description></description>
     </item>
     
@@ -212,9 +257,27 @@
     <item>
       <title>Travel</title>
       <link>https://keithmillar.github.io/tags/travel/</link>
-      <pubDate>Sat, 08 Dec 2012 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 25 Dec 2013 00:00:00 +0000</pubDate>
       
       <guid>https://keithmillar.github.io/tags/travel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Travel Cycling</title>
+      <link>https://keithmillar.github.io/tags/travel-cycling/</link>
+      <pubDate>Fri, 27 Sep 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://keithmillar.github.io/tags/travel-cycling/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Vim</title>
+      <link>https://keithmillar.github.io/tags/vim/</link>
+      <pubDate>Mon, 05 Aug 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://keithmillar.github.io/tags/vim/</guid>
       <description></description>
     </item>
     
@@ -228,11 +291,29 @@
     </item>
     
     <item>
+      <title>Walk Travel</title>
+      <link>https://keithmillar.github.io/tags/walk-travel/</link>
+      <pubDate>Sat, 28 Sep 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://keithmillar.github.io/tags/walk-travel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Walking</title>
       <link>https://keithmillar.github.io/tags/walking/</link>
-      <pubDate>Sun, 11 Nov 2012 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 03 Apr 2013 00:00:00 +0000</pubDate>
       
       <guid>https://keithmillar.github.io/tags/walking/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Weather</title>
+      <link>https://keithmillar.github.io/tags/weather/</link>
+      <pubDate>Sat, 18 May 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://keithmillar.github.io/tags/weather/</guid>
       <description></description>
     </item>
     

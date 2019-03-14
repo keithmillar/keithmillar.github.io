@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mutt on Keith&#39;s Diary and Other Stuff</title>
+    <link>https://keithmillar.github.io/tags/mutt/</link>
+    <description>Recent content in Mutt on Keith&#39;s Diary and Other Stuff</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 30 May 2013 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://keithmillar.github.io/tags/mutt/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Mutt Marking all New messages for deletion and clears all flags</title>
+      <link>https://keithmillar.github.io/2013-05-30-mutt-marks-all-new-messages-for-deletion-and-clears-all-flags/</link>
+      <pubDate>Thu, 30 May 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://keithmillar.github.io/2013-05-30-mutt-marks-all-new-messages-for-deletion-and-clears-all-flags/</guid>
+      <description>It first selects all messages marked “New” and untags them. Then, it selects all messages marked “Old” but unread and untags them as well. Finally, it marks them all as deleted
+{{ more }}
+{% highlight bash html %} macro index m &amp;ldquo;T~N;WNT~O;WO\CTd&amp;rdquo; &amp;ldquo;mark all messages read&amp;rdquo; {% endhighlight %}
+{% highlight bash html %}  = ; {% endhighlight %}</description>
+    </item>
+    
+  </channel>
+</rss>

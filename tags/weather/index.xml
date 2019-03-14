@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Weather on Keith&#39;s Diary and Other Stuff</title>
+    <link>https://keithmillar.github.io/tags/weather/</link>
+    <description>Recent content in Weather on Keith&#39;s Diary and Other Stuff</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 18 May 2013 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://keithmillar.github.io/tags/weather/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title> Another Lovely Saturday</title>
+      <link>https://keithmillar.github.io/2013-05-18-another-lovely-saturday/</link>
+      <pubDate>Sat, 18 May 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://keithmillar.github.io/2013-05-18-another-lovely-saturday/</guid>
+      <description>&amp;ldquo;The race organisers have given in to the inevitable and the North West 200 road races have been abandoned.&amp;rdquo;
+Most of the spectators had already given up and left their positions on the circuit.
+The grandstand at the start/finish line is empty and there is a great sense of frustration here as we have managed just a couple of laps of action.
+Five races were scheduled for today but only two circuits of the Supersport class were completed before that race was red flagged when a rider came off his bike at Church Corner.</description>
+    </item>
+    
+  </channel>
+</rss>

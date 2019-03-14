@@ -6,10 +6,69 @@
     <description>Recent content in Computing on Keith&#39;s Diary and Other Stuff</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 16 Dec 2012 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 27 Jul 2013 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://keithmillar.github.io/tags/computing/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Create a Symbolic Link</title>
+      <link>https://keithmillar.github.io/2013-07-27-create-a-symbolic-link/</link>
+      <pubDate>Sat, 27 Jul 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://keithmillar.github.io/2013-07-27-create-a-symbolic-link/</guid>
+      <description>{% highlight bash html %} ln -s [TARGET DIRECTORY OR FILE] ./[SHORTCUT] {% endhighlight %}
+For example
+{% highlight bash html %} ln -s /usr/local/apache/logs ./logs {% endhighlight %}
+This points a symbolic link &amp;ldquo;./logs&amp;rdquo; to &amp;ldquo;/usr/local/apache/logs&amp;rdquo;</description>
+    </item>
+    
+    <item>
+      <title>Vim Indentation</title>
+      <link>https://keithmillar.github.io/2013-06-23-vim-indentation/</link>
+      <pubDate>Sun, 23 Jun 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://keithmillar.github.io/2013-06-23-vim-indentation/</guid>
+      <description>Ctrl-P toggles paste mode when in Insert mode do not include the two /
+{% highlight bash html %} set pastetoggle=/ &amp;ldquo;Ctrl-P toggles paste mode when in Insert&amp;rdquo; {% endhighlight %}
+{% highlight bash html %} :set paste {% endhighlight %}
+{% highlight bash html %} :set nopaste {% endhighlight %}</description>
+    </item>
+    
+    <item>
+      <title>Flashed Flo&#39;s Phone with a CyanogenMod Rom</title>
+      <link>https://keithmillar.github.io/2013-05-12-flashed-flos-phone-with-a-cyanogenmod-rom/</link>
+      <pubDate>Sun, 12 May 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://keithmillar.github.io/2013-05-12-flashed-flos-phone-with-a-cyanogenmod-rom/</guid>
+      <description>After a huge amount of fannying around Flo finally decided to to install a new rom on her HTC Wildfire, we followed the Instructions on this web site wiki.cyanogenmod.org and everything went fairly smoothly. The main reason she wanted to do this was the orignal rom was full of google apps which she didn&amp;rsquo;t use, and the phone was running out of space so she could not install Facebook, and google refuse to allow you to remove their apps.</description>
+    </item>
+    
+    <item>
+      <title>Copying between two Servers</title>
+      <link>https://keithmillar.github.io/2013-04-29-coyping-between-two-servers/</link>
+      <pubDate>Mon, 29 Apr 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://keithmillar.github.io/2013-04-29-coyping-between-two-servers/</guid>
+      <description>Copy a file or folders between two Servers. Rsync copies folders scp files
+sshfs to mount a remote dir locally
+{{ more }}
+{% highlight bash html linenos %} rsync -azvu &amp;ndash;rsh=&amp;lsquo;ssh -p32&amp;rsquo; basedir/ server2:destdir/ {% endhighlight %}
+{% highlight bash html linenos %} scp -P32  server2:destdir/ {% endhighlight %}
+{% highlight bash linenos %} sshfs @:fusermount -u mountpoint {% endhighlight %}</description>
+    </item>
+    
+    <item>
+      <title>Bash Search .inputrc</title>
+      <link>https://keithmillar.github.io/2013-04-24-bash-search-inputrc/</link>
+      <pubDate>Wed, 24 Apr 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://keithmillar.github.io/2013-04-24-bash-search-inputrc/</guid>
+      <description>With four lines, you&amp;rsquo;ll be able to type the beginning of the command (e.g. &amp;ldquo;cd&amp;rdquo;) and press the up arrow to see the most recent command containing the text you typed (e.g &amp;ldquo;cd ~/Library&amp;rdquo;).
+{{ more }}
+This makes it much easier to find what you&amp;rsquo;re looking for. To make this happen, create a text file called .inputrc in your home folder and put the following four lines inside:
+{% highlight bash html linenos %} &amp;ldquo;\e[A&amp;rdquo;: history-search-backward &amp;ldquo;\e[B&amp;rdquo;: history-search-forward set show-all-if-ambiguous on set completion-ignore-case on {% endhighlight %}</description>
+    </item>
     
     <item>
       <title>Busy Sunday</title>
