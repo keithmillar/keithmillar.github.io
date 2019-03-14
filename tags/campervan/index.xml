@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Campervan on Keith&#39;s Diary and Other Stuff</title>
+    <link>https://keithmillar.github.io/tags/campervan/</link>
+    <description>Recent content in Campervan on Keith&#39;s Diary and Other Stuff</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 28 Sep 2015 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://keithmillar.github.io/tags/campervan/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Lotti&#39;s New Campervan</title>
+      <link>https://keithmillar.github.io/2015-09-28-lotti-s-new-campervan/</link>
+      <pubDate>Mon, 28 Sep 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://keithmillar.github.io/2015-09-28-lotti-s-new-campervan/</guid>
+      <description>Lotti getting to know her new Campervan
+{{ more }}</description>
+    </item>
+    
+    <item>
+      <title>New Van</title>
+      <link>https://keithmillar.github.io/2015-09-24-new-van/</link>
+      <pubDate>Thu, 24 Sep 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://keithmillar.github.io/2015-09-24-new-van/</guid>
+      <description>{{ more }}</description>
+    </item>
+    
+  </channel>
+</rss>
