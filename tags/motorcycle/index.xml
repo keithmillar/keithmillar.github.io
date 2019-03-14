@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Motorcycle on Keith&#39;s Diary and Other Stuff</title>
+    <link>https://keithmillar.github.io/tags/motorcycle/</link>
+    <description>Recent content in Motorcycle on Keith&#39;s Diary and Other Stuff</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 17 Apr 2016 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://keithmillar.github.io/tags/motorcycle/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Circuito Ricardo Tormo - Valencia</title>
+      <link>https://keithmillar.github.io/2016-04-17-circuito-ricardo-tormo-valencia/</link>
+      <pubDate>Sun, 17 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://keithmillar.github.io/2016-04-17-circuito-ricardo-tormo-valencia/</guid>
+      <description>After many years of thinking about it we finally got to the Circuito Ricardo Tormo. We had a great day, everything being free certainly helped the racing was ok with the Moto 3 and Moto 2 being the best by far. {{ more }}</description>
+    </item>
+    
+  </channel>
+</rss>
