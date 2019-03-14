@@ -1,0 +1,77 @@
+<!doctype html>
+<html lang="en">
+  <head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  <meta name="generator" content="Hugo 0.54.0" />
+<link rel="stylesheet" href="/css/style.css" />
+<link rel="stylesheet" href="/css/fonts.css" />
+  
+  
+  <title>Print From Mutt | Keith&#39;s Diary and Other Stuff</title>
+</head>
+
+  <body>
+        <nav>
+    <ul class="menu">
+      
+      <li><a href="/">Home</a></li>
+      
+      <li><a href="/blog/">Archive</a></li>
+      
+      <li><a href="/tags/">Tags</a></li>
+      
+      <li><a href="/collection/">Collections</a></li>
+      
+    </ul>
+    <hr/>
+    </nav>
+
+       
+
+<div class="article-meta">
+<h1>Print From Mutt</h1>
+</div>
+
+
+<i data-feather="calendar"></i> <time datetime="2012-02-22">Feb 22, 2012</time>
+
+  <br>
+  <i data-feather="tag"></i>
+  
+  
+  <a href="https://keithmillar.github.io/tags/linux">linux</a>
+  
+
+
+<br><br>
+<p>To print from Mutt install enscript and add the following lines to muttrc</p>
+
+<p>{% highlight bash %}
+set print=&ldquo;yes&rdquo;
+set print_split
+set print_command=&ldquo;enscript &ndash;portrait &ndash;header=&lsquo;%n@%M:%d|%F %C|Page ($%/$=)&rsquo; &ndash;media=A4 &ndash;silent &ndash;encoding=88591 &ndash;pretty-print=mail &ndash;printer=HP-Deskjet-USB&rdquo;
+set print_decode
+{% endhighlight %}</p>
+
+
+
+	<footer>
+		  		<div align=center>
+		
+ <a href="https://keithmillar.github.io/2012-02-27-phoenix-gp-wedding-anniversary/">Phoenix GP Wedding Anniversary</a> |
+
+		
+  <a href="https://keithmillar.github.io/2012-02-22-emacs-as-the-mail-editor-with-mutt/">To use emacs as the mail editor with mutt</a>
+
+
+
+		  </footer>
+    
+<script src="https://keithmillar.github.io/js/feather.min.js"></script>
+<script>
+  feather.replace()
+</script>
+
+  </body>
+</html>

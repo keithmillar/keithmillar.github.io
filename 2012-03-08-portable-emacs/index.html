@@ -1,0 +1,104 @@
+<!doctype html>
+<html lang="en">
+  <head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  <meta name="generator" content="Hugo 0.54.0" />
+<link rel="stylesheet" href="/css/style.css" />
+<link rel="stylesheet" href="/css/fonts.css" />
+  
+  
+  <title>Portable Emacs  | Keith&#39;s Diary and Other Stuff</title>
+</head>
+
+  <body>
+        <nav>
+    <ul class="menu">
+      
+      <li><a href="/">Home</a></li>
+      
+      <li><a href="/blog/">Archive</a></li>
+      
+      <li><a href="/tags/">Tags</a></li>
+      
+      <li><a href="/collection/">Collections</a></li>
+      
+    </ul>
+    <hr/>
+    </nav>
+
+       
+
+<div class="article-meta">
+<h1>Portable Emacs </h1>
+</div>
+
+
+<i data-feather="calendar"></i> <time datetime="2012-03-08">Mar 08, 2012</time>
+
+  <br>
+  <i data-feather="tag"></i>
+  
+  
+  <a href="https://keithmillar.github.io/tags/linux">linux</a>
+  
+  
+  <a href="https://keithmillar.github.io/tags/emacs">emacs</a>
+  
+
+
+<br><br>
+<!--start excerpt--> 
+
+<p>While reading gmane.emacs.help I came accross this post where somebody asked how he could make a portable app out of Emacs&rsquo; Windows version.</p>
+
+<p>So since I&rsquo;m still at my internship (where they use Windows) and just recently obtained an iAudio X5L portable media player which behaves like an USB2 harddisk to the OS I wondered if I could manage to make Emacs portable.</p>
+
+<p>Short version: I could, the &ldquo;hardest&rdquo; part was in fact not even Emacs related, but my sheer lack of knowledge about Windows batch script.</p>
+
+<p>I started by creating a &ldquo;SOFT&rdquo; folder on my external drive (named E: by Windows on this box) and extracted the altest Emacs build from the ntemacs project in this directory, thus creating &ldquo;E:\SOFT\emacs&rdquo; with all the usual subfolders.</p>
+
+<p>Next I created a site-lisp/site-start.el file and added the following as suggested on usenet:</p>
+
+<p>{{ more }}</p>
+
+<p>{% highlight bash %}
+(let ((home (concat (substring (car command-line-args) 0 2) &ldquo;/SOFT&rdquo;)))
+  (setq user-init-file (concat home &ldquo;/config/.emacs&rdquo;))
+  (setq auto-save-list-file-prefix (concat home &ldquo;/config/.emacs.d/auto-save-list/.saves-&rdquo;)))
+{% endhighlight %}</p>
+
+<p>You&rsquo;ll need to adapt this to your particular environment of course.</p>
+
+<p>This makes Emacs load my user-init-file (aka &ldquo;.emacs&rdquo;) from &ldquo;E:/SOFT/config/.emacs&rdquo; and moves the auto-save-list to the external device as well, this should be superfluous though as I change the location of HOME as described later, but it accounts for the cases that you don&rsquo;t want to change your HOME.</p>
+
+<p>This is in fact the entire Emacs side of the story, though you will probably have some work making your elisp packages work with relative paths if you didn&rsquo;t take that into account before.</p>
+
+<p>Now you need to redefine HOME in Windows (well, you don&rsquo;t need to but I find it useful), you can either do that globally with the System Properties or autoexec.bat in DOS based Windows versions, but I preferred to make it dynamic by writing a wrapper batfile that sets this variable and then launches Emacs. I named it runemacs.bat (how appropriate;)) and put it in Emacs&rsquo; bin directory, the content looks like this:</p>
+
+<p>{% highlight bash %}
+set HOME=%CD%....\config
+runemacs
+{% endhighlight %}</p>
+
+
+
+	<footer>
+		  		<div align=center>
+		
+ <a href="https://keithmillar.github.io/2012-03-19-john-and-mairead-visit/">John and Mairead Visit</a> |
+
+		
+  <a href="https://keithmillar.github.io/2012-02-27-phoenix-gp-wedding-anniversary/">Phoenix GP Wedding Anniversary</a>
+
+
+
+		  </footer>
+    
+<script src="https://keithmillar.github.io/js/feather.min.js"></script>
+<script>
+  feather.replace()
+</script>
+
+  </body>
+</html>
