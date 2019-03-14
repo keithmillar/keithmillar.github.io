@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Rally on Keith&#39;s Diary and Other Stuff</title>
+    <link>https://keithmillar.github.io/tags/rally/</link>
+    <description>Recent content in Rally on Keith&#39;s Diary and Other Stuff</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 18 Apr 2014 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://keithmillar.github.io/tags/rally/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Circuit of Ireland comes to Newtownards</title>
+      <link>https://keithmillar.github.io/2014-04-18-circuit-of-ireland-comes-to-newtownards/</link>
+      <pubDate>Fri, 18 Apr 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://keithmillar.github.io/2014-04-18-circuit-of-ireland-comes-to-newtownards/</guid>
+      <description>Perfect weather for the town center stage to night, and the weather held for the hole bank holiday weekend. {{ more }}</description>
+    </item>
+    
+  </channel>
+</rss>

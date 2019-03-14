@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Virtual on Keith&#39;s Diary and Other Stuff</title>
+    <link>https://keithmillar.github.io/tags/virtual/</link>
+    <description>Recent content in Virtual on Keith&#39;s Diary and Other Stuff</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 16 Jan 2014 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://keithmillar.github.io/tags/virtual/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>VirtualBox Tips &#39;N&#39; Tricks</title>
+      <link>https://keithmillar.github.io/2014-01-16-virtualbox-tips-n-tricks/</link>
+      <pubDate>Thu, 16 Jan 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://keithmillar.github.io/2014-01-16-virtualbox-tips-n-tricks/</guid>
+      <description>To change the resolution
+{% highlight bash %} VBoxManage controlvm &amp;ldquo;MACHINE NAME&amp;rdquo; setvideomodehint WIDTH HEIGHT BPP {% endhighlight %} Replacing &amp;ldquo;MACHINE NAME&amp;rdquo;, WIDTH, HEIGHT and BPP (bits per pixel - 24 or 32) with your values</description>
+    </item>
+    
+  </channel>
+</rss>

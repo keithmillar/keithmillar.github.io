@@ -6,10 +6,29 @@
     <description>Recent content in Computing on Keith&#39;s Diary and Other Stuff</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 27 Jul 2013 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 07 Mar 2014 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://keithmillar.github.io/tags/computing/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Screen Grab</title>
+      <link>https://keithmillar.github.io/2014-03-07-screen-grab/</link>
+      <pubDate>Fri, 07 Mar 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://keithmillar.github.io/2014-03-07-screen-grab/</guid>
+      <description>{% highlight bash html linenos %} sleep 3s; import -window root screenshot.png {% endhighlight %} The above waits 3 seconds before taking the screenshot and saves it in PNG format {{ more }}</description>
+    </item>
+    
+    <item>
+      <title>Lenovo Ideapad</title>
+      <link>https://keithmillar.github.io/2014-01-29-lenovo-ideapad/</link>
+      <pubDate>Wed, 29 Jan 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://keithmillar.github.io/2014-01-29-lenovo-ideapad/</guid>
+      <description>I have had my Lenovo for nearly a month now and I am very pleased with it. It is much larger than my previous Sony CS1. {{ more }}
+This computer is probably the fastest that I have ever owned with an Intel® Core™ i7-4700MQ @ 2.40GHz processor and 12GB ram, it came with Windows 8 which I upgraded to 8.1 before I installed any software, and I also removed all the crapware, of which there was plenty.</description>
+    </item>
     
     <item>
       <title>Create a Symbolic Link</title>

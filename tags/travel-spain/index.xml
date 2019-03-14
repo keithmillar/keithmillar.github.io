@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Travel Spain on Keith&#39;s Diary and Other Stuff</title>
+    <link>https://keithmillar.github.io/tags/travel-spain/</link>
+    <description>Recent content in Travel Spain on Keith&#39;s Diary and Other Stuff</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 04 Sep 2014 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://keithmillar.github.io/tags/travel-spain/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Back Home</title>
+      <link>https://keithmillar.github.io/2014-09-04-back-home/</link>
+      <pubDate>Thu, 04 Sep 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://keithmillar.github.io/2014-09-04-back-home/</guid>
+      <description>Left the house in Turis about 06:00 and had an uneventful 2hr trip to the airport, this time avoiding the toll roads. Check in and the flight home was very smooth.
+{{ more }}</description>
+    </item>
+    
+  </channel>
+</rss>
