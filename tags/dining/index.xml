@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Dining on Keith&#39;s Diary and Other Stuff</title>
+    <link>https://keithmillar.github.io/tags/dining/</link>
+    <description>Recent content in Dining on Keith&#39;s Diary and Other Stuff</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 06 Aug 2011 23:02:07 +0000</lastBuildDate>
+    
+	<atom:link href="https://keithmillar.github.io/tags/dining/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Zen</title>
+      <link>https://keithmillar.github.io/2011-08-06-zen-06-08-11/</link>
+      <pubDate>Sat, 06 Aug 2011 23:02:07 +0000</pubDate>
+      
+      <guid>https://keithmillar.github.io/2011-08-06-zen-06-08-11/</guid>
+      <description>Flo &amp;amp; Flo</description>
+    </item>
+    
+    <item>
+      <title>Souffle</title>
+      <link>https://keithmillar.github.io/2011-07-10-souffle-2/</link>
+      <pubDate>Sun, 10 Jul 2011 22:27:44 +0000</pubDate>
+      
+      <guid>https://keithmillar.github.io/2011-07-10-souffle-2/</guid>
+      <description>Souffle</description>
+    </item>
+    
+  </channel>
+</rss>
