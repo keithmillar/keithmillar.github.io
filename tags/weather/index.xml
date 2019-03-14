@@ -6,10 +6,20 @@
     <description>Recent content in Weather on Keith&#39;s Diary and Other Stuff</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 31 Jul 2015 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 25 Apr 2017 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://keithmillar.github.io/tags/weather/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Rain in Spain</title>
+      <link>https://keithmillar.github.io/2017-04-25-rain/</link>
+      <pubDate>Tue, 25 Apr 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://keithmillar.github.io/2017-04-25-rain/</guid>
+      <description>When it Rains in Spain it really Rains
+This Lily just opened today</description>
+    </item>
     
     <item>
       <title>Woeful July</title>
