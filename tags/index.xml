@@ -48,15 +48,6 @@
     </item>
     
     <item>
-      <title>Bike</title>
-      <link>https://keithmillar.github.io/tags/bike/</link>
-      <pubDate>Tue, 15 Oct 2013 00:00:00 +0000</pubDate>
-      
-      <guid>https://keithmillar.github.io/tags/bike/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Bird</title>
       <link>https://keithmillar.github.io/tags/bird/</link>
       <pubDate>Tue, 20 May 2014 00:00:00 +0000</pubDate>
@@ -71,15 +62,6 @@
       <pubDate>Sun, 18 Sep 2016 00:00:00 +0000</pubDate>
       
       <guid>https://keithmillar.github.io/tags/blu/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Camper</title>
-      <link>https://keithmillar.github.io/tags/camper/</link>
-      <pubDate>Tue, 19 Sep 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://keithmillar.github.io/tags/camper/</guid>
       <description></description>
     </item>
     
@@ -264,15 +246,6 @@
     </item>
     
     <item>
-      <title>General</title>
-      <link>https://keithmillar.github.io/tags/general/</link>
-      <pubDate>Tue, 12 Jul 2011 19:29:02 +0000</pubDate>
-      
-      <guid>https://keithmillar.github.io/tags/general/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Gentoo</title>
       <link>https://keithmillar.github.io/tags/gentoo/</link>
       <pubDate>Fri, 15 Jun 2012 00:00:00 +0000</pubDate>
@@ -390,15 +363,6 @@
     </item>
     
     <item>
-      <title>Motorbike</title>
-      <link>https://keithmillar.github.io/tags/motorbike/</link>
-      <pubDate>Sun, 07 Feb 2016 00:00:00 +0000</pubDate>
-      
-      <guid>https://keithmillar.github.io/tags/motorbike/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Motorcycle</title>
       <link>https://keithmillar.github.io/tags/motorcycle/</link>
       <pubDate>Sun, 17 Apr 2016 00:00:00 +0000</pubDate>
@@ -480,6 +444,15 @@
     </item>
     
     <item>
+      <title>Refurb</title>
+      <link>https://keithmillar.github.io/tags/refurb/</link>
+      <pubDate>Mon, 22 Nov 2010 20:07:35 +0000</pubDate>
+      
+      <guid>https://keithmillar.github.io/tags/refurb/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Ruby</title>
       <link>https://keithmillar.github.io/tags/ruby/</link>
       <pubDate>Sat, 08 Mar 2014 00:00:00 +0000</pubDate>
@@ -530,15 +503,6 @@
       <pubDate>Tue, 30 Oct 2018 00:00:00 +0000</pubDate>
       
       <guid>https://keithmillar.github.io/tags/travel/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Van</title>
-      <link>https://keithmillar.github.io/tags/van/</link>
-      <pubDate>Mon, 30 Nov 2015 00:00:00 +0000</pubDate>
-      
-      <guid>https://keithmillar.github.io/tags/van/</guid>
       <description></description>
     </item>
     

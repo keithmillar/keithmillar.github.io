@@ -2112,12 +2112,6 @@
   </url>
   
   <url>
-    <loc>https://keithmillar.github.io/tags/bike/</loc>
-    <lastmod>2013-10-15T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://keithmillar.github.io/tags/bird/</loc>
     <lastmod>2014-05-20T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -2132,12 +2126,6 @@
   <url>
     <loc>https://keithmillar.github.io/tags/blu/</loc>
     <lastmod>2016-09-18T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://keithmillar.github.io/tags/camper/</loc>
-    <lastmod>2017-09-19T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -2267,12 +2255,6 @@
   </url>
   
   <url>
-    <loc>https://keithmillar.github.io/tags/general/</loc>
-    <lastmod>2011-07-12T19:29:02+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://keithmillar.github.io/tags/gentoo/</loc>
     <lastmod>2012-06-15T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -2357,12 +2339,6 @@
   </url>
   
   <url>
-    <loc>https://keithmillar.github.io/tags/motorbike/</loc>
-    <lastmod>2016-02-07T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://keithmillar.github.io/tags/motorcycle/</loc>
     <lastmod>2016-04-17T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -2417,6 +2393,12 @@
   </url>
   
   <url>
+    <loc>https://keithmillar.github.io/tags/refurb/</loc>
+    <lastmod>2010-11-22T20:07:35+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://keithmillar.github.io/tags/ruby/</loc>
     <lastmod>2014-03-08T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -2455,12 +2437,6 @@
   <url>
     <loc>https://keithmillar.github.io/tags/travel/</loc>
     <lastmod>2018-10-30T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://keithmillar.github.io/tags/van/</loc>
-    <lastmod>2015-11-30T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
