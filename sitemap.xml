@@ -2100,6 +2100,12 @@
   </url>
   
   <url>
+    <loc>https://keithmillar.github.io/tags/autotest/</loc>
+    <lastmod>2015-02-07T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://keithmillar.github.io/tags/belgium/</loc>
     <lastmod>2018-03-25T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -2183,18 +2189,6 @@
   </url>
   
   <url>
-    <loc>https://keithmillar.github.io/tags/cycling-race/</loc>
-    <lastmod>2013-05-29T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://keithmillar.github.io/tags/cyclo-cross/</loc>
-    <lastmod>2009-10-10T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://keithmillar.github.io/tags/cyclocross/</loc>
     <lastmod>2018-12-15T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -2233,12 +2227,6 @@
   <url>
     <loc>https://keithmillar.github.io/tags/family/</loc>
     <lastmod>2012-12-25T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://keithmillar.github.io/tags/fast-diet/</loc>
-    <lastmod>2013-02-05T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -2298,13 +2286,13 @@
   
   <url>
     <loc>https://keithmillar.github.io/tags/holiday/</loc>
-    <lastmod>2013-09-24T00:00:00+00:00</lastmod>
+    <lastmod>2014-09-11T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://keithmillar.github.io/tags/holiday-travel-spain/</loc>
-    <lastmod>2014-09-11T00:00:00+00:00</lastmod>
+    <lastmod>2014-08-31T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -2369,20 +2357,20 @@
   </url>
   
   <url>
-    <loc>https://keithmillar.github.io/tags/motor-bike/</loc>
+    <loc>https://keithmillar.github.io/tags/motorbike/</loc>
     <lastmod>2016-02-07T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://keithmillar.github.io/tags/motor-home/</loc>
-    <lastmod>2017-10-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://keithmillar.github.io/tags/motorcycle/</loc>
     <lastmod>2016-04-17T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://keithmillar.github.io/tags/motorhome/</loc>
+    <lastmod>2017-10-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -2429,14 +2417,14 @@
   </url>
   
   <url>
-    <loc>https://keithmillar.github.io/tags/road-race/</loc>
-    <lastmod>2009-08-23T00:00:00+00:00</lastmod>
+    <loc>https://keithmillar.github.io/tags/ruby/</loc>
+    <lastmod>2014-03-08T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://keithmillar.github.io/tags/ruby/</loc>
-    <lastmod>2014-03-08T00:00:00+00:00</lastmod>
+    <loc>https://keithmillar.github.io/tags/running/</loc>
+    <lastmod>2016-07-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -2471,18 +2459,6 @@
   </url>
   
   <url>
-    <loc>https://keithmillar.github.io/tags/travel-cycling/</loc>
-    <lastmod>2013-09-27T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://keithmillar.github.io/tags/travel-spain/</loc>
-    <lastmod>2014-09-04T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://keithmillar.github.io/tags/van/</loc>
     <lastmod>2015-11-30T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -2509,18 +2485,6 @@
   <url>
     <loc>https://keithmillar.github.io/tags/walk/</loc>
     <lastmod>2019-02-08T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://keithmillar.github.io/tags/walk-autotest/</loc>
-    <lastmod>2015-02-07T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://keithmillar.github.io/tags/walk-travel/</loc>
-    <lastmod>2013-09-28T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
