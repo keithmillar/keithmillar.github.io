@@ -6,10 +6,21 @@
     <description>Recent content in Computing on Keith&#39;s Diary and Other Stuff</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 29 Jan 2014 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 19 Mar 2019 16:49:35 +0100</lastBuildDate>
     
 	<atom:link href="https://keithmillar.github.io/tags/computing/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Finally Moved to Hugo</title>
+      <link>https://keithmillar.github.io/2019-03-19-finally-moved-to-hugo/</link>
+      <pubDate>Tue, 19 Mar 2019 16:49:35 +0100</pubDate>
+      
+      <guid>https://keithmillar.github.io/2019-03-19-finally-moved-to-hugo/</guid>
+      <description>&lt;p&gt;Steep learning curve and at least a Month later I have the blog running on &lt;a href=&#34;http://gohugo.io&#34;&gt;Hugo&lt;/a&gt;, after about 7 years on Jekyll.&lt;/p&gt;
+
+&lt;p&gt;The main issue I have had with Jekyll is the dependency on Ruby Gems, these need regular updating and can break the rendering of the site, hopefully &lt;a href=&#34;http://gohugo.io&#34;&gt;Hugo&lt;/a&gt; being self contained will not suffer from this problem.&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Lenovo Ideapad</title>
