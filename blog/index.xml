@@ -1799,27 +1799,6 @@ All went well until I went to bed on Saturday night and I managed to catch my li
     </item>
     
     <item>
-      <title>Ruby Gem</title>
-      <link>https://keithmillar.github.io/2014-03-08-ruby-gem/</link>
-      <pubDate>Sat, 08 Mar 2014 00:00:00 +0000</pubDate>
-      
-      <guid>https://keithmillar.github.io/2014-03-08-ruby-gem/</guid>
-      <description>remove all old versions of the gem gem cleanup rjb
-choose which ones you want to remove gem uninstall rjb
-remove version 1.1.9 only gem uninstall rjb &amp;ndash;version 1.1.9
-remove all versions less than 1.3.4 gem uninstall rjb &amp;ndash;version &amp;lsquo;&amp;lt;1.3.4&amp;rsquo;</description>
-    </item>
-    
-    <item>
-      <title>Screen Grab</title>
-      <link>https://keithmillar.github.io/2014-03-07-screen-grab/</link>
-      <pubDate>Fri, 07 Mar 2014 00:00:00 +0000</pubDate>
-      
-      <guid>https://keithmillar.github.io/2014-03-07-screen-grab/</guid>
-      <description>{% highlight bash html linenos %} sleep 3s; import -window root screenshot.png {% endhighlight %} The above waits 3 seconds before taking the screenshot and saves it in PNG format {{ more }}</description>
-    </item>
-    
-    <item>
       <title>River Quoile</title>
       <link>https://keithmillar.github.io/2014-02-16-river-quoile/</link>
       <pubDate>Sun, 16 Feb 2014 00:00:00 +0000</pubDate>
@@ -1847,16 +1826,6 @@ This computer is probably the fastest that I have ever owned with an Intel® Cor
       <description>It has been a steep learning curve but I think it has been worth the effort, many of the problems with Jekyll have been a mixture of my ignorance and the devs breaking various parts of Jekyll. {{ more }}
 I have a greater understanding of the mechanics of Jekyll and ruby gems, and I can at least remove and replace broken gems which is a big plus.
 Git on the other hand still remains mostly a mystery I can just about do the most basic of things this will have to be address this coming year.</description>
-    </item>
-    
-    <item>
-      <title>VirtualBox Tips &#39;N&#39; Tricks</title>
-      <link>https://keithmillar.github.io/2014-01-16-virtualbox-tips-n-tricks/</link>
-      <pubDate>Thu, 16 Jan 2014 00:00:00 +0000</pubDate>
-      
-      <guid>https://keithmillar.github.io/2014-01-16-virtualbox-tips-n-tricks/</guid>
-      <description>To change the resolution
-{% highlight bash %} VBoxManage controlvm &amp;ldquo;MACHINE NAME&amp;rdquo; setvideomodehint WIDTH HEIGHT BPP {% endhighlight %} Replacing &amp;ldquo;MACHINE NAME&amp;rdquo;, WIDTH, HEIGHT and BPP (bits per pixel - 24 or 32) with your values</description>
     </item>
     
     <item>
@@ -1996,34 +1965,12 @@ We even went as far as having another barbie this afternoon just because we coul
     </item>
     
     <item>
-      <title>Improve Debian Fonts</title>
-      <link>https://keithmillar.github.io/2013-08-20-improve-debian-fonts/</link>
-      <pubDate>Tue, 20 Aug 2013 00:00:00 +0000</pubDate>
-      
-      <guid>https://keithmillar.github.io/2013-08-20-improve-debian-fonts/</guid>
-      <description>I put the following into ~/.fonts.conf, restarted Xorg, and now everything looks good.
-{{ more }}
-{% highlight html %} &amp;lt;?xml version=&amp;ldquo;1.0&amp;rdquo;?&amp;gt; &amp;lt;!DOCTYPE fontconfig SYSTEM &amp;ldquo;fonts.dtd&amp;rdquo;&amp;gt;  true  true  rgb  false  hintslight  lcddefault    {% endhighlight %}</description>
-    </item>
-    
-    <item>
       <title>Lough Rea</title>
       <link>https://keithmillar.github.io/2013-08-17-lough-rea/</link>
       <pubDate>Sat, 17 Aug 2013 00:00:00 +0000</pubDate>
       
       <guid>https://keithmillar.github.io/2013-08-17-lough-rea/</guid>
       <description>The now annual wedding took place in Lough Rea this weekend. Being near Galway meant a long journey for Flo and myself, nearly 5 hours in total, at least the roads have improved and the trip wasn&amp;rsquo;t as arduous as it may have been.</description>
-    </item>
-    
-    <item>
-      <title>Convert pdf to jpg</title>
-      <link>https://keithmillar.github.io/2013-08-13-convert-pdf-to-jpg/</link>
-      <pubDate>Tue, 13 Aug 2013 00:00:00 +0000</pubDate>
-      
-      <guid>https://keithmillar.github.io/2013-08-13-convert-pdf-to-jpg/</guid>
-      <description>Converts a pdf to jpg increasing or maintaining quality (-density).
-{{ more }}
-{% highlight bash %} convert -density 300 file.pdf page.jpg {% endhighlight %}</description>
     </item>
     
     <item>
@@ -2035,15 +1982,6 @@ We even went as far as having another barbie this afternoon just because we coul
       <description>Almost perfect conditions tonight for the road race light winds warm and dry. This has to be one of the best marshalled club events I have ever been at thanks in part to the Peninsula Tri club.
 {{ more }}
 Numbers where down on the usual mob that descends on Kirkistown, probably because this was a road course with hills and sharp corners. There where 3 groups on the road Ladies &amp;amp; over 50s, over 40s and senior riders with each group riding to win a club jersey in their respective class.</description>
-    </item>
-    
-    <item>
-      <title>Browsing man pages in vim</title>
-      <link>https://keithmillar.github.io/2013-08-05-browsing-man-pages-in-vim/</link>
-      <pubDate>Mon, 05 Aug 2013 00:00:00 +0000</pubDate>
-      
-      <guid>https://keithmillar.github.io/2013-08-05-browsing-man-pages-in-vim/</guid>
-      <description>What&amp;rsquo;s it good for? The default key binding for K (that&amp;rsquo;s &amp;ldquo;shift-k&amp;rdquo; I guess) in vim is to look up the word under the cursor using the man command. The sad thing about this process is that vim gets replaced by less (or whatever pager you happen to be using), and that once you&amp;rsquo;re done reading the page, you have to press &amp;ldquo;Enter&amp;rdquo; one additional time to get back into vim and back to whatever you were doing.</description>
     </item>
     
     <item>
@@ -2067,18 +2005,6 @@ Four races where on the cards, Woman and over 70s, over 50s, over 40s, and up to
     </item>
     
     <item>
-      <title>Find and Replace</title>
-      <link>https://keithmillar.github.io/2013-07-29-find-and-replace/</link>
-      <pubDate>Mon, 29 Jul 2013 00:00:00 +0000</pubDate>
-      
-      <guid>https://keithmillar.github.io/2013-07-29-find-and-replace/</guid>
-      <description>{% highlight bash %} find . -name &amp;lsquo;*.html&amp;rsquo; | xargs perl -pi -e &amp;rsquo;s/oldtext/newtext/g&amp;rsquo; {% endhighlight %}
-\n adds a new line
-finds any text and replaces it with {% highlight bash %} find . -name &amp;lsquo;*.md&amp;rsquo; | xargs perl -pi -e &amp;rsquo;s/any text//g&amp;rsquo; {% endhighlight %} finds any text and replaces it with a new line and {{ more }} (\n being new line)
-{% highlight bash %} find .</description>
-    </item>
-    
-    <item>
       <title>Summer Picnic - Cloughy Rocks</title>
       <link>https://keithmillar.github.io/2013-07-28-summer-picnic/</link>
       <pubDate>Sun, 28 Jul 2013 00:00:00 +0000</pubDate>
@@ -2089,18 +2015,6 @@ St Patrick
 We watched some heavy showers crossing the country and headed off for our picnic.
 {{ more }}
 I thought that there was a car park near Strangford with good views of the lough, after some searching we found Cloughy Rocks a very small nature reserve with good views over Strangford Lough where we saw loads of seals basking on the rocks in the warm sunshine.</description>
-    </item>
-    
-    <item>
-      <title>Create a Symbolic Link</title>
-      <link>https://keithmillar.github.io/2013-07-27-create-a-symbolic-link/</link>
-      <pubDate>Sat, 27 Jul 2013 00:00:00 +0000</pubDate>
-      
-      <guid>https://keithmillar.github.io/2013-07-27-create-a-symbolic-link/</guid>
-      <description>{% highlight bash html %} ln -s [TARGET DIRECTORY OR FILE] ./[SHORTCUT] {% endhighlight %}
-For example
-{% highlight bash html %} ln -s /usr/local/apache/logs ./logs {% endhighlight %}
-This points a symbolic link &amp;ldquo;./logs&amp;rdquo; to &amp;ldquo;/usr/local/apache/logs&amp;rdquo;</description>
     </item>
     
     <item>
@@ -2154,18 +2068,6 @@ Naturally the school never maintain any thing so it is up to us to cut the trees
     </item>
     
     <item>
-      <title>Vim Indentation</title>
-      <link>https://keithmillar.github.io/2013-06-23-vim-indentation/</link>
-      <pubDate>Sun, 23 Jun 2013 00:00:00 +0000</pubDate>
-      
-      <guid>https://keithmillar.github.io/2013-06-23-vim-indentation/</guid>
-      <description>Ctrl-P toggles paste mode when in Insert mode do not include the two /
-{% highlight bash html %} set pastetoggle=/ &amp;ldquo;Ctrl-P toggles paste mode when in Insert&amp;rdquo; {% endhighlight %}
-{% highlight bash html %} :set paste {% endhighlight %}
-{% highlight bash html %} :set nopaste {% endhighlight %}</description>
-    </item>
-    
-    <item>
       <title>Ards Crit</title>
       <link>https://keithmillar.github.io/2013-06-19-ards-crit/</link>
       <pubDate>Wed, 19 Jun 2013 00:00:00 +0000</pubDate>
@@ -2182,18 +2084,6 @@ Naturally the school never maintain any thing so it is up to us to cut the trees
       <guid>https://keithmillar.github.io/2013-06-16-coastal-challenge/</guid>
       <description>Once again the club ran the Coast Challenge which saw 950+ cyclists take to the roads around the peninsula.
 {{ more }} The atmosphere at this years event was on of the best yet due in no part to the mild dry day and the new sign on area, which seemed to allow people to mingle better. Once again Flo and her sign on team did a great job and everything went very smoothly.</description>
-    </item>
-    
-    <item>
-      <title>Mutt Marking all New messages for deletion and clears all flags</title>
-      <link>https://keithmillar.github.io/2013-05-30-mutt-marks-all-new-messages-for-deletion-and-clears-all-flags/</link>
-      <pubDate>Thu, 30 May 2013 00:00:00 +0000</pubDate>
-      
-      <guid>https://keithmillar.github.io/2013-05-30-mutt-marks-all-new-messages-for-deletion-and-clears-all-flags/</guid>
-      <description>It first selects all messages marked “New” and untags them. Then, it selects all messages marked “Old” but unread and untags them as well. Finally, it marks them all as deleted
-{{ more }}
-{% highlight bash html %} macro index m &amp;ldquo;T~N;WNT~O;WO\CTd&amp;rdquo; &amp;ldquo;mark all messages read&amp;rdquo; {% endhighlight %}
-{% highlight bash html %}  = ; {% endhighlight %}</description>
     </item>
     
     <item>
@@ -2243,42 +2133,6 @@ Five races were scheduled for today but only two circuits of the Supersport clas
       <guid>https://keithmillar.github.io/2013-05-01-project-cannondale-complete/</guid>
       <description>The Wheels arrived this morning, fitted some tyres just needs a test spin.
 {{ more }}</description>
-    </item>
-    
-    <item>
-      <title>Copying between two Servers</title>
-      <link>https://keithmillar.github.io/2013-04-29-coyping-between-two-servers/</link>
-      <pubDate>Mon, 29 Apr 2013 00:00:00 +0000</pubDate>
-      
-      <guid>https://keithmillar.github.io/2013-04-29-coyping-between-two-servers/</guid>
-      <description>Copy a file or folders between two Servers. Rsync copies folders scp files
-sshfs to mount a remote dir locally
-{{ more }}
-{% highlight bash html linenos %} rsync -azvu &amp;ndash;rsh=&amp;lsquo;ssh -p32&amp;rsquo; basedir/ server2:destdir/ {% endhighlight %}
-{% highlight bash html linenos %} scp -P32  server2:destdir/ {% endhighlight %}
-{% highlight bash linenos %} sshfs @:fusermount -u mountpoint {% endhighlight %}</description>
-    </item>
-    
-    <item>
-      <title>Delete Trailing White Space</title>
-      <link>https://keithmillar.github.io/2013-04-26-delete-trailing-white-space/</link>
-      <pubDate>Fri, 26 Apr 2013 00:00:00 +0000</pubDate>
-      
-      <guid>https://keithmillar.github.io/2013-04-26-delete-trailing-white-space/</guid>
-      <description>Delete all trailing whitespace (at the end of each line) with:
-{{ more }} {% highlight bash html linenos %} :%s/\s+$// {% endhighlight %}</description>
-    </item>
-    
-    <item>
-      <title>Bash Search .inputrc</title>
-      <link>https://keithmillar.github.io/2013-04-24-bash-search-inputrc/</link>
-      <pubDate>Wed, 24 Apr 2013 00:00:00 +0000</pubDate>
-      
-      <guid>https://keithmillar.github.io/2013-04-24-bash-search-inputrc/</guid>
-      <description>With four lines, you&amp;rsquo;ll be able to type the beginning of the command (e.g. &amp;ldquo;cd&amp;rdquo;) and press the up arrow to see the most recent command containing the text you typed (e.g &amp;ldquo;cd ~/Library&amp;rdquo;).
-{{ more }}
-This makes it much easier to find what you&amp;rsquo;re looking for. To make this happen, create a text file called .inputrc in your home folder and put the following four lines inside:
-{% highlight bash html linenos %} &amp;ldquo;\e[A&amp;rdquo;: history-search-backward &amp;ldquo;\e[B&amp;rdquo;: history-search-forward set show-all-if-ambiguous on set completion-ignore-case on {% endhighlight %}</description>
     </item>
     
     <item>
@@ -2744,16 +2598,6 @@ After showers etc. we went to the Parlour at the Old Cross for tea, first time h
     </item>
     
     <item>
-      <title>Remove Spaces in File Names</title>
-      <link>https://keithmillar.github.io/2012-07-22-remove-spaces-in-file-names/</link>
-      <pubDate>Sun, 22 Jul 2012 00:00:00 +0000</pubDate>
-      
-      <guid>https://keithmillar.github.io/2012-07-22-remove-spaces-in-file-names/</guid>
-      <description>Removes spaces in file names and replaces them with
-{% highlight bash html %} for file in ; do mv &amp;ldquo;$file&amp;rdquo; echo $file | sed -e &#39;s/ */-/g&#39; -e &#39;s/_-_/-/g&#39;; done {% endhighlight %} or {% highlight bash html %} find . -depth -name &amp;lsquo; *&amp;rsquo; | while IFS= read -r f ; do mv -i &amp;ldquo;$f&amp;rdquo; &amp;ldquo;$(dirname &amp;ldquo;$f&amp;rdquo;)/$(basename &amp;ldquo;$f&amp;rdquo;|tr &amp;lsquo; &amp;rsquo; _)&amp;rdquo; ; done {% endhighlight %}</description>
-    </item>
-    
-    <item>
       <title>Wexford</title>
       <link>https://keithmillar.github.io/2012-07-15-wexford/</link>
       <pubDate>Sun, 15 Jul 2012 00:00:00 +0000</pubDate>
@@ -2809,16 +2653,6 @@ Using the old reliable Cannondale I went for coffee in Bowbells and got soaked o
     </item>
     
     <item>
-      <title>The X server will not be able to send the VDPAU driver name to libvdpau</title>
-      <link>https://keithmillar.github.io/2012-06-15-nvidia-vdpau/</link>
-      <pubDate>Fri, 15 Jun 2012 00:00:00 +0000</pubDate>
-      
-      <guid>https://keithmillar.github.io/2012-06-15-nvidia-vdpau/</guid>
-      <description>AFAIK that is because the dri and dri2 modules from xorg-x11(mesa) opengl setup are not in path. I worked around this by
-{% highlight bash html linenos %} Quote: Section &amp;ldquo;Files&amp;rdquo; ModulePath &amp;ldquo;/usr/lib/xorg/modules&amp;rdquo; ModulePath &amp;ldquo;/usr/lib/opengl/xorg-x11/extensions/&amp;rdquo; &amp;hellip; EndSection {% endhighlight %}</description>
-    </item>
-    
-    <item>
       <title>Cork and Dromoland Castle</title>
       <link>https://keithmillar.github.io/2012-06-11-cork-and-dromoland-castle/</link>
       <pubDate>Mon, 11 Jun 2012 00:00:00 +0000</pubDate>
@@ -2826,15 +2660,6 @@ Using the old reliable Cannondale I went for coffee in Bowbells and got soaked o
       <guid>https://keithmillar.github.io/2012-06-11-cork-and-dromoland-castle/</guid>
       <description>Travelled down to Cork on Wed 6th the journey was quite easy apart for the horrendous showers. As we were staying with John &amp;amp; Mairead it was straight to Carrigaline and a bit of a chat with J &amp;amp; M .
 Next morning we visited Oakdene met with the Kearneys and Flo’s mum then to Cork for some Shopping. I go a Nice Cycling top and Flo bought some ecco shoes we also got a Sony USB dvd drive .</description>
-    </item>
-    
-    <item>
-      <title>Reloading the Mutt Configuration File</title>
-      <link>https://keithmillar.github.io/2012-06-11-reloading-the-mutt-configuration-file/</link>
-      <pubDate>Mon, 11 Jun 2012 00:00:00 +0000</pubDate>
-      
-      <guid>https://keithmillar.github.io/2012-06-11-reloading-the-mutt-configuration-file/</guid>
-      <description>I find it a bit annoying that I have to re-enter my password twice every time I (re-)start mutt when I want to update my configuration file. Well, it appears I don&amp;rsquo;t need to be doing restarting mutt. The MuttWiki describes a way to re-load the configuration after mutt is running. Type the following into mutt after you&amp;rsquo;ve changed your muttrc file:  :source /path/to/your/muttrc Note that shell expansions may not work&amp;mdash;you should spell out the full path.</description>
     </item>
     
     <item>
@@ -2854,15 +2679,6 @@ Next morning we visited Oakdene met with the Kearneys and Flo’s mum then to Co
       <guid>https://keithmillar.github.io/2012-05-26-west-down-gp-and-daft-eddys/</guid>
       <description>West Down GP was run off on a lovely sunny day with a brutal wind which once again put a damper on the racing. A bunch speint it was with a down hill and tail wind assisted finish at over 40 mph I decided to let this one pass
 On Sunday Flo and I went out for a spin to Daft Eddys, it was a lovely day but Flo was a bit sick so we had to cut the run short.</description>
-    </item>
-    
-    <item>
-      <title>Gentoo Keyboard not working</title>
-      <link>https://keithmillar.github.io/2012-05-23-gentoo-keyboard-not-working/</link>
-      <pubDate>Wed, 23 May 2012 00:00:00 +0000</pubDate>
-      
-      <guid>https://keithmillar.github.io/2012-05-23-gentoo-keyboard-not-working/</guid>
-      <description>{% highlight bash html linenos %} emerge -1av $(qlist -IC x11-drivers/) {% endhighlight %}</description>
     </item>
     
     <item>
@@ -2962,43 +2778,12 @@ On sat we rode the club run to Portaferry, I was caught short and stopped but I 
     </item>
     
     <item>
-      <title>Portable Emacs </title>
-      <link>https://keithmillar.github.io/2012-03-08-portable-emacs/</link>
-      <pubDate>Thu, 08 Mar 2012 00:00:00 +0000</pubDate>
-      
-      <guid>https://keithmillar.github.io/2012-03-08-portable-emacs/</guid>
-      <description>While reading gmane.emacs.help I came accross this post where somebody asked how he could make a portable app out of Emacs&amp;rsquo; Windows version.
-So since I&amp;rsquo;m still at my internship (where they use Windows) and just recently obtained an iAudio X5L portable media player which behaves like an USB2 harddisk to the OS I wondered if I could manage to make Emacs portable.
-Short version: I could, the &amp;ldquo;hardest&amp;rdquo; part was in fact not even Emacs related, but my sheer lack of knowledge about Windows batch script.</description>
-    </item>
-    
-    <item>
       <title>Phoenix GP Wedding Anniversary</title>
       <link>https://keithmillar.github.io/2012-02-27-phoenix-gp-wedding-anniversary/</link>
       <pubDate>Mon, 27 Feb 2012 00:00:00 +0000</pubDate>
       
       <guid>https://keithmillar.github.io/2012-02-27-phoenix-gp-wedding-anniversary/</guid>
       <description>First race of the year, Phoenix GP At Nutts Corner all went very well felt good and I wasn&amp;rsquo;t tested at all until the end tuff drag up to the finish managed to hang on for 8th place. Not a hard course just hope I can continue in the same vain in the coming races. Great day for the club as the two Noels took first and second in the over 50&amp;rsquo;s race while Matty won the A3 race.</description>
-    </item>
-    
-    <item>
-      <title>Print From Mutt</title>
-      <link>https://keithmillar.github.io/2012-02-22-print-from-mutt/</link>
-      <pubDate>Wed, 22 Feb 2012 00:00:00 +0000</pubDate>
-      
-      <guid>https://keithmillar.github.io/2012-02-22-print-from-mutt/</guid>
-      <description>To print from Mutt install enscript and add the following lines to muttrc
-{% highlight bash %} set print=&amp;ldquo;yes&amp;rdquo; set print_split set print_command=&amp;ldquo;enscript &amp;ndash;portrait &amp;ndash;header=&amp;lsquo;%n@%M:%d|%F %C|Page ($%/$=)&amp;rsquo; &amp;ndash;media=A4 &amp;ndash;silent &amp;ndash;encoding=88591 &amp;ndash;pretty-print=mail &amp;ndash;printer=HP-Deskjet-USB&amp;rdquo; set print_decode {% endhighlight %}</description>
-    </item>
-    
-    <item>
-      <title>To use emacs as the mail editor with mutt</title>
-      <link>https://keithmillar.github.io/2012-02-22-emacs-as-the-mail-editor-with-mutt/</link>
-      <pubDate>Wed, 22 Feb 2012 00:00:00 +0000</pubDate>
-      
-      <guid>https://keithmillar.github.io/2012-02-22-emacs-as-the-mail-editor-with-mutt/</guid>
-      <description>Add the following line to your muttrc file: {% highlight bash %} set editor = &amp;ldquo;/usr/bin/emacs -nw %s&amp;rdquo; {% endhighlight %}
-Add the following line to your .emacs file: {% highlight bash %} (load &amp;ldquo;~/post.el&amp;rdquo;) {% endhighlight %}</description>
     </item>
     
     <item>
@@ -3068,16 +2853,6 @@ Did my Bowbell route this morning very windy once again but it turned out not as
     </item>
     
     <item>
-      <title>Cron Info</title>
-      <link>https://keithmillar.github.io/2012-01-20-cron-info/</link>
-      <pubDate>Fri, 20 Jan 2012 00:00:00 +0000</pubDate>
-      
-      <guid>https://keithmillar.github.io/2012-01-20-cron-info/</guid>
-      <description>{% highlight bash html linenos %}
-Minute Hour Day of Month Month Day of Week Command (0-59) (0-23) (1-31) (1-12 or Jan-Dec) (0-6 or Sun-Sat) 0 2 12 * 0,6 /usr/bin/find  {% endhighlight %}</description>
-    </item>
-    
-    <item>
       <title>Northdowncc updates and Scripting </title>
       <link>https://keithmillar.github.io/2012-01-20-northdowncc-updates-and-scripting/</link>
       <pubDate>Fri, 20 Jan 2012 00:00:00 +0000</pubDate>
@@ -3085,17 +2860,6 @@ Minute Hour Day of Month Month Day of Week Command (0-59) (0-23) (1-31) (1-12 or
       <guid>https://keithmillar.github.io/2012-01-20-northdowncc-updates-and-scripting/</guid>
       <description>Updated the members services section of the website today, as normal ended up doing it twice first time to prove that I did&amp;rsquo;nt like what I had and then to improve on that.
 For what ever reason I thought I would try and get a script to upload this blog to fastmail using NCFTPP found a nice wee bash script then spent several hours trying to get it working, eventually success and it seemed to work well.</description>
-    </item>
-    
-    <item>
-      <title>Kernel Upgrade</title>
-      <link>https://keithmillar.github.io/2012-01-18-kernel-upgrade/</link>
-      <pubDate>Wed, 18 Jan 2012 00:00:00 +0000</pubDate>
-      
-      <guid>https://keithmillar.github.io/2012-01-18-kernel-upgrade/</guid>
-      <description>emerge -P gentoo-sources to remove oldest kernel before installing latest kernel
-In most cases, temporary files used during compilation will still remain under the appropriate source directory under /usr/src. It is safe to remove these using rm.
-You can also safely delete any modules that were used by this kernel. This can be done by removing the appropriate directories under /lib/modules/ that relate to the kernel versions you are removing. Be careful not to delete modules belonging to kernels that you still use!</description>
     </item>
     
     <item>

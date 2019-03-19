@@ -6,29 +6,10 @@
     <description>Recent content in Gentoo on Keith&#39;s Diary and Other Stuff</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 15 Jun 2012 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Jan 2012 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://keithmillar.github.io/tags/gentoo/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>The X server will not be able to send the VDPAU driver name to libvdpau</title>
-      <link>https://keithmillar.github.io/2012-06-15-nvidia-vdpau/</link>
-      <pubDate>Fri, 15 Jun 2012 00:00:00 +0000</pubDate>
-      
-      <guid>https://keithmillar.github.io/2012-06-15-nvidia-vdpau/</guid>
-      <description>AFAIK that is because the dri and dri2 modules from xorg-x11(mesa) opengl setup are not in path. I worked around this by
-{% highlight bash html linenos %} Quote: Section &amp;ldquo;Files&amp;rdquo; ModulePath &amp;ldquo;/usr/lib/xorg/modules&amp;rdquo; ModulePath &amp;ldquo;/usr/lib/opengl/xorg-x11/extensions/&amp;rdquo; &amp;hellip; EndSection {% endhighlight %}</description>
-    </item>
-    
-    <item>
-      <title>Gentoo Keyboard not working</title>
-      <link>https://keithmillar.github.io/2012-05-23-gentoo-keyboard-not-working/</link>
-      <pubDate>Wed, 23 May 2012 00:00:00 +0000</pubDate>
-      
-      <guid>https://keithmillar.github.io/2012-05-23-gentoo-keyboard-not-working/</guid>
-      <description>{% highlight bash html linenos %} emerge -1av $(qlist -IC x11-drivers/) {% endhighlight %}</description>
-    </item>
     
     <item>
       <title>Gentoo Emerge Hell</title>
@@ -37,17 +18,6 @@
       
       <guid>https://keithmillar.github.io/2012-01-26-gentoo-emerge-hell/</guid>
       <description>As normal with Gentoo when things start to go wrong they just keep getting worse. First kdepy4 gave trouble had to downgrade sip, that sort of fixed that. Then kdepim4 wouldn&amp;rsquo;t compile, ended up leaving it, hopefully it will be fixed in the next few days. Must spend some time tidying up portage keywords etc.</description>
-    </item>
-    
-    <item>
-      <title>Kernel Upgrade</title>
-      <link>https://keithmillar.github.io/2012-01-18-kernel-upgrade/</link>
-      <pubDate>Wed, 18 Jan 2012 00:00:00 +0000</pubDate>
-      
-      <guid>https://keithmillar.github.io/2012-01-18-kernel-upgrade/</guid>
-      <description>emerge -P gentoo-sources to remove oldest kernel before installing latest kernel
-In most cases, temporary files used during compilation will still remain under the appropriate source directory under /usr/src. It is safe to remove these using rm.
-You can also safely delete any modules that were used by this kernel. This can be done by removing the appropriate directories under /lib/modules/ that relate to the kernel versions you are removing. Be careful not to delete modules belonging to kernels that you still use!</description>
     </item>
     
   </channel>

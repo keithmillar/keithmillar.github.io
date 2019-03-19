@@ -858,16 +858,6 @@
   </url>
   
   <url>
-    <loc>https://keithmillar.github.io/2014-03-08-ruby-gem/</loc>
-    <lastmod>2014-03-08T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://keithmillar.github.io/2014-03-07-screen-grab/</loc>
-    <lastmod>2014-03-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://keithmillar.github.io/2014-02-16-river-quoile/</loc>
     <lastmod>2014-02-16T00:00:00+00:00</lastmod>
   </url>
@@ -880,11 +870,6 @@
   <url>
     <loc>https://keithmillar.github.io/2014-01-21-jekyll-and-git-one-year-on/</loc>
     <lastmod>2014-01-21T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://keithmillar.github.io/2014-01-16-virtualbox-tips-n-tricks/</loc>
-    <lastmod>2014-01-16T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -953,28 +938,13 @@
   </url>
   
   <url>
-    <loc>https://keithmillar.github.io/2013-08-20-improve-debian-fonts/</loc>
-    <lastmod>2013-08-20T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://keithmillar.github.io/2013-08-17-lough-rea/</loc>
     <lastmod>2013-08-17T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://keithmillar.github.io/2013-08-13-convert-pdf-to-jpg/</loc>
-    <lastmod>2013-08-13T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://keithmillar.github.io/2013-08-07-ardill-and-patterson-club-championships/</loc>
     <lastmod>2013-08-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://keithmillar.github.io/2013-08-05-browsing-man-pages-in-vim/</loc>
-    <lastmod>2013-08-05T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -988,18 +958,8 @@
   </url>
   
   <url>
-    <loc>https://keithmillar.github.io/2013-07-29-find-and-replace/</loc>
-    <lastmod>2013-07-29T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://keithmillar.github.io/2013-07-28-summer-picnic/</loc>
     <lastmod>2013-07-28T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://keithmillar.github.io/2013-07-27-create-a-symbolic-link/</loc>
-    <lastmod>2013-07-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -1028,11 +988,6 @@
   </url>
   
   <url>
-    <loc>https://keithmillar.github.io/2013-06-23-vim-indentation/</loc>
-    <lastmod>2013-06-23T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://keithmillar.github.io/2013-06-19-ards-crit/</loc>
     <lastmod>2013-06-19T00:00:00+00:00</lastmod>
   </url>
@@ -1040,11 +995,6 @@
   <url>
     <loc>https://keithmillar.github.io/2013-06-16-coastal-challenge/</loc>
     <lastmod>2013-06-16T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://keithmillar.github.io/2013-05-30-mutt-marks-all-new-messages-for-deletion-and-clears-all-flags/</loc>
-    <lastmod>2013-05-30T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -1070,21 +1020,6 @@
   <url>
     <loc>https://keithmillar.github.io/2013-05-01-project-cannondale-complete/</loc>
     <lastmod>2013-05-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://keithmillar.github.io/2013-04-29-coyping-between-two-servers/</loc>
-    <lastmod>2013-04-29T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://keithmillar.github.io/2013-04-26-delete-trailing-white-space/</loc>
-    <lastmod>2013-04-26T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://keithmillar.github.io/2013-04-24-bash-search-inputrc/</loc>
-    <lastmod>2013-04-24T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -1313,11 +1248,6 @@
   </url>
   
   <url>
-    <loc>https://keithmillar.github.io/2012-07-22-remove-spaces-in-file-names/</loc>
-    <lastmod>2012-07-22T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://keithmillar.github.io/2012-07-15-wexford/</loc>
     <lastmod>2012-07-15T00:00:00+00:00</lastmod>
   </url>
@@ -1348,17 +1278,7 @@
   </url>
   
   <url>
-    <loc>https://keithmillar.github.io/2012-06-15-nvidia-vdpau/</loc>
-    <lastmod>2012-06-15T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://keithmillar.github.io/2012-06-11-cork-and-dromoland-castle/</loc>
-    <lastmod>2012-06-11T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://keithmillar.github.io/2012-06-11-reloading-the-mutt-configuration-file/</loc>
     <lastmod>2012-06-11T00:00:00+00:00</lastmod>
   </url>
   
@@ -1370,11 +1290,6 @@
   <url>
     <loc>https://keithmillar.github.io/2012-05-26-west-down-gp-and-daft-eddys/</loc>
     <lastmod>2012-05-26T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://keithmillar.github.io/2012-05-23-gentoo-keyboard-not-working/</loc>
-    <lastmod>2012-05-23T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -1428,23 +1343,8 @@
   </url>
   
   <url>
-    <loc>https://keithmillar.github.io/2012-03-08-portable-emacs/</loc>
-    <lastmod>2012-03-08T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://keithmillar.github.io/2012-02-27-phoenix-gp-wedding-anniversary/</loc>
     <lastmod>2012-02-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://keithmillar.github.io/2012-02-22-print-from-mutt/</loc>
-    <lastmod>2012-02-22T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://keithmillar.github.io/2012-02-22-emacs-as-the-mail-editor-with-mutt/</loc>
-    <lastmod>2012-02-22T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -1483,18 +1383,8 @@
   </url>
   
   <url>
-    <loc>https://keithmillar.github.io/2012-01-20-cron-info/</loc>
-    <lastmod>2012-01-20T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://keithmillar.github.io/2012-01-20-northdowncc-updates-and-scripting/</loc>
     <lastmod>2012-01-20T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://keithmillar.github.io/2012-01-18-kernel-upgrade/</loc>
-    <lastmod>2012-01-18T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -2160,7 +2050,7 @@
   
   <url>
     <loc>https://keithmillar.github.io/tags/computing/</loc>
-    <lastmod>2014-03-07T00:00:00+00:00</lastmod>
+    <lastmod>2014-01-29T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -2208,7 +2098,7 @@
   
   <url>
     <loc>https://keithmillar.github.io/tags/emacs/</loc>
-    <lastmod>2012-03-08T00:00:00+00:00</lastmod>
+    <lastmod>2012-01-30T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -2249,14 +2139,8 @@
   </url>
   
   <url>
-    <loc>https://keithmillar.github.io/tags/gem/</loc>
-    <lastmod>2014-03-08T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://keithmillar.github.io/tags/gentoo/</loc>
-    <lastmod>2012-06-15T00:00:00+00:00</lastmod>
+    <lastmod>2012-01-26T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -2310,7 +2194,7 @@
   
   <url>
     <loc>https://keithmillar.github.io/tags/linux/</loc>
-    <lastmod>2013-08-20T00:00:00+00:00</lastmod>
+    <lastmod>2012-01-30T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -2357,12 +2241,6 @@
   </url>
   
   <url>
-    <loc>https://keithmillar.github.io/tags/mutt/</loc>
-    <lastmod>2013-05-30T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://keithmillar.github.io/tags/photography/</loc>
     <lastmod>2019-01-21T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -2383,12 +2261,6 @@
   <url>
     <loc>https://keithmillar.github.io/tags/refurb/</loc>
     <lastmod>2010-11-22T20:07:35+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://keithmillar.github.io/tags/ruby/</loc>
-    <lastmod>2014-03-08T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -2419,18 +2291,6 @@
   <url>
     <loc>https://keithmillar.github.io/tags/travel/</loc>
     <lastmod>2018-10-30T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://keithmillar.github.io/tags/vim/</loc>
-    <lastmod>2013-08-05T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://keithmillar.github.io/tags/virtual/</loc>
-    <lastmod>2014-01-16T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
