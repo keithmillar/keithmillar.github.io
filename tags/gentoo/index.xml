@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Gentoo on Keith&#39;s Diary and Other Stuff</title>
+    <title>gentoo on Keith&#39;s Diary and Other Stuff</title>
     <link>https://keithmillar.github.io/tags/gentoo/</link>
-    <description>Recent content in Gentoo on Keith&#39;s Diary and Other Stuff</description>
+    <description>Recent content in gentoo on Keith&#39;s Diary and Other Stuff</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 26 Jan 2012 00:00:00 +0000</lastBuildDate>
