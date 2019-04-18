@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>water on Keith&#39;s Diary and Other Stuff</title>
+    <link>https://keithmillar.github.io/tags/water/</link>
+    <description>Recent content in water on Keith&#39;s Diary and Other Stuff</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 25 Mar 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://keithmillar.github.io/tags/water/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Water Delivery</title>
+      <link>https://keithmillar.github.io/2019-03-25-water-delivery/</link>
+      <pubDate>Mon, 25 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://keithmillar.github.io/2019-03-25-water-delivery/</guid>
+      <description>&lt;p&gt;After cleaning the pool our 10,000 litres of water arrive this evening.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
