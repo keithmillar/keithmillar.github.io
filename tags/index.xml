@@ -6,15 +6,24 @@
     <description>Recent content in Tags on Keith&#39;s Diary and Other Stuff</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 14 May 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 19 May 2019 16:59:22 +0200</lastBuildDate>
     
 	<atom:link href="https://keithmillar.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>change me</title>
+      <link>https://keithmillar.github.io/tags/change-me/</link>
+      <pubDate>Sun, 19 May 2019 16:59:22 +0200</pubDate>
+      
+      <guid>https://keithmillar.github.io/tags/change-me/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>spain</title>
       <link>https://keithmillar.github.io/tags/spain/</link>
-      <pubDate>Tue, 14 May 2019 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 19 May 2019 16:33:28 +0200</pubDate>
       
       <guid>https://keithmillar.github.io/tags/spain/</guid>
       <description></description>
@@ -23,7 +32,7 @@
     <item>
       <title>travel</title>
       <link>https://keithmillar.github.io/tags/travel/</link>
-      <pubDate>Tue, 14 May 2019 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 19 May 2019 16:33:28 +0200</pubDate>
       
       <guid>https://keithmillar.github.io/tags/travel/</guid>
       <description></description>
@@ -314,15 +323,6 @@
       <pubDate>Sun, 18 Sep 2016 00:00:00 +0000</pubDate>
       
       <guid>https://keithmillar.github.io/tags/blu/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>change me</title>
-      <link>https://keithmillar.github.io/tags/change-me/</link>
-      <pubDate>Tue, 02 Aug 2016 00:00:00 +0000</pubDate>
-      
-      <guid>https://keithmillar.github.io/tags/change-me/</guid>
       <description></description>
     </item>
     
