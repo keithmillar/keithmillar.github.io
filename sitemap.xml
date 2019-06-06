@@ -47,6 +47,18 @@
   </url>
   
   <url>
+    <loc>https://keithmillar.github.io/tags/hello/</loc>
+    <lastmod>2019-05-17T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://keithmillar.github.io/tags/travel/</loc>
+    <lastmod>2019-05-17T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://keithmillar.github.io/2019-05-16-san-sebastion-lembras/</loc>
     <lastmod>2019-05-16T00:00:00+00:00</lastmod>
   </url>
@@ -60,12 +72,6 @@
   <url>
     <loc>https://keithmillar.github.io/2019-05-15-turis-san-sebastion/</loc>
     <lastmod>2019-05-15T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://keithmillar.github.io/tags/travel/</loc>
-    <lastmod>2019-05-15T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
