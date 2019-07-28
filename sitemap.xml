@@ -3,13 +3,23 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://keithmillar.github.io/blog/</loc>
-    <lastmod>2019-07-11T00:00:00+00:00</lastmod>
-    <priority>0</priority>
+    <loc>https://keithmillar.github.io/collection/books/</loc>
+    <lastmod>2019-07-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://keithmillar.github.io/collection/</loc>
+    <lastmod>2019-07-25T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://keithmillar.github.io/</loc>
+    <lastmod>2019-07-25T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://keithmillar.github.io/blog/</loc>
     <lastmod>2019-07-11T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -67,16 +77,6 @@
   
   <url>
     <loc>https://keithmillar.github.io/collection/author/</loc>
-    <lastmod>2019-06-03T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://keithmillar.github.io/collection/books/</loc>
-    <lastmod>2019-06-03T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://keithmillar.github.io/collection/</loc>
     <lastmod>2019-06-03T00:00:00+00:00</lastmod>
   </url>
   
