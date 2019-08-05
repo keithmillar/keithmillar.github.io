@@ -6,15 +6,24 @@
     <description>Recent content on Keith&#39;s Diary and Other Stuff</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 25 Jul 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 05 Aug 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://keithmillar.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>Books by Author</title>
+      <link>https://keithmillar.github.io/collection/author/</link>
+      <pubDate>Mon, 05 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://keithmillar.github.io/collection/author/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Books by Date</title>
       <link>https://keithmillar.github.io/collection/books/</link>
-      <pubDate>Thu, 25 Jul 2019 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 05 Aug 2019 00:00:00 +0000</pubDate>
       
       <guid>https://keithmillar.github.io/collection/books/</guid>
       <description></description>
@@ -47,15 +56,6 @@ Great day, fantastic venue, super food and two good bands providing the music.&l
       
       <guid>https://keithmillar.github.io/2019-06-18-sheilas-birthday/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;https://keithmillar.github.io/images/2019/2019-06-18-sheilas-birthday.jpg&#34; alt=&#34;Sheilas Birthday&#34; /&gt;&lt;strong&gt;Sheilas Birthday&lt;/strong&gt;&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Books by Author</title>
-      <link>https://keithmillar.github.io/collection/author/</link>
-      <pubDate>Mon, 03 Jun 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://keithmillar.github.io/collection/author/</guid>
-      <description></description>
     </item>
     
     <item>
@@ -122,21 +122,7 @@ Lotti had a 09:30 with the vet, once that was done we called into the campingcar
       <description>&lt;h1 id=&#34;day-one&#34;&gt;Day One&lt;/h1&gt;
 
 &lt;p&gt;&lt;strong&gt;Montroy to Donostia /San Sebastian&lt;/strong&gt;&lt;br /&gt;
-365 miles&lt;/p&gt;
-
-&lt;p&gt;A7 to Port de Sagunt&lt;br /&gt;
-A23/N234 to Teruel&lt;br /&gt;
-A23 Carinena, Aragon&lt;br /&gt;
-A220 La Almunia de Doña Godina&lt;br /&gt;
-A121 Magallon&lt;br /&gt;
-A122 N232 A68 Fontellas&lt;br /&gt;
-AP15 N113 N121 Tafalla&lt;br /&gt;
-AP15 N121 Campanas&lt;br /&gt;
-N121 Noain&lt;br /&gt;
-AP15 A15 around Pamplona&lt;br /&gt;
-N240A AP15 A15 Donostia / San Sebastian&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Parking Donostia Arena N 43.29742 W 1.96958&lt;/strong&gt;&lt;/p&gt;</description>
+365 miles&lt;/p&gt;</description>
     </item>
     
     <item>
