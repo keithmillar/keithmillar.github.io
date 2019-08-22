@@ -6,10 +6,19 @@
     <description>Recent content in Tags on Keith&#39;s Diary and Other Stuff</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 11 Jul 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 22 Aug 2019 18:43:46 +0100</lastBuildDate>
     
 	<atom:link href="https://keithmillar.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>garden</title>
+      <link>https://keithmillar.github.io/tags/garden/</link>
+      <pubDate>Thu, 22 Aug 2019 18:43:46 +0100</pubDate>
+      
+      <guid>https://keithmillar.github.io/tags/garden/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>cycling</title>
@@ -449,15 +458,6 @@
       <pubDate>Tue, 20 May 2014 00:00:00 +0000</pubDate>
       
       <guid>https://keithmillar.github.io/tags/bird/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>garden</title>
-      <link>https://keithmillar.github.io/tags/garden/</link>
-      <pubDate>Tue, 20 May 2014 00:00:00 +0000</pubDate>
-      
-      <guid>https://keithmillar.github.io/tags/garden/</guid>
       <description></description>
     </item>
     

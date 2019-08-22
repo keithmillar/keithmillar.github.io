@@ -3,6 +3,35 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://keithmillar.github.io/blog/</loc>
+    <lastmod>2019-08-22T18:43:46+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://keithmillar.github.io/2019-08-22-garden-upgrade/</loc>
+    <lastmod>2019-08-22T18:43:46+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://keithmillar.github.io/</loc>
+    <lastmod>2019-08-22T18:43:46+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://keithmillar.github.io/tags/</loc>
+    <lastmod>2019-08-22T18:43:46+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://keithmillar.github.io/tags/garden/</loc>
+    <lastmod>2019-08-22T18:43:46+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://keithmillar.github.io/collection/books/</loc>
     <lastmod>2019-08-20T00:00:00+00:00</lastmod>
   </url>
@@ -13,26 +42,8 @@
   </url>
   
   <url>
-    <loc>https://keithmillar.github.io/</loc>
-    <lastmod>2019-08-20T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://keithmillar.github.io/collection/author/</loc>
     <lastmod>2019-08-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://keithmillar.github.io/blog/</loc>
-    <lastmod>2019-07-11T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://keithmillar.github.io/tags/</loc>
-    <lastmod>2019-07-11T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -1225,12 +1236,6 @@
   
   <url>
     <loc>https://keithmillar.github.io/tags/bird/</loc>
-    <lastmod>2014-05-20T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://keithmillar.github.io/tags/garden/</loc>
     <lastmod>2014-05-20T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
