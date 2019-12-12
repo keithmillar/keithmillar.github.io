@@ -6,10 +6,19 @@
     <description>Recent content on Keith&#39;s Diary and Other Stuff</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 17 Nov 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 12 Dec 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://keithmillar.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Books by Date</title>
+      <link>https://keithmillar.github.io/collection/books/</link>
+      <pubDate>Thu, 12 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://keithmillar.github.io/collection/books/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Moto GP</title>
@@ -18,15 +27,6 @@
       
       <guid>https://keithmillar.github.io/2019-11-17-motogp/</guid>
       <description>&lt;p&gt;2019-11-15 Motogp Practice. We all got up bright and early to get to the track in good time. Watched both Motogp sessions ebikes and Motogp, bright sunny day but bitterly cold wind. Also some retail therapy.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Books by Date</title>
-      <link>https://keithmillar.github.io/collection/books/</link>
-      <pubDate>Wed, 13 Nov 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://keithmillar.github.io/collection/books/</guid>
-      <description></description>
     </item>
     
     <item>
