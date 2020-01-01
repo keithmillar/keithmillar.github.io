@@ -3,6 +3,31 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://keithmillar.github.io/blog/</loc>
+    <lastmod>2019-12-31T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://keithmillar.github.io/2019-12-31-december-round-up/</loc>
+    <lastmod>2019-12-31T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://keithmillar.github.io/</loc>
+    <lastmod>2019-12-31T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://keithmillar.github.io/tags/spain/</loc>
+    <lastmod>2019-12-31T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://keithmillar.github.io/tags/</loc>
+    <lastmod>2019-12-31T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://keithmillar.github.io/collection/books/</loc>
     <lastmod>2019-12-30T00:00:00+00:00</lastmod>
   </url>
@@ -13,13 +38,13 @@
   </url>
   
   <url>
-    <loc>https://keithmillar.github.io/</loc>
-    <lastmod>2019-12-30T00:00:00+00:00</lastmod>
+    <loc>https://keithmillar.github.io/tags/family/</loc>
+    <lastmod>2019-11-29T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://keithmillar.github.io/blog/</loc>
-    <lastmod>2019-11-17T00:00:00+00:00</lastmod>
+    <loc>https://keithmillar.github.io/2019-11-20-garth-helena-visit/</loc>
+    <lastmod>2019-11-29T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -33,22 +58,12 @@
   </url>
   
   <url>
-    <loc>https://keithmillar.github.io/tags/</loc>
-    <lastmod>2019-11-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://keithmillar.github.io/tags/montroy/</loc>
     <lastmod>2019-10-31T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://keithmillar.github.io/2019-10-31-our-first-month-back-in-montroy/</loc>
-    <lastmod>2019-10-31T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://keithmillar.github.io/tags/spain/</loc>
     <lastmod>2019-10-31T00:00:00+00:00</lastmod>
   </url>
   
@@ -1514,11 +1529,6 @@
   
   <url>
     <loc>https://keithmillar.github.io/2012-12-25-christmas-day/</loc>
-    <lastmod>2012-12-25T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://keithmillar.github.io/tags/family/</loc>
     <lastmod>2012-12-25T00:00:00+00:00</lastmod>
   </url>
   
