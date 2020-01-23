@@ -6,10 +6,19 @@
     <description>Recent content on Keith&#39;s Diary and Other Stuff</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 31 Dec 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 23 Jan 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://keithmillar.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Books by Date</title>
+      <link>https://keithmillar.github.io/collection/books/</link>
+      <pubDate>Thu, 23 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://keithmillar.github.io/collection/books/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>December Round Up</title>
@@ -4237,15 +4246,6 @@ Waited for about an hour and where enterined by the kids having a ball writing o
       
       <guid>https://keithmillar.github.io/2009-08-09-dromara-hilly-125km/</guid>
       <description>Rode the Dromara Hilly 125 today after much debate, woke to pleasant morning so I had no more excuses. Not having made any travel arrangements with the club I drove down on my own and was pleased that Eric, Ian, Trevor, Noel, Harry and the Old Pro (Brian) had also made the trip, content now that I would have some good wheels to sit on I started looking forward to the days ride.</description>
-    </item>
-    
-    <item>
-      <title>Books by Date</title>
-      <link>https://keithmillar.github.io/collection/books/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://keithmillar.github.io/collection/books/</guid>
-      <description></description>
     </item>
     
   </channel>
