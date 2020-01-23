@@ -6,19 +6,10 @@
     <description>Recent content in Collections on Keith&#39;s Diary and Other Stuff</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 18 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 15 Feb 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://keithmillar.github.io/collection/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Books by Date</title>
-      <link>https://keithmillar.github.io/collection/books/</link>
-      <pubDate>Sat, 18 Jan 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://keithmillar.github.io/collection/books/</guid>
-      <description></description>
-    </item>
     
     <item>
       <title>Bicycle Parts</title>
@@ -29,6 +20,15 @@
       <description>*Description *Quantity *Brand *Condition *MTB / Road / Cyclocross
 Big Blue Box
  SPD Pedals single sided 2 Shamino Used Road Pedal accessories 1 Speedplay New Road Small pumps 3 New Pumps 2 Blackburn Used Road 160mm Disc 1 New MTB Lights 1 Hope Used MTB Compact chain set with bearings 1 FSA Used Road Chain Set 1 Shimano Used Road Speedplay pedals 2 Speedplay Used Road Skewers Used Road Brake levers 2 Used Cyclocross Quill stem 1 Used Road 27.</description>
+    </item>
+    
+    <item>
+      <title>Books by Date</title>
+      <link>https://keithmillar.github.io/collection/books/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://keithmillar.github.io/collection/books/</guid>
+      <description></description>
     </item>
     
   </channel>
