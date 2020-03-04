@@ -6,10 +6,19 @@
     <description>Recent content on Keith&#39;s Diary and Other Stuff</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 27 Feb 2020 15:56:15 +0100</lastBuildDate>
+    <lastBuildDate>Wed, 04 Mar 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://keithmillar.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Books by Date</title>
+      <link>https://keithmillar.github.io/collection/books/</link>
+      <pubDate>Wed, 04 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://keithmillar.github.io/collection/books/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Wedding Anniversary</title>
@@ -18,15 +27,6 @@
       
       <guid>https://keithmillar.github.io/2020-02-27-wedding-anniversary/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;https://keithmillar.github.io/images/2020/2020-02-27-wedding-anniversary.jpg&#34; alt=&#34;27 Years&#34;&gt;&lt;strong&gt;27 Years&lt;/strong&gt;&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Books by Date</title>
-      <link>https://keithmillar.github.io/collection/books/</link>
-      <pubDate>Wed, 19 Feb 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://keithmillar.github.io/collection/books/</guid>
-      <description></description>
     </item>
     
     <item>
