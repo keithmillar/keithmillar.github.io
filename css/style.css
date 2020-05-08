@@ -58,6 +58,7 @@ a, a:visited {
 a:hover	{
 	color: hotpink;
 	}
+
 <style>
 
 /* Image Display */
@@ -83,4 +84,3 @@ img { max-width:98%; /* max-width:128%; */
 	height: 16px:
 }
 </style>
-
