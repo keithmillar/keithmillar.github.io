@@ -6,10 +6,19 @@
     <description>Recent content on Keith&#39;s Diary and Other Stuff</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 07 May 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 16 May 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://keithmillar.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Books by Date</title>
+      <link>https://keithmillar.github.io/collection/books/</link>
+      <pubDate>Sat, 16 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://keithmillar.github.io/collection/books/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Weather</title>
@@ -27,15 +36,6 @@
       
       <guid>https://keithmillar.github.io/2020-05-06-slowly-getting-back-to-normal/</guid>
       <description>&lt;p&gt;This is the first week since lock down began that we can legitimately leave the house for exercise, so we have managed a couple of walks and some MTB rides&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Books by Date</title>
-      <link>https://keithmillar.github.io/collection/books/</link>
-      <pubDate>Sun, 03 May 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://keithmillar.github.io/collection/books/</guid>
-      <description></description>
     </item>
     
     <item>
