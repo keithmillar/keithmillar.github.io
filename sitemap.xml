@@ -3,6 +3,41 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://keithmillar.github.io/blog/</loc>
+    <lastmod>2020-06-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://keithmillar.github.io/tags/coronavirus/</loc>
+    <lastmod>2020-06-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://keithmillar.github.io/tags/covid-19/</loc>
+    <lastmod>2020-06-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://keithmillar.github.io/</loc>
+    <lastmod>2020-06-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://keithmillar.github.io/2020-06-01-resuming-normality/</loc>
+    <lastmod>2020-06-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://keithmillar.github.io/tags/spain/</loc>
+    <lastmod>2020-06-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://keithmillar.github.io/tags/</loc>
+    <lastmod>2020-06-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://keithmillar.github.io/collection/books/</loc>
     <lastmod>2020-05-29T00:00:00+00:00</lastmod>
   </url>
@@ -13,8 +48,13 @@
   </url>
   
   <url>
-    <loc>https://keithmillar.github.io/</loc>
-    <lastmod>2020-05-29T00:00:00+00:00</lastmod>
+    <loc>https://keithmillar.github.io/tags/casita/</loc>
+    <lastmod>2020-05-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://keithmillar.github.io/2020-05-26-our-new-casita/</loc>
+    <lastmod>2020-05-26T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -23,27 +63,7 @@
   </url>
   
   <url>
-    <loc>https://keithmillar.github.io/blog/</loc>
-    <lastmod>2020-05-06T14:11:52+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://keithmillar.github.io/tags/coronavirus/</loc>
-    <lastmod>2020-05-06T14:11:52+02:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://keithmillar.github.io/2020-05-06-slowly-getting-back-to-normal/</loc>
-    <lastmod>2020-05-06T14:11:52+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://keithmillar.github.io/tags/spain/</loc>
-    <lastmod>2020-05-06T14:11:52+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://keithmillar.github.io/tags/</loc>
     <lastmod>2020-05-06T14:11:52+02:00</lastmod>
   </url>
   
