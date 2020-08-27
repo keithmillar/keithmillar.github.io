@@ -3,17 +3,27 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://keithmillar.github.io/collection/</loc>
+    <lastmod>2020-08-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://keithmillar.github.io/</loc>
+    <lastmod>2020-08-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://keithmillar.github.io/collection/weather/</loc>
+    <lastmod>2020-08-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://keithmillar.github.io/blog/</loc>
     <lastmod>2020-08-24T18:31:07+02:00</lastmod>
   </url>
   
   <url>
     <loc>https://keithmillar.github.io/tags/cycling/</loc>
-    <lastmod>2020-08-24T18:31:07+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://keithmillar.github.io/</loc>
     <lastmod>2020-08-24T18:31:07+02:00</lastmod>
   </url>
   
@@ -38,12 +48,7 @@
   </url>
   
   <url>
-    <loc>https://keithmillar.github.io/collection/</loc>
-    <lastmod>2020-08-24T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://keithmillar.github.io/collection/weather/</loc>
+    <loc>https://keithmillar.github.io/2020-08-18-uralita-removal/</loc>
     <lastmod>2020-08-18T00:00:00+00:00</lastmod>
   </url>
   
