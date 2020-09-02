@@ -6,10 +6,19 @@
     <description>Recent content on Keith&#39;s Diary and Other Stuff</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 31 Aug 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 02 Sep 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://keithmillar.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Weather</title>
+      <link>https://keithmillar.github.io/collection/weather/</link>
+      <pubDate>Wed, 02 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://keithmillar.github.io/collection/weather/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Books by Date</title>
@@ -21,12 +30,12 @@
     </item>
     
     <item>
-      <title>Weather</title>
-      <link>https://keithmillar.github.io/collection/weather/</link>
-      <pubDate>Thu, 27 Aug 2020 00:00:00 +0000</pubDate>
+      <title>Slowing Down A Bit</title>
+      <link>https://keithmillar.github.io/2020-08-30-slowing-down-a-bit/</link>
+      <pubDate>Sun, 30 Aug 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://keithmillar.github.io/collection/weather/</guid>
-      <description></description>
+      <guid>https://keithmillar.github.io/2020-08-30-slowing-down-a-bit/</guid>
+      <description>&lt;p&gt;August and things are starting  to slow down somewhat, all our major projects have been completed and we are starting the process of finishing things off as much as we can.&lt;/p&gt;</description>
     </item>
     
     <item>
