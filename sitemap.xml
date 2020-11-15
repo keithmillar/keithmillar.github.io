@@ -3,17 +3,22 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://keithmillar.github.io/collection/books/</loc>
-    <lastmod>2020-10-23T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://keithmillar.github.io/collection/</loc>
-    <lastmod>2020-10-23T00:00:00+00:00</lastmod>
+    <lastmod>2020-11-15T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://keithmillar.github.io/</loc>
+    <lastmod>2020-11-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://keithmillar.github.io/collection/weather/</loc>
+    <lastmod>2020-11-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://keithmillar.github.io/collection/books/</loc>
     <lastmod>2020-10-23T00:00:00+00:00</lastmod>
   </url>
   
@@ -43,8 +48,13 @@
   </url>
   
   <url>
-    <loc>https://keithmillar.github.io/collection/weather/</loc>
-    <lastmod>2020-10-03T00:00:00+00:00</lastmod>
+    <loc>https://keithmillar.github.io/2020-09-17-back-home/</loc>
+    <lastmod>2020-09-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://keithmillar.github.io/tags/travel/</loc>
+    <lastmod>2020-09-17T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -195,11 +205,6 @@
   <url>
     <loc>https://keithmillar.github.io/2019-10-31-our-first-month-back-in-montroy/</loc>
     <lastmod>2019-10-31T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://keithmillar.github.io/tags/travel/</loc>
-    <lastmod>2019-09-28T00:00:00+00:00</lastmod>
   </url>
   
   <url>
