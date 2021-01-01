@@ -3,12 +3,47 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://keithmillar.github.io/2020-12-30-back-in-action/</loc>
-    <lastmod>2020-12-30T11:55:09+01:00</lastmod>
+    <loc>https://keithmillar.github.io/collection/</loc>
+    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://keithmillar.github.io/</loc>
+    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://keithmillar.github.io/collection/weather/</loc>
+    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://keithmillar.github.io/collection/2020-weather/</loc>
+    <lastmod>2020-12-31T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://keithmillar.github.io/blog/</loc>
+    <lastmod>2020-12-31T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://keithmillar.github.io/tags/real/</loc>
+    <lastmod>2020-12-31T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://keithmillar.github.io/tags/</loc>
+    <lastmod>2020-12-31T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://keithmillar.github.io/2020-12-31-the-end/</loc>
+    <lastmod>2020-12-31T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://keithmillar.github.io/2020-12-30-back-in-action/</loc>
     <lastmod>2020-12-30T11:55:09+01:00</lastmod>
   </url>
   
@@ -18,43 +53,18 @@
   </url>
   
   <url>
-    <loc>https://keithmillar.github.io/</loc>
-    <lastmod>2020-12-30T11:55:09+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://keithmillar.github.io/tags/real/</loc>
-    <lastmod>2020-12-30T11:55:09+01:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://keithmillar.github.io/tags/spain/</loc>
     <lastmod>2020-12-30T11:55:09+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://keithmillar.github.io/tags/</loc>
-    <lastmod>2020-12-30T11:55:09+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://keithmillar.github.io/collection/</loc>
-    <lastmod>2020-12-30T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://keithmillar.github.io/collection/weather/</loc>
+    <loc>https://keithmillar.github.io/collection/books/</loc>
     <lastmod>2020-12-30T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://keithmillar.github.io/2020-12-25-chrishmas-day/</loc>
     <lastmod>2020-12-25T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://keithmillar.github.io/collection/books/</loc>
-    <lastmod>2020-12-19T00:00:00+00:00</lastmod>
   </url>
   
   <url>
