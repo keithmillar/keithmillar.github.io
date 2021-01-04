@@ -52,14 +52,14 @@ thead, tfoot, tr:nth-child(even) { background: #eee; }
 
 /* links */
 a, a:visited {
-	color: green;text-decoration: none; 
+	color: green;text-decoration: none;
 	}
 
 a:hover	{
 	color: hotpink;
 	}
 
-<style>
+/*<style>*/
 
 /* Image Display */
 
@@ -83,4 +83,4 @@ img { max-width:98%; /* max-width:128%; */
 	width: 16px;
 	height: 16px:
 }
-</style>
+/*</style>*/
