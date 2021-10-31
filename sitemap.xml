@@ -2,17 +2,29 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://keithmillar.github.io/collection/books/</loc>
-    <lastmod>2021-10-15T00:00:00+00:00</lastmod>
+    <loc>https://keithmillar.github.io/2021-10-31-another-month-rolls-by/</loc>
+    <lastmod>2021-10-31T19:56:12+01:00</lastmod>
   </url><url>
-    <loc>https://keithmillar.github.io/collection/</loc>
-    <lastmod>2021-10-15T00:00:00+00:00</lastmod>
+    <loc>https://keithmillar.github.io/blog/</loc>
+    <lastmod>2021-10-31T19:56:12+01:00</lastmod>
+  </url><url>
+    <loc>https://keithmillar.github.io/tags/change-me/</loc>
+    <lastmod>2021-10-31T19:56:12+01:00</lastmod>
   </url><url>
     <loc>https://keithmillar.github.io/</loc>
-    <lastmod>2021-10-15T00:00:00+00:00</lastmod>
+    <lastmod>2021-10-31T19:56:12+01:00</lastmod>
+  </url><url>
+    <loc>https://keithmillar.github.io/tags/</loc>
+    <lastmod>2021-10-31T19:56:12+01:00</lastmod>
+  </url><url>
+    <loc>https://keithmillar.github.io/collection/</loc>
+    <lastmod>2021-10-31T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://keithmillar.github.io/collection/weather/</loc>
-    <lastmod>2021-09-30T00:00:00+00:00</lastmod>
+    <lastmod>2021-10-31T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://keithmillar.github.io/collection/books/</loc>
+    <lastmod>2021-10-15T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://keithmillar.github.io/2021-09-25-back-on-the-beach/</loc>
     <lastmod>2021-09-25T00:00:00+00:00</lastmod>
@@ -20,13 +32,7 @@
     <loc>https://keithmillar.github.io/tags/beach/</loc>
     <lastmod>2021-09-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://keithmillar.github.io/blog/</loc>
-    <lastmod>2021-09-25T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://keithmillar.github.io/tags/spain/</loc>
-    <lastmod>2021-09-25T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://keithmillar.github.io/tags/</loc>
     <lastmod>2021-09-25T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://keithmillar.github.io/2021-09-19-circuit-ricardo-tormo/</loc>
@@ -577,9 +583,6 @@
   </url><url>
     <loc>https://keithmillar.github.io/2016-08-22-bloody-bridge-donard-glen-river-walk/</loc>
     <lastmod>2016-08-22T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://keithmillar.github.io/tags/change-me/</loc>
-    <lastmod>2016-08-02T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://keithmillar.github.io/2016-08-02-off-to-wales/</loc>
     <lastmod>2016-08-02T00:00:00+00:00</lastmod>
