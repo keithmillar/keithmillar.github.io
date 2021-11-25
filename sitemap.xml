@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://keithmillar.github.io/collection/books/</loc>
+    <lastmod>2021-11-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://keithmillar.github.io/collection/</loc>
+    <lastmod>2021-11-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://keithmillar.github.io/</loc>
+    <lastmod>2021-11-25T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://keithmillar.github.io/blog/</loc>
     <lastmod>2021-11-13T00:00:00+00:00</lastmod>
   </url><url>
@@ -11,17 +20,8 @@
     <loc>https://keithmillar.github.io/tags/honey/</loc>
     <lastmod>2021-11-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://keithmillar.github.io/</loc>
-    <lastmod>2021-11-13T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://keithmillar.github.io/tags/</loc>
     <lastmod>2021-11-13T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://keithmillar.github.io/collection/books/</loc>
-    <lastmod>2021-11-07T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://keithmillar.github.io/collection/</loc>
-    <lastmod>2021-11-07T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://keithmillar.github.io/2021-10-31-another-month-rolls-by/</loc>
     <lastmod>2021-10-31T19:56:12+01:00</lastmod>
