@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>motorhome on Keith&#39;s Diary and Other Stuff</title>
-    <link>https://keithmillar.github.io/tags/motorhome/</link>
+    <link>/tags/motorhome/</link>
     <description>Recent content in motorhome on Keith&#39;s Diary and Other Stuff</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 02 Oct 2017 00:00:00 +0000</lastBuildDate><atom:link href="https://keithmillar.github.io/tags/motorhome/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 02 Oct 2017 00:00:00 +0000</lastBuildDate><atom:link href="/tags/motorhome/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Ballyhalbert in Eddy</title>
-      <link>https://keithmillar.github.io/2017-10-02-ballyhalbert-in-eddy/</link>
+      <link>/2017-10-02-ballyhalbert-in-eddy/</link>
       <pubDate>Mon, 02 Oct 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://keithmillar.github.io/2017-10-02-ballyhalbert-in-eddy/</guid>
+      <guid>/2017-10-02-ballyhalbert-in-eddy/</guid>
       <description>Took our first official drive in Eddy down to Sandy Land.
 {{ more }} Enjoyed a coffee and tested all the systems.
 Eddy&amp;rsquo;s First Journey
@@ -21,10 +21,10 @@ Eddy&amp;rsquo;s First Journey</description>
     
     <item>
       <title>Motor Home</title>
-      <link>https://keithmillar.github.io/2017-09-19-motor-home/</link>
+      <link>/2017-09-19-motor-home/</link>
       <pubDate>Tue, 19 Sep 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://keithmillar.github.io/2017-09-19-motor-home/</guid>
+      <guid>/2017-09-19-motor-home/</guid>
       <description>&lt;p&gt;Called into Thompson Leisure Yesterday just to look, guess what happened when we went back today.&lt;/p&gt;</description>
     </item>
     

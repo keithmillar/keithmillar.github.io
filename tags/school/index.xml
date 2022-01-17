@@ -2,18 +2,27 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>school on Keith&#39;s Diary and Other Stuff</title>
-    <link>https://keithmillar.github.io/tags/school/</link>
+    <link>/tags/school/</link>
     <description>Recent content in school on Keith&#39;s Diary and Other Stuff</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 06 Sep 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://keithmillar.github.io/tags/school/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 13 Jan 2022 21:19:40 +0100</lastBuildDate><atom:link href="/tags/school/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Spanish Class</title>
+      <link>/2022-01-13-spanish-class/</link>
+      <pubDate>Thu, 13 Jan 2022 21:19:40 +0100</pubDate>
+      
+      <guid>/2022-01-13-spanish-class/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>Flo&#39;s Graduation</title>
-      <link>https://keithmillar.github.io/2019-09-06-flos-graduation/</link>
+      <link>/2019-09-06-flos-graduation/</link>
       <pubDate>Fri, 06 Sep 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://keithmillar.github.io/2019-09-06-flos-graduation/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;https://keithmillar.github.io/images/2019/2019-09-06-flos-graduation.jpg&#34; alt=&#34;Flo&amp;rsquo;s Graduation&#34;&gt; &lt;strong&gt;Flo&amp;rsquo;s Graduation&lt;/strong&gt;&lt;/p&gt;</description>
+      <guid>/2019-09-06-flos-graduation/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;/images/2019/2019-09-06-flos-graduation.jpg&#34; alt=&#34;Flo&amp;rsquo;s Graduation&#34;&gt; &lt;strong&gt;Flo&amp;rsquo;s Graduation&lt;/strong&gt;&lt;/p&gt;</description>
     </item>
     
   </channel>

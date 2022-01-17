@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>wedding on Keith&#39;s Diary and Other Stuff</title>
-    <link>https://keithmillar.github.io/tags/wedding/</link>
+    <link>/tags/wedding/</link>
     <description>Recent content in wedding on Keith&#39;s Diary and Other Stuff</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 29 Jun 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://keithmillar.github.io/tags/wedding/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 29 Jun 2019 00:00:00 +0000</lastBuildDate><atom:link href="/tags/wedding/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Matt and Ratchels Wedding</title>
-      <link>https://keithmillar.github.io/2019-06-29-matt-and-ratchels-wedding/</link>
+      <link>/2019-06-29-matt-and-ratchels-wedding/</link>
       <pubDate>Sat, 29 Jun 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://keithmillar.github.io/2019-06-29-matt-and-ratchels-wedding/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;https://keithmillar.github.io/images/2019/2019-06-29-matt-and-ratchels-wedding-1.jpg&#34; alt=&#34;Matt and Ratchels Wedding&#34;&gt;&lt;strong&gt;Matt and Ratchels Wedding&lt;/strong&gt;
+      <guid>/2019-06-29-matt-and-ratchels-wedding/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;/images/2019/2019-06-29-matt-and-ratchels-wedding-1.jpg&#34; alt=&#34;Matt and Ratchels Wedding&#34;&gt;&lt;strong&gt;Matt and Ratchels Wedding&lt;/strong&gt;
 Great day, fantastic venue, super food and two good bands providing the music.&lt;/p&gt;</description>
     </item>
     

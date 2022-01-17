@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>rosslair on Keith&#39;s Diary and Other Stuff</title>
-    <link>https://keithmillar.github.io/tags/rosslair/</link>
+    <link>/tags/rosslair/</link>
     <description>Recent content in rosslair on Keith&#39;s Diary and Other Stuff</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 05 Oct 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://keithmillar.github.io/tags/rosslair/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 05 Oct 2020 00:00:00 +0000</lastBuildDate><atom:link href="/tags/rosslair/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Flo&#39;s 60th Birthday</title>
-      <link>https://keithmillar.github.io/2020-10-05-flo-60-birthday/</link>
+      <link>/2020-10-05-flo-60-birthday/</link>
       <pubDate>Mon, 05 Oct 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://keithmillar.github.io/2020-10-05-flo-60-birthday/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;https://keithmillar.github.io/images/2020/2020-10-05-flo-60-birthday.jpg&#34; alt=&#34;Flo&amp;rsquo;s 60th Wexford&#34;&gt;&lt;strong&gt;Flo&amp;rsquo;s 60th Wexford&lt;/strong&gt;&lt;/p&gt;</description>
+      <guid>/2020-10-05-flo-60-birthday/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;/images/2020/2020-10-05-flo-60-birthday.jpg&#34; alt=&#34;Flo&amp;rsquo;s 60th Wexford&#34;&gt;&lt;strong&gt;Flo&amp;rsquo;s 60th Wexford&lt;/strong&gt;&lt;/p&gt;</description>
     </item>
     
   </channel>

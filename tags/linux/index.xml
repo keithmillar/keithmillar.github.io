@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>linux on Keith&#39;s Diary and Other Stuff</title>
-    <link>https://keithmillar.github.io/tags/linux/</link>
+    <link>/tags/linux/</link>
     <description>Recent content in linux on Keith&#39;s Diary and Other Stuff</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 30 Jan 2012 00:00:00 +0000</lastBuildDate><atom:link href="https://keithmillar.github.io/tags/linux/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 30 Jan 2012 00:00:00 +0000</lastBuildDate><atom:link href="/tags/linux/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Emacs Day (All Day)</title>
-      <link>https://keithmillar.github.io/2012-01-30-emacs-day-all-day/</link>
+      <link>/2012-01-30-emacs-day-all-day/</link>
       <pubDate>Mon, 30 Jan 2012 00:00:00 +0000</pubDate>
       
-      <guid>https://keithmillar.github.io/2012-01-30-emacs-day-all-day/</guid>
+      <guid>/2012-01-30-emacs-day-all-day/</guid>
       <description>Started to get a feel for emacs to day, and it did take nearly all day. Finding information is not a problem finding current and relevant info can be a real challenge. How ever I did get the colour theme working and formatted the date in the calendar for European formatting. I even added the Moto GP and World Super Bike dates. Now all I have to do is put it all all together and start org mode.</description>
     </item>
     

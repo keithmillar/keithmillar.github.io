@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>bird on Keith&#39;s Diary and Other Stuff</title>
-    <link>https://keithmillar.github.io/tags/bird/</link>
+    <link>/tags/bird/</link>
     <description>Recent content in bird on Keith&#39;s Diary and Other Stuff</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 20 May 2014 00:00:00 +0000</lastBuildDate><atom:link href="https://keithmillar.github.io/tags/bird/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 20 May 2014 00:00:00 +0000</lastBuildDate><atom:link href="/tags/bird/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Sparrowhawk</title>
-      <link>https://keithmillar.github.io/2014-05-20-sparrowhawk/</link>
+      <link>/2014-05-20-sparrowhawk/</link>
       <pubDate>Tue, 20 May 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://keithmillar.github.io/2014-05-20-sparrowhawk/</guid>
+      <guid>/2014-05-20-sparrowhawk/</guid>
       <description>Manic scenes in the garden, birds going crazy, then I understood why. {{ more }}</description>
     </item>
     

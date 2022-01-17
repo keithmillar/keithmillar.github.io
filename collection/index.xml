@@ -2,53 +2,53 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Collections on Keith&#39;s Diary and Other Stuff</title>
-    <link>https://keithmillar.github.io/collection/</link>
+    <link>/collection/</link>
     <description>Recent content in Collections on Keith&#39;s Diary and Other Stuff</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 16 Jan 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://keithmillar.github.io/collection/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 16 Jan 2022 00:00:00 +0000</lastBuildDate><atom:link href="/collection/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Favourite Songs</title>
-      <link>https://keithmillar.github.io/collection/music/</link>
+      <link>/collection/music/</link>
       <pubDate>Sun, 16 Jan 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://keithmillar.github.io/collection/music/</guid>
-      <description> Billy Joel - Piano Man (1973) Vikki Carr - It Must Be Him (1967) Squeeze - Labelled with love (1981) John Paul Young - Love Is In The Air (1977) Booker T. &amp;amp; the M.G.&amp;rsquo;s&#39; - Time is Tight (1969) Orchestral Manoeuvres In The Dark - Enola Gay (1980)  </description>
+      <guid>/collection/music/</guid>
+      <description> Billy Joel - Piano Man (1973) Vikki Carr - It Must Be Him (1967) Squeeze - Labelled with love (1981) John Paul Young - Love Is In The Air (1977) Booker T. &amp;amp; the M.G.&amp;rsquo;s&#39; - Time is Tight (1969) Orchestral Manoeuvres In The Dark - Enola Gay (1980) The Specials - Ghost Town (1981) Goldie - Making up again (1978)  </description>
     </item>
     
     <item>
       <title>Books by Date</title>
-      <link>https://keithmillar.github.io/collection/books/</link>
+      <link>/collection/books/</link>
       <pubDate>Wed, 12 Jan 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://keithmillar.github.io/collection/books/</guid>
+      <guid>/collection/books/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Weather</title>
-      <link>https://keithmillar.github.io/collection/weather/</link>
+      <link>/collection/weather/</link>
       <pubDate>Fri, 31 Dec 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://keithmillar.github.io/collection/weather/</guid>
+      <guid>/collection/weather/</guid>
       <description></description>
     </item>
     
     <item>
       <title>2020-weather</title>
-      <link>https://keithmillar.github.io/collection/2020-weather/</link>
+      <link>/collection/2020-weather/</link>
       <pubDate>Thu, 31 Dec 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://keithmillar.github.io/collection/2020-weather/</guid>
+      <guid>/collection/2020-weather/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Bicycle Parts</title>
-      <link>https://keithmillar.github.io/collection/parts/</link>
+      <link>/collection/parts/</link>
       <pubDate>Fri, 15 Feb 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://keithmillar.github.io/collection/parts/</guid>
+      <guid>/collection/parts/</guid>
       <description>*Description *Quantity *Brand *Condition *MTB / Road / Cyclocross
 Big Blue Box
  SPD Pedals single sided 2 Shamino Used Road Pedal accessories 1 Speedplay New Road Small pumps 3 New Pumps 2 Blackburn Used Road 160mm Disc 1 New MTB Lights 1 Hope Used MTB Compact chain set with bearings 1 FSA Used Road Chain Set 1 Shimano Used Road Speedplay pedals 2 Speedplay Used Road Skewers Used Road Brake levers 2 Used Cyclocross Quill stem 1 Used Road 27.</description>

@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>iceland on Keith&#39;s Diary and Other Stuff</title>
-    <link>https://keithmillar.github.io/tags/iceland/</link>
+    <link>/tags/iceland/</link>
     <description>Recent content in iceland on Keith&#39;s Diary and Other Stuff</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 13 Aug 2018 00:00:00 +0000</lastBuildDate><atom:link href="https://keithmillar.github.io/tags/iceland/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 13 Aug 2018 00:00:00 +0000</lastBuildDate><atom:link href="/tags/iceland/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Iceland</title>
-      <link>https://keithmillar.github.io/2018-08-13-iceland/</link>
+      <link>/2018-08-13-iceland/</link>
       <pubDate>Mon, 13 Aug 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://keithmillar.github.io/2018-08-13-iceland/</guid>
+      <guid>/2018-08-13-iceland/</guid>
       <description>After a fairly quick flight from Dublin we landed in Iceland to a maniac Kelflavick Airport.
 Blue Lagoon
 {{ more }}

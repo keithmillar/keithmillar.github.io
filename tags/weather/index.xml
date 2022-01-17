@@ -2,27 +2,27 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>weather on Keith&#39;s Diary and Other Stuff</title>
-    <link>https://keithmillar.github.io/tags/weather/</link>
+    <link>/tags/weather/</link>
     <description>Recent content in weather on Keith&#39;s Diary and Other Stuff</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 25 Apr 2017 00:00:00 +0000</lastBuildDate><atom:link href="https://keithmillar.github.io/tags/weather/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 25 Apr 2017 00:00:00 +0000</lastBuildDate><atom:link href="/tags/weather/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Rain in Spain</title>
-      <link>https://keithmillar.github.io/2017-04-25-rain/</link>
+      <link>/2017-04-25-rain/</link>
       <pubDate>Tue, 25 Apr 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://keithmillar.github.io/2017-04-25-rain/</guid>
+      <guid>/2017-04-25-rain/</guid>
       <description>When it Rains in Spain it really Rains
 This Lily just opened today</description>
     </item>
     
     <item>
       <title>Woeful July</title>
-      <link>https://keithmillar.github.io/2015-07-31-woeful-july/</link>
+      <link>/2015-07-31-woeful-july/</link>
       <pubDate>Fri, 31 Jul 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://keithmillar.github.io/2015-07-31-woeful-july/</guid>
+      <guid>/2015-07-31-woeful-july/</guid>
       <description>BBC NI Weather @newslineweather
 Early figures show that July was the coldest since 1993
 we&amp;rsquo;d above average rainfall (137%)
@@ -32,10 +32,10 @@ and below average sunshine (80%)
     
     <item>
       <title> Another Lovely Saturday</title>
-      <link>https://keithmillar.github.io/2013-05-18-another-lovely-saturday/</link>
+      <link>/2013-05-18-another-lovely-saturday/</link>
       <pubDate>Sat, 18 May 2013 00:00:00 +0000</pubDate>
       
-      <guid>https://keithmillar.github.io/2013-05-18-another-lovely-saturday/</guid>
+      <guid>/2013-05-18-another-lovely-saturday/</guid>
       <description>&amp;ldquo;The race organisers have given in to the inevitable and the North West 200 road races have been abandoned.&amp;rdquo;
 Most of the spectators had already given up and left their positions on the circuit.
 The grandstand at the start/finish line is empty and there is a great sense of frustration here as we have managed just a couple of laps of action.
