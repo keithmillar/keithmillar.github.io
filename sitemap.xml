@@ -2,13 +2,28 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>/blog/</loc>
+    <lastmod>2022-03-29T16:44:22+02:00</lastmod>
+  </url><url>
+    <loc>/</loc>
+    <lastmod>2022-03-29T16:44:22+02:00</lastmod>
+  </url><url>
+    <loc>/2022-03-29-march-rains/</loc>
+    <lastmod>2022-03-29T16:44:22+02:00</lastmod>
+  </url><url>
+    <loc>/tags/movie/</loc>
+    <lastmod>2022-03-29T16:44:22+02:00</lastmod>
+  </url><url>
+    <loc>/tags/rain/</loc>
+    <lastmod>2022-03-29T16:44:22+02:00</lastmod>
+  </url><url>
+    <loc>/tags/</loc>
+    <lastmod>2022-03-29T16:44:22+02:00</lastmod>
+  </url><url>
     <loc>/collection/books/</loc>
     <lastmod>2022-03-26T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/collection/</loc>
-    <lastmod>2022-03-26T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/</loc>
     <lastmod>2022-03-26T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/collection/weather/</loc>
@@ -17,13 +32,7 @@
     <loc>/tags/ards/</loc>
     <lastmod>2022-02-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/blog/</loc>
-    <lastmod>2022-02-28T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>/2022-02-28-quick-trip-home/</loc>
-    <lastmod>2022-02-28T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/tags/</loc>
     <lastmod>2022-02-28T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/collection/music/</loc>
