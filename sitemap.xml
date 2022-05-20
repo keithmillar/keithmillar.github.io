@@ -2,20 +2,41 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/collection/books/</loc>
-    <lastmod>2022-05-14T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/collection/</loc>
-    <lastmod>2022-05-14T00:00:00+00:00</lastmod>
+    <loc>/blog/</loc>
+    <lastmod>2022-05-20T15:30:05+02:00</lastmod>
   </url><url>
     <loc>/</loc>
-    <lastmod>2022-05-14T00:00:00+00:00</lastmod>
+    <lastmod>2022-05-20T15:30:05+02:00</lastmod>
+  </url><url>
+    <loc>/tags/motorsport/</loc>
+    <lastmod>2022-05-20T15:30:05+02:00</lastmod>
+  </url><url>
+    <loc>/tags/nascar/</loc>
+    <lastmod>2022-05-20T15:30:05+02:00</lastmod>
+  </url><url>
+    <loc>/2022-05-15-nascar/</loc>
+    <lastmod>2022-05-20T15:30:05+02:00</lastmod>
+  </url><url>
+    <loc>/tags/spain/</loc>
+    <lastmod>2022-05-20T15:30:05+02:00</lastmod>
+  </url><url>
+    <loc>/tags/</loc>
+    <lastmod>2022-05-20T15:30:05+02:00</lastmod>
+  </url><url>
+    <loc>/2022-04-trial-sant-joan-de-les-abadesse/</loc>
+    <lastmod>2022-05-20T15:16:02+02:00</lastmod>
+  </url><url>
+    <loc>/tags/trials/</loc>
+    <lastmod>2022-05-20T15:16:02+02:00</lastmod>
+  </url><url>
+    <loc>/collection/books/</loc>
+    <lastmod>2022-05-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/collection/</loc>
+    <lastmod>2022-05-20T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/collection/weather/</loc>
     <lastmod>2022-05-05T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/blog/</loc>
-    <lastmod>2022-03-29T16:44:22+02:00</lastmod>
   </url><url>
     <loc>/2022-03-29-march-rains/</loc>
     <lastmod>2022-03-29T16:44:22+02:00</lastmod>
@@ -24,9 +45,6 @@
     <lastmod>2022-03-29T16:44:22+02:00</lastmod>
   </url><url>
     <loc>/tags/rain/</loc>
-    <lastmod>2022-03-29T16:44:22+02:00</lastmod>
-  </url><url>
-    <loc>/tags/</loc>
     <lastmod>2022-03-29T16:44:22+02:00</lastmod>
   </url><url>
     <loc>/tags/ards/</loc>
@@ -39,9 +57,6 @@
     <lastmod>2022-01-25T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/tags/school/</loc>
-    <lastmod>2022-01-13T21:19:40+01:00</lastmod>
-  </url><url>
-    <loc>/tags/spain/</loc>
     <lastmod>2022-01-13T21:19:40+01:00</lastmod>
   </url><url>
     <loc>/2022-01-13-spanish-class/</loc>
@@ -81,9 +96,6 @@
     <lastmod>2021-09-25T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/2021-09-19-circuit-ricardo-tormo/</loc>
-    <lastmod>2021-09-19T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/tags/motorsport/</loc>
     <lastmod>2021-09-19T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/2021-09-11-our-first-guests/</loc>
