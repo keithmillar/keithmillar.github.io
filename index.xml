@@ -6,7 +6,16 @@
     <description>Recent content on Keith&#39;s Diary and Other Stuff</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 20 May 2022 15:30:05 +0200</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 25 May 2022 00:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Books by Date</title>
+      <link>/collection/books/</link>
+      <pubDate>Wed, 25 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/collection/books/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>Nascar and Truck Racing</title>
       <link>/2022-05-15-nascar/</link>
@@ -14,15 +23,6 @@
       
       <guid>/2022-05-15-nascar/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;/images/2022/2022-05-15-nascar-1.jpg&#34; alt=&#34;Flo With A Big Truck&#34;&gt;&lt;strong&gt;Flo With A Big Truck&lt;/strong&gt;&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Books by Date</title>
-      <link>/collection/books/</link>
-      <pubDate>Fri, 20 May 2022 00:00:00 +0000</pubDate>
-      
-      <guid>/collection/books/</guid>
-      <description></description>
     </item>
     
     <item>
