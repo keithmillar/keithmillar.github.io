@@ -2,13 +2,19 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>/collection/books/</loc>
+    <lastmod>2022-06-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/collection/</loc>
+    <lastmod>2022-06-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/</loc>
+    <lastmod>2022-06-13T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>/blog/</loc>
     <lastmod>2022-06-12T19:36:31+02:00</lastmod>
   </url><url>
     <loc>/tags/cycling/</loc>
-    <lastmod>2022-06-12T19:36:31+02:00</lastmod>
-  </url><url>
-    <loc>/</loc>
     <lastmod>2022-06-12T19:36:31+02:00</lastmod>
   </url><url>
     <loc>/tags/</loc>
@@ -16,9 +22,6 @@
   </url><url>
     <loc>/2022-06-12-x-marcha-cicloturista-avapace/</loc>
     <lastmod>2022-06-12T19:36:31+02:00</lastmod>
-  </url><url>
-    <loc>/collection/</loc>
-    <lastmod>2022-06-12T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/collection/weather/</loc>
     <lastmod>2022-06-12T00:00:00+00:00</lastmod>
@@ -28,9 +31,6 @@
   </url><url>
     <loc>/2022-06-12-ready-for-rental/</loc>
     <lastmod>2022-06-06T19:02:05+02:00</lastmod>
-  </url><url>
-    <loc>/collection/books/</loc>
-    <lastmod>2022-05-25T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/tags/motorsport/</loc>
     <lastmod>2022-05-20T15:30:05+02:00</lastmod>
