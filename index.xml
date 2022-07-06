@@ -6,13 +6,22 @@
     <description>Recent content on Keith&#39;s Diary and Other Stuff</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 28 Jun 2022 00:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 06 Jul 2022 00:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Books by Date</title>
       <link>/collection/books/</link>
-      <pubDate>Tue, 28 Jun 2022 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 06 Jul 2022 00:00:00 +0000</pubDate>
       
       <guid>/collection/books/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Weather</title>
+      <link>/collection/weather/</link>
+      <pubDate>Wed, 06 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/collection/weather/</guid>
       <description></description>
     </item>
     
@@ -23,15 +32,6 @@
       
       <guid>/2022-06-12-x-marcha-cicloturista-avapace/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;/images/2022/2022-06-12-x-marcha-cicloturista-avapace-2.jpg&#34; alt=&#34;Flo ready for the Off&#34;&gt;&lt;strong&gt;Flo ready for the Off&lt;/strong&gt;&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Weather</title>
-      <link>/collection/weather/</link>
-      <pubDate>Sun, 12 Jun 2022 00:00:00 +0000</pubDate>
-      
-      <guid>/collection/weather/</guid>
-      <description></description>
     </item>
     
     <item>
