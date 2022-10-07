@@ -2,10 +2,19 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/blog/</loc>
-    <lastmod>2022-09-29T17:14:10+02:00</lastmod>
+    <loc>/collection/books/</loc>
+    <lastmod>2022-10-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/collection/</loc>
+    <lastmod>2022-10-07T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/</loc>
+    <lastmod>2022-10-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/collection/weather/</loc>
+    <lastmod>2022-10-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/blog/</loc>
     <lastmod>2022-09-29T17:14:10+02:00</lastmod>
   </url><url>
     <loc>/tags/mallorca/</loc>
@@ -17,17 +26,8 @@
     <loc>/tags/</loc>
     <lastmod>2022-09-29T17:14:10+02:00</lastmod>
   </url><url>
-    <loc>/collection/</loc>
-    <lastmod>2022-09-29T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>/collection/music/</loc>
     <lastmod>2022-09-29T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/collection/books/</loc>
-    <lastmod>2022-09-23T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/collection/weather/</loc>
-    <lastmod>2022-09-02T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/2022-08-07-holiday-spain-and-portugal/</loc>
     <lastmod>2022-08-07T00:00:00+00:00</lastmod>
