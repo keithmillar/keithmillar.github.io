@@ -2,25 +2,34 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/collection/</loc>
-    <lastmod>2022-11-04T00:00:00+00:00</lastmod>
+    <loc>/blog/</loc>
+    <lastmod>2022-11-06T19:32:36+01:00</lastmod>
   </url><url>
     <loc>/</loc>
-    <lastmod>2022-11-04T00:00:00+00:00</lastmod>
+    <lastmod>2022-11-06T19:32:36+01:00</lastmod>
+  </url><url>
+    <loc>/2022-11-01-ken-and-andrew/</loc>
+    <lastmod>2022-11-06T19:32:36+01:00</lastmod>
+  </url><url>
+    <loc>/tags/spain/</loc>
+    <lastmod>2022-11-06T19:32:36+01:00</lastmod>
+  </url><url>
+    <loc>/tags/</loc>
+    <lastmod>2022-11-06T19:32:36+01:00</lastmod>
+  </url><url>
+    <loc>/tags/visit/</loc>
+    <lastmod>2022-11-06T19:32:36+01:00</lastmod>
+  </url><url>
+    <loc>/collection/books/</loc>
+    <lastmod>2022-11-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/collection/</loc>
+    <lastmod>2022-11-06T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/collection/weather/</loc>
     <lastmod>2022-11-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/collection/books/</loc>
-    <lastmod>2022-10-26T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/blog/</loc>
-    <lastmod>2022-10-16T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>/tags/cycling/</loc>
-    <lastmod>2022-10-16T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/tags/</loc>
     <lastmod>2022-10-16T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/2022-10-16-v-marcha-ciclodeportiva-de-tous/</loc>
@@ -39,9 +48,6 @@
     <lastmod>2022-08-07T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/tags/portugal/</loc>
-    <lastmod>2022-08-07T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/tags/spain/</loc>
     <lastmod>2022-08-07T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/tags/real/</loc>
@@ -618,9 +624,6 @@
     <lastmod>2017-04-25T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/2017-04-19-keanes-visit/</loc>
-    <lastmod>2017-04-19T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/tags/visit/</loc>
     <lastmod>2017-04-19T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/2017-03-31-back_in_spain/</loc>
