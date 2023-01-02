@@ -6,22 +6,31 @@
     <description>Recent content in Collections on Keith&#39;s Diary and Other Stuff</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 20 Dec 2022 00:00:00 +0000</lastBuildDate><atom:link href="/collection/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 02 Jan 2023 00:00:00 +0000</lastBuildDate><atom:link href="/collection/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Weather</title>
+      <link>/collection/weather/</link>
+      <pubDate>Mon, 02 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/collection/weather/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>2022-weather</title>
+      <link>/collection/2022-weather/</link>
+      <pubDate>Sat, 31 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/collection/2022-weather/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>Books by Date</title>
       <link>/collection/books/</link>
       <pubDate>Tue, 20 Dec 2022 00:00:00 +0000</pubDate>
       
       <guid>/collection/books/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Weather</title>
-      <link>/collection/weather/</link>
-      <pubDate>Thu, 01 Dec 2022 00:00:00 +0000</pubDate>
-      
-      <guid>/collection/weather/</guid>
       <description></description>
     </item>
     
