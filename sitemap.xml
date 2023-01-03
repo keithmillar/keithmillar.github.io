@@ -14,9 +14,6 @@
     <loc>/collection/2022-weather/</loc>
     <lastmod>2022-12-31T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/collection/books/</loc>
-    <lastmod>2022-12-20T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>/blog/</loc>
     <lastmod>2022-11-06T19:32:36+01:00</lastmod>
   </url><url>
@@ -103,6 +100,9 @@
   </url><url>
     <loc>/2022-01-13-spanish-class/</loc>
     <lastmod>2022-01-13T21:19:40+01:00</lastmod>
+  </url><url>
+    <loc>/collection/books/</loc>
+    <lastmod>2022-01-03T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/collection/2021-weather/</loc>
     <lastmod>2021-12-31T00:00:00+00:00</lastmod>

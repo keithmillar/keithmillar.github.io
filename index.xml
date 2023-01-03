@@ -26,15 +26,6 @@
     </item>
     
     <item>
-      <title>Books by Date</title>
-      <link>/collection/books/</link>
-      <pubDate>Tue, 20 Dec 2022 00:00:00 +0000</pubDate>
-      
-      <guid>/collection/books/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Ken and Andrew</title>
       <link>/2022-11-01-ken-and-andrew/</link>
       <pubDate>Sun, 06 Nov 2022 19:32:36 +0100</pubDate>
@@ -164,6 +155,15 @@ was cancelled, luckily he was able to get it rebooked for the next day and Helen
       
       <guid>/2022-01-13-spanish-class/</guid>
       <description>&lt;p&gt;Went to Spanish class tonight and I new it was a mistake, all the old prejudices came to light even the building was the same shit design as every school I have ever been in. Even managed to get a Dutch swot sitting beside me making lovely little notes. Still would like to learn some of the language.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Books by Date</title>
+      <link>/collection/books/</link>
+      <pubDate>Mon, 03 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/collection/books/</guid>
+      <description></description>
     </item>
     
     <item>
