@@ -2,10 +2,25 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/collection/</loc>
-    <lastmod>2023-01-02T00:00:00+00:00</lastmod>
+    <loc>/2023-01-06-black-note-club/</loc>
+    <lastmod>2023-01-06T17:00:57+01:00</lastmod>
+  </url><url>
+    <loc>/blog/</loc>
+    <lastmod>2023-01-06T17:00:57+01:00</lastmod>
   </url><url>
     <loc>/</loc>
+    <lastmod>2023-01-06T17:00:57+01:00</lastmod>
+  </url><url>
+    <loc>/tags/music/</loc>
+    <lastmod>2023-01-06T17:00:57+01:00</lastmod>
+  </url><url>
+    <loc>/tags/spain/</loc>
+    <lastmod>2023-01-06T17:00:57+01:00</lastmod>
+  </url><url>
+    <loc>/tags/</loc>
+    <lastmod>2023-01-06T17:00:57+01:00</lastmod>
+  </url><url>
+    <loc>/collection/</loc>
     <lastmod>2023-01-02T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/collection/weather/</loc>
@@ -14,16 +29,13 @@
     <loc>/collection/2022-weather/</loc>
     <lastmod>2022-12-31T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/blog/</loc>
-    <lastmod>2022-11-06T19:32:36+01:00</lastmod>
+    <loc>/tags/christmas/</loc>
+    <lastmod>2022-12-30T16:51:00+01:00</lastmod>
+  </url><url>
+    <loc>/2022-12-30-christmas-dog-sitters/</loc>
+    <lastmod>2022-12-30T16:51:00+01:00</lastmod>
   </url><url>
     <loc>/2022-11-01-ken-and-andrew/</loc>
-    <lastmod>2022-11-06T19:32:36+01:00</lastmod>
-  </url><url>
-    <loc>/tags/spain/</loc>
-    <lastmod>2022-11-06T19:32:36+01:00</lastmod>
-  </url><url>
-    <loc>/tags/</loc>
     <lastmod>2022-11-06T19:32:36+01:00</lastmod>
   </url><url>
     <loc>/tags/visit/</loc>
@@ -195,9 +207,6 @@
     <lastmod>2020-12-31T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/2020-12-30-back-in-action/</loc>
-    <lastmod>2020-12-30T11:55:09+01:00</lastmod>
-  </url><url>
-    <loc>/tags/christmas/</loc>
     <lastmod>2020-12-30T11:55:09+01:00</lastmod>
   </url><url>
     <loc>/2020-12-25-chrishmas-day/</loc>
@@ -433,9 +442,6 @@
   </url><url>
     <loc>/2018-10-30-setting-off-for-spain/</loc>
     <lastmod>2018-10-30T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/tags/music/</loc>
-    <lastmod>2018-10-14T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/2018-10-14-sd-bells/</loc>
     <lastmod>2018-10-14T00:00:00+00:00</lastmod>

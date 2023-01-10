@@ -6,13 +6,31 @@
     <description>Recent content in Tags on Keith&#39;s Diary and Other Stuff</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 06 Nov 2022 19:32:36 +0100</lastBuildDate><atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 06 Jan 2023 17:00:57 +0100</lastBuildDate><atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>music</title>
+      <link>/tags/music/</link>
+      <pubDate>Fri, 06 Jan 2023 17:00:57 +0100</pubDate>
+      
+      <guid>/tags/music/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>spain</title>
       <link>/tags/spain/</link>
-      <pubDate>Sun, 06 Nov 2022 19:32:36 +0100</pubDate>
+      <pubDate>Fri, 06 Jan 2023 17:00:57 +0100</pubDate>
       
       <guid>/tags/spain/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>christmas</title>
+      <link>/tags/christmas/</link>
+      <pubDate>Fri, 30 Dec 2022 16:51:00 +0100</pubDate>
+      
+      <guid>/tags/christmas/</guid>
       <description></description>
     </item>
     
@@ -220,15 +238,6 @@
       <pubDate>Fri, 22 Jan 2021 16:23:03 +0100</pubDate>
       
       <guid>/tags/dusty/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>christmas</title>
-      <link>/tags/christmas/</link>
-      <pubDate>Wed, 30 Dec 2020 11:55:09 +0100</pubDate>
-      
-      <guid>/tags/christmas/</guid>
       <description></description>
     </item>
     
@@ -463,15 +472,6 @@
       <pubDate>Sat, 15 Dec 2018 00:00:00 +0000</pubDate>
       
       <guid>/tags/cyclocross/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>music</title>
-      <link>/tags/music/</link>
-      <pubDate>Sun, 14 Oct 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/music/</guid>
       <description></description>
     </item>
     
