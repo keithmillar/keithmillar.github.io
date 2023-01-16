@@ -2,13 +2,19 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>/collection/books/</loc>
+    <lastmod>2023-01-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/collection/</loc>
+    <lastmod>2023-01-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/</loc>
+    <lastmod>2023-01-16T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>/2023-01-06-black-note-club/</loc>
     <lastmod>2023-01-06T17:00:57+01:00</lastmod>
   </url><url>
     <loc>/blog/</loc>
-    <lastmod>2023-01-06T17:00:57+01:00</lastmod>
-  </url><url>
-    <loc>/</loc>
     <lastmod>2023-01-06T17:00:57+01:00</lastmod>
   </url><url>
     <loc>/tags/music/</loc>
@@ -19,9 +25,6 @@
   </url><url>
     <loc>/tags/</loc>
     <lastmod>2023-01-06T17:00:57+01:00</lastmod>
-  </url><url>
-    <loc>/collection/</loc>
-    <lastmod>2023-01-02T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/collection/weather/</loc>
     <lastmod>2023-01-02T00:00:00+00:00</lastmod>
@@ -112,9 +115,6 @@
   </url><url>
     <loc>/2022-01-13-spanish-class/</loc>
     <lastmod>2022-01-13T21:19:40+01:00</lastmod>
-  </url><url>
-    <loc>/collection/books/</loc>
-    <lastmod>2022-01-03T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/collection/2021-weather/</loc>
     <lastmod>2021-12-31T00:00:00+00:00</lastmod>
