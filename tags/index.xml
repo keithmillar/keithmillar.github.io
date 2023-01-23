@@ -6,22 +6,31 @@
     <description>Recent content in Tags on Keith&#39;s Diary and Other Stuff</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 06 Jan 2023 17:00:57 +0100</lastBuildDate><atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 22 Jan 2023 00:00:00 +0000</lastBuildDate><atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>music</title>
-      <link>/tags/music/</link>
-      <pubDate>Fri, 06 Jan 2023 17:00:57 +0100</pubDate>
+      <title>cyclo-cross</title>
+      <link>/tags/cyclo-cross/</link>
+      <pubDate>Sun, 22 Jan 2023 00:00:00 +0000</pubDate>
       
-      <guid>/tags/music/</guid>
+      <guid>/tags/cyclo-cross/</guid>
       <description></description>
     </item>
     
     <item>
       <title>spain</title>
       <link>/tags/spain/</link>
-      <pubDate>Fri, 06 Jan 2023 17:00:57 +0100</pubDate>
+      <pubDate>Sun, 22 Jan 2023 00:00:00 +0000</pubDate>
       
       <guid>/tags/spain/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>music</title>
+      <link>/tags/music/</link>
+      <pubDate>Fri, 06 Jan 2023 17:00:57 +0100</pubDate>
+      
+      <guid>/tags/music/</guid>
       <description></description>
     </item>
     
