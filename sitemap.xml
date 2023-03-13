@@ -2,13 +2,31 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>/blog/</loc>
+    <lastmod>2023-03-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/elche/</loc>
+    <lastmod>2023-03-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/2023-03-12-elche-half-marathon/</loc>
+    <lastmod>2023-03-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/</loc>
+    <lastmod>2023-03-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/running/</loc>
+    <lastmod>2023-03-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/spain/</loc>
+    <lastmod>2023-03-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/</loc>
+    <lastmod>2023-03-12T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>/collection/books/</loc>
     <lastmod>2023-03-10T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/collection/</loc>
-    <lastmod>2023-03-10T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/</loc>
     <lastmod>2023-03-10T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/collection/weather/</loc>
@@ -17,16 +35,7 @@
     <loc>/tags/albufera/</loc>
     <lastmod>2023-02-19T17:08:35+01:00</lastmod>
   </url><url>
-    <loc>/blog/</loc>
-    <lastmod>2023-02-19T17:08:35+01:00</lastmod>
-  </url><url>
-    <loc>/tags/spain/</loc>
-    <lastmod>2023-02-19T17:08:35+01:00</lastmod>
-  </url><url>
     <loc>/2023-02-19-sunday-drive/</loc>
-    <lastmod>2023-02-19T17:08:35+01:00</lastmod>
-  </url><url>
-    <loc>/tags/</loc>
     <lastmod>2023-02-19T17:08:35+01:00</lastmod>
   </url><url>
     <loc>/tags/madrid/</loc>
@@ -736,9 +745,6 @@
   </url><url>
     <loc>/2016-07-03-first-trip-to-st-andrews/</loc>
     <lastmod>2016-07-03T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/tags/running/</loc>
-    <lastmod>2016-07-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/2016-07-01-subway-canada-day-10k/</loc>
     <lastmod>2016-07-01T00:00:00+00:00</lastmod>
