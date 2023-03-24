@@ -2,17 +2,26 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>/blog/</loc>
+    <lastmod>2023-03-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/</loc>
+    <lastmod>2023-03-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/2023-03-23-pe%C3%B1%C3%ADscola/</loc>
+    <lastmod>2023-03-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/spain/</loc>
+    <lastmod>2023-03-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/</loc>
+    <lastmod>2023-03-23T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>/collection/books/</loc>
     <lastmod>2023-03-21T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/collection/</loc>
     <lastmod>2023-03-21T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/</loc>
-    <lastmod>2023-03-21T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/blog/</loc>
-    <lastmod>2023-03-12T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/tags/elche/</loc>
     <lastmod>2023-03-12T00:00:00+00:00</lastmod>
@@ -21,12 +30,6 @@
     <lastmod>2023-03-12T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/tags/running/</loc>
-    <lastmod>2023-03-12T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/tags/spain/</loc>
-    <lastmod>2023-03-12T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/tags/</loc>
     <lastmod>2023-03-12T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/collection/weather/</loc>
