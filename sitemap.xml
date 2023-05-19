@@ -2,10 +2,22 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/collection/</loc>
-    <lastmod>2023-05-02T00:00:00+00:00</lastmod>
+    <loc>/blog/</loc>
+    <lastmod>2023-05-19T12:03:50+02:00</lastmod>
   </url><url>
     <loc>/</loc>
+    <lastmod>2023-05-19T12:03:50+02:00</lastmod>
+  </url><url>
+    <loc>/tags/</loc>
+    <lastmod>2023-05-19T12:03:50+02:00</lastmod>
+  </url><url>
+    <loc>/tags/woody/</loc>
+    <lastmod>2023-05-19T12:03:50+02:00</lastmod>
+  </url><url>
+    <loc>/2023-05-19-woody-getting-bigger/</loc>
+    <lastmod>2023-05-19T12:03:50+02:00</lastmod>
+  </url><url>
+    <loc>/collection/</loc>
     <lastmod>2023-05-02T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/collection/weather/</loc>
@@ -14,16 +26,13 @@
     <loc>/collection/books/</loc>
     <lastmod>2023-04-28T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>/2023-04-24-woody/</loc>
+    <lastmod>2023-04-24T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>/2023-04-03-barcelona/</loc>
     <lastmod>2023-04-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/blog/</loc>
-    <lastmod>2023-04-03T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>/tags/spain/</loc>
-    <lastmod>2023-04-03T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/tags/</loc>
     <lastmod>2023-04-03T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/2023-03-23-pe%C3%B1%C3%ADscola/</loc>
