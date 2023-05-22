@@ -6,7 +6,16 @@
     <description>Recent content on Keith&#39;s Diary and Other Stuff</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 19 May 2023 12:03:50 +0200</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 22 May 2023 00:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Books by Date</title>
+      <link>/collection/books/</link>
+      <pubDate>Mon, 22 May 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/collection/books/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>Woody Getting Bigger</title>
       <link>/2023-05-19-woody-getting-bigger/</link>
@@ -22,15 +31,6 @@
       <pubDate>Tue, 02 May 2023 00:00:00 +0000</pubDate>
       
       <guid>/collection/weather/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Books by Date</title>
-      <link>/collection/books/</link>
-      <pubDate>Fri, 28 Apr 2023 00:00:00 +0000</pubDate>
-      
-      <guid>/collection/books/</guid>
       <description></description>
     </item>
     
