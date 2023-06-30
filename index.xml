@@ -6,7 +6,25 @@
     <description>Recent content on Keith&#39;s Diary and Other Stuff</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 14 Jun 2023 00:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 30 Jun 2023 00:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Weather</title>
+      <link>/collection/weather/</link>
+      <pubDate>Fri, 30 Jun 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/collection/weather/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sheila&#39;s 100th Birthday</title>
+      <link>/2023-06-24-sheila-100th-birthday/</link>
+      <pubDate>Sat, 24 Jun 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/2023-06-24-sheila-100th-birthday/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;/images/2023/2023-06-24-sheila-100th-birthday-2.jpg&#34; alt=&#34;Sheila&amp;rsquo;s 100th Birthday&#34;&gt;&lt;strong&gt;Sheila&amp;rsquo;s 100th Birthday&lt;/strong&gt;&lt;/p&gt;</description>
+    </item>
+    
     <item>
       <title>Books by Date</title>
       <link>/collection/books/</link>
@@ -23,15 +41,6 @@
       
       <guid>/2023-06-11-xi-cycloturista-march-avapace/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;/images/2023/2023-06-11-xi-cycloturista-march-avapace-5.jpg&#34; alt=&#34;XI Cycloturista March Avapace&#34;&gt;&lt;strong&gt;XI Cycloturista March Avapace&lt;/strong&gt;&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Weather</title>
-      <link>/collection/weather/</link>
-      <pubDate>Thu, 01 Jun 2023 00:00:00 +0000</pubDate>
-      
-      <guid>/collection/weather/</guid>
-      <description></description>
     </item>
     
     <item>
