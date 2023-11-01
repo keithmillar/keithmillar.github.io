@@ -6,24 +6,21 @@
     <description>Recent content in change me on Keith&#39;s Diary and Other Stuff</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 31 Dec 2021 00:00:00 +0000</lastBuildDate><atom:link href="/tags/change-me/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 31 Dec 2021 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/tags/change-me/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Year End Round Up</title>
       <link>/2021-12-31-year-end-round-up/</link>
       <pubDate>Fri, 31 Dec 2021 00:00:00 +0000</pubDate>
-      
       <guid>/2021-12-31-year-end-round-up/</guid>
       <description>&lt;p&gt;More of the same, everything still up in the air due to covid. Travel very limited so we have stayed local since our return in July/August.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Off to Wales</title>
       <link>/2016-08-02-off-to-wales/</link>
       <pubDate>Tue, 02 Aug 2016 00:00:00 +0000</pubDate>
-      
       <guid>/2016-08-02-off-to-wales/</guid>
       <description>{{ more }}</description>
     </item>
-    
   </channel>
 </rss>

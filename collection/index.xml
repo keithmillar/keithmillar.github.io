@@ -6,71 +6,58 @@
     <description>Recent content in Collections on Keith&#39;s Diary and Other Stuff</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 11 Oct 2023 00:00:00 +0000</lastBuildDate><atom:link href="/collection/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 01 Nov 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/collection/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Weather</title>
+      <link>/collection/weather/</link>
+      <pubDate>Wed, 01 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>/collection/weather/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Books by Date</title>
       <link>/collection/books/</link>
       <pubDate>Wed, 11 Oct 2023 00:00:00 +0000</pubDate>
-      
       <guid>/collection/books/</guid>
       <description></description>
     </item>
-    
-    <item>
-      <title>Weather</title>
-      <link>/collection/weather/</link>
-      <pubDate>Mon, 02 Oct 2023 00:00:00 +0000</pubDate>
-      
-      <guid>/collection/weather/</guid>
-      <description></description>
-    </item>
-    
     <item>
       <title>2022-weather</title>
       <link>/collection/2022-weather/</link>
       <pubDate>Sat, 31 Dec 2022 00:00:00 +0000</pubDate>
-      
       <guid>/collection/2022-weather/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Favourite Songs</title>
       <link>/collection/music/</link>
       <pubDate>Thu, 29 Sep 2022 00:00:00 +0000</pubDate>
-      
       <guid>/collection/music/</guid>
       <description> Billy Joel - Piano Man (1973) Vikki Carr - It Must Be Him (1967) Squeeze - Labelled with love (1981) John Paul Young - Love Is In The Air (1977) Booker T. &amp;amp; the M.G.&amp;rsquo;s&amp;rsquo; - Time is Tight (1969) Orchestral Manoeuvres In The Dark - Enola Gay (1980) The Specials - Ghost Town (1981) Goldie - Making up again (1978) Van Morrison - Into The Mystic (1970) Le Sayer - Moonlighting (1975) McAlmont &amp;amp; Butler - Yes (1995) Ronnets - Paradise (1965) Juice Newton - Angel of the Morning (1981) Etta James - I&amp;rsquo;d Rather Go Blind (1967) Jimmy Somerville and Bronski Beat - Small Town Boy (1984) Slade - Everyday (1974) Urge Overkill - Girl You&amp;rsquo;ll Be a Woman Soon (1992) Roger Whittaker - I Don&amp;rsquo;t Believe In If Anymore (1970) Lee Marvin - Wandering Star (1969) The 5th Dimension - Age of Aquarius (1969) The Battle Hymn of the Republic </description>
     </item>
-    
     <item>
       <title>2021-weather</title>
       <link>/collection/2021-weather/</link>
       <pubDate>Fri, 31 Dec 2021 00:00:00 +0000</pubDate>
-      
       <guid>/collection/2021-weather/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>2020-weather</title>
       <link>/collection/2020-weather/</link>
       <pubDate>Thu, 31 Dec 2020 00:00:00 +0000</pubDate>
-      
       <guid>/collection/2020-weather/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Bicycle Parts</title>
       <link>/collection/parts/</link>
       <pubDate>Fri, 15 Feb 2019 00:00:00 +0000</pubDate>
-      
       <guid>/collection/parts/</guid>
       <description>*Description *Quantity *Brand *Condition *MTB / Road / Cyclocross
 Big Blue Box
 SPD Pedals single sided 2 Shamino Used Road Pedal accessories 1 Speedplay New Road Small pumps 3 New Pumps 2 Blackburn Used Road 160mm Disc 1 New MTB Lights 1 Hope Used MTB Compact chain set with bearings 1 FSA Used Road Chain Set 1 Shimano Used Road Speedplay pedals 2 Speedplay Used Road Skewers Used Road Brake levers 2 Used Cyclocross Quill stem 1 Used Road 27.</description>
     </item>
-    
   </channel>
 </rss>

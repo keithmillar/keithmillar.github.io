@@ -6,15 +6,14 @@
     <description>Recent content in bird on Keith&#39;s Diary and Other Stuff</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 20 May 2014 00:00:00 +0000</lastBuildDate><atom:link href="/tags/bird/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 20 May 2014 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/tags/bird/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Sparrowhawk</title>
       <link>/2014-05-20-sparrowhawk/</link>
       <pubDate>Tue, 20 May 2014 00:00:00 +0000</pubDate>
-      
       <guid>/2014-05-20-sparrowhawk/</guid>
       <description>Manic scenes in the garden, birds going crazy, then I understood why. {{ more }}</description>
     </item>
-    
   </channel>
 </rss>
