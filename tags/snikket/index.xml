@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>snikket on Keith&#39;s Diary and Other Stuff</title>
+    <link>/tags/snikket/</link>
+    <description>Recent content in snikket on Keith&#39;s Diary and Other Stuff</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 31 Oct 2023 15:45:29 +0100</lastBuildDate>
+    <atom:link href="/tags/snikket/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Snikket</title>
+      <link>/2023-10-31-snikket/</link>
+      <pubDate>Tue, 31 Oct 2023 15:45:29 +0100</pubDate>
+      <guid>/2023-10-31-snikket/</guid>
+      <description>&lt;p&gt;Snikket could be the perfect message and phone app for me, and my close family.  I bought a virtual raspberry pi from &lt;a href=&#34;https://www.mythic-beasts.com&#34;&gt;www.mythic-beasts.com&lt;/a&gt; just for the purpose of running snikket but it is not to be.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
