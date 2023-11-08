@@ -6,8 +6,15 @@
     <description>Recent content on Keith&#39;s Diary and Other Stuff</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 01 Nov 2023 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 08 Nov 2023 00:00:00 +0000</lastBuildDate>
     <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Books by Date</title>
+      <link>/collection/books/</link>
+      <pubDate>Wed, 08 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>/collection/books/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Weather</title>
       <link>/collection/weather/</link>
@@ -21,13 +28,6 @@
       <pubDate>Tue, 31 Oct 2023 15:45:29 +0100</pubDate>
       <guid>/2023-10-31-snikket/</guid>
       <description>&lt;p&gt;Snikket could be the perfect message and phone app for me, and my close family.  I bought a virtual raspberry pi from &lt;a href=&#34;https://www.mythic-beasts.com&#34;&gt;www.mythic-beasts.com&lt;/a&gt; just for the purpose of running snikket but it is not to be.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Books by Date</title>
-      <link>/collection/books/</link>
-      <pubDate>Wed, 11 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>/collection/books/</guid>
-      <description></description>
     </item>
     <item>
       <title>La Vuelta Cheste</title>
