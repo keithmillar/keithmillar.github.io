@@ -6,8 +6,15 @@
     <description>Recent content on Keith&#39;s Diary and Other Stuff</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 30 Nov 2023 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 07 Dec 2023 00:00:00 +0000</lastBuildDate>
     <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Books by Date</title>
+      <link>/collection/books/</link>
+      <pubDate>Thu, 07 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>/collection/books/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Weather</title>
       <link>/collection/weather/</link>
@@ -21,13 +28,6 @@
       <pubDate>Tue, 21 Nov 2023 17:03:50 +0100</pubDate>
       <guid>/2023-11-14-flo-breaks-wrist/</guid>
       <description>&lt;p&gt;Sensitive Content&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Books by Date</title>
-      <link>/collection/books/</link>
-      <pubDate>Mon, 20 Nov 2023 00:00:00 +0000</pubDate>
-      <guid>/collection/books/</guid>
-      <description></description>
     </item>
     <item>
       <title>Snikket</title>
