@@ -2,28 +2,43 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>/blog/</loc>
+    <lastmod>2023-12-16T17:20:50+01:00</lastmod>
+  </url><url>
+    <loc>/2023-12-16-geocelda/</loc>
+    <lastmod>2023-12-16T17:20:50+01:00</lastmod>
+  </url><url>
+    <loc>/</loc>
+    <lastmod>2023-12-16T17:20:50+01:00</lastmod>
+  </url><url>
+    <loc>/tags/real/</loc>
+    <lastmod>2023-12-16T17:20:50+01:00</lastmod>
+  </url><url>
+    <loc>/tags/</loc>
+    <lastmod>2023-12-16T17:20:50+01:00</lastmod>
+  </url><url>
     <loc>/collection/books/</loc>
     <lastmod>2023-12-15T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/collection/</loc>
     <lastmod>2023-12-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/</loc>
-    <lastmod>2023-12-15T00:00:00+00:00</lastmod>
+    <loc>/tags/marathon/</loc>
+    <lastmod>2023-12-01T16:59:00+01:00</lastmod>
+  </url><url>
+    <loc>/tags/valencia/</loc>
+    <lastmod>2023-12-01T16:59:00+01:00</lastmod>
+  </url><url>
+    <loc>/2023-12-01-valencia-marathon-expo/</loc>
+    <lastmod>2023-12-01T16:59:00+01:00</lastmod>
   </url><url>
     <loc>/collection/weather/</loc>
     <lastmod>2023-11-30T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/blog/</loc>
-    <lastmod>2023-11-21T17:03:50+01:00</lastmod>
   </url><url>
     <loc>/tags/flo/</loc>
     <lastmod>2023-11-21T17:03:50+01:00</lastmod>
   </url><url>
     <loc>/2023-11-14-flo-breaks-wrist/</loc>
-    <lastmod>2023-11-21T17:03:50+01:00</lastmod>
-  </url><url>
-    <loc>/tags/</loc>
     <lastmod>2023-11-21T17:03:50+01:00</lastmod>
   </url><url>
     <loc>/tags/snikket/</loc>
@@ -48,9 +63,6 @@
     <lastmod>2023-07-06T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/tags/music/</loc>
-    <lastmod>2023-07-06T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/tags/real/</loc>
     <lastmod>2023-07-06T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/tags/spaih/</loc>
@@ -355,9 +367,6 @@
   </url><url>
     <loc>/2020-03-18-garth-and-helena-short-visit/</loc>
     <lastmod>2020-03-18T16:37:27+01:00</lastmod>
-  </url><url>
-    <loc>/tags/valencia/</loc>
-    <lastmod>2020-02-27T15:56:15+01:00</lastmod>
   </url><url>
     <loc>/2020-02-27-wedding-anniversary/</loc>
     <lastmod>2020-02-27T15:56:15+01:00</lastmod>
