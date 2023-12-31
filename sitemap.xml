@@ -11,6 +11,9 @@
     <loc>/</loc>
     <lastmod>2023-12-31T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>/collection/weather/</loc>
+    <lastmod>2023-12-31T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>/blog/</loc>
     <lastmod>2023-12-16T17:20:50+01:00</lastmod>
   </url><url>
@@ -31,9 +34,6 @@
   </url><url>
     <loc>/2023-12-01-valencia-marathon-expo/</loc>
     <lastmod>2023-12-01T16:59:00+01:00</lastmod>
-  </url><url>
-    <loc>/collection/weather/</loc>
-    <lastmod>2023-11-30T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/tags/flo/</loc>
     <lastmod>2023-11-21T17:03:50+01:00</lastmod>
