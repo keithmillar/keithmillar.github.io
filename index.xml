@@ -6,20 +6,27 @@
     <description>Recent content on Keith&#39;s Diary and Other Stuff</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 31 Dec 2023 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 07 Jan 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Books by Date</title>
       <link>/collection/books/</link>
-      <pubDate>Sun, 31 Dec 2023 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 07 Jan 2024 00:00:00 +0000</pubDate>
       <guid>/collection/books/</guid>
       <description></description>
     </item>
     <item>
       <title>Weather</title>
       <link>/collection/weather/</link>
-      <pubDate>Sun, 31 Dec 2023 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 07 Jan 2024 00:00:00 +0000</pubDate>
       <guid>/collection/weather/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>2023-weather</title>
+      <link>/collection/2023-weather/</link>
+      <pubDate>Sun, 31 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>/collection/2023-weather/</guid>
       <description></description>
     </item>
     <item>
