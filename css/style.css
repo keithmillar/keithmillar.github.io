@@ -30,12 +30,21 @@
     font-style: normal;
 }
 
+@font-face {
+				font-family: "Atkinson Hyperlegible";
+				src: url(/fonts/htkinson-hyperlegible/Atkinson-Hyperlegible-Regular-102a.woff2) format("woff2");
+				font-weight: 400;
+				font-display: swap;
+			}
+
+
 body {
   max-width: 800px;
   margin: auto;
   padding: 1em;
   line-height: 1.5em;
-  font-family: 'linux_biolinum';
+  font-family: 'Atkinson-Hyperlegible-Regular-102a.woff2';
+  /* font-family: 'linux_biolinum'; */
       font-size: 110%;
 }
 
@@ -43,16 +52,20 @@ header {
 font-family: 'claire_handregular';
 }
 .menu {
-font-family: 'claire_handregular';
+/*font-family: 'claire_handregular';*/
+font-family: 'Atkinson-Hyperlegible-Regular-102a.woff2';
       font-size: 110%;
 }
 
 footer {
-font-family: 'claire_handregular';
+/*font-family: 'claire_handregular';*/
+font-family: 'Atkinson-Hyperlegible-Regular-102a.woff2';
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: 'claire_handregular';
+  /* font-family: 'claire_handregular'; */
+/*font-family: 'linux_biolinum';*/
+font-family: 'Atkinson-Hyperlegible-Bold-102a.woff2';
   }
 
   /* header and footer areas */
