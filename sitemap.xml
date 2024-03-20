@@ -3,13 +3,13 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>/collection/books/</loc>
-    <lastmod>2024-03-11T00:00:00+00:00</lastmod>
+    <lastmod>2024-03-20T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/collection/</loc>
-    <lastmod>2024-03-11T00:00:00+00:00</lastmod>
+    <lastmod>2024-03-20T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/</loc>
-    <lastmod>2024-03-11T00:00:00+00:00</lastmod>
+    <lastmod>2024-03-20T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/blog/</loc>
     <lastmod>2024-03-10T00:00:00+00:00</lastmod>
@@ -37,6 +37,15 @@
   </url><url>
     <loc>/collection/weather/</loc>
     <lastmod>2024-03-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/pet/</loc>
+    <lastmod>2024-02-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/woody/</loc>
+    <lastmod>2024-02-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/2024-02-29-woodys-big-loss/</loc>
+    <lastmod>2024-02-29T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/2024-01-31-new-month-new-year-new-problems/</loc>
     <lastmod>2024-01-31T11:52:11+01:00</lastmod>
@@ -100,9 +109,6 @@
   </url><url>
     <loc>/2023-06-11-xi-cycloturista-march-avapace/</loc>
     <lastmod>2023-06-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/tags/woody/</loc>
-    <lastmod>2023-05-19T12:03:50+02:00</lastmod>
   </url><url>
     <loc>/2023-05-19-woody-getting-bigger/</loc>
     <lastmod>2023-05-19T12:03:50+02:00</lastmod>
