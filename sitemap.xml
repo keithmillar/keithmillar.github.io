@@ -2,31 +2,40 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>/blog/</loc>
+    <lastmod>2024-04-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/home/</loc>
+    <lastmod>2024-04-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/</loc>
+    <lastmod>2024-04-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/2024-04-18-patio-area-finished/</loc>
+    <lastmod>2024-04-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/spain/</loc>
+    <lastmod>2024-04-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/</loc>
+    <lastmod>2024-04-18T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>/collection/books/</loc>
     <lastmod>2024-04-11T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/collection/</loc>
     <lastmod>2024-04-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/</loc>
-    <lastmod>2024-04-11T00:00:00+00:00</lastmod>
+    <loc>/2024-03-31-g-and-h-annual-visit/</loc>
+    <lastmod>2024-03-31T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/collection/weather/</loc>
     <lastmod>2024-03-31T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/blog/</loc>
-    <lastmod>2024-03-10T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/tags/cycling/</loc>
     <lastmod>2024-03-10T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/2024-03-10-millars-gran-fondo/</loc>
-    <lastmod>2024-03-10T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/tags/spain/</loc>
-    <lastmod>2024-03-10T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/tags/</loc>
     <lastmod>2024-03-10T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/tags/fire/</loc>
@@ -339,9 +348,6 @@
     <lastmod>2020-11-21T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/tags/covid-19/</loc>
-    <lastmod>2020-11-15T17:18:15+00:00</lastmod>
-  </url><url>
-    <loc>/tags/home/</loc>
     <lastmod>2020-11-15T17:18:15+00:00</lastmod>
   </url><url>
     <loc>/2020-11-15-marking-time/</loc>
