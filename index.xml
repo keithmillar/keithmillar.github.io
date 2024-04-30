@@ -4,10 +4,17 @@
     <title>Keith&#39;s Diary and Other Stuff</title>
     <link>/</link>
     <description>Recent content on Keith&#39;s Diary and Other Stuff</description>
-    <generator>Hugo 0.125.0</generator>
+    <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 18 Apr 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 30 Apr 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Weather</title>
+      <link>/collection/weather/</link>
+      <pubDate>Tue, 30 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>/collection/weather/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Patio Area Finished</title>
       <link>/2024-04-18-patio-area-finished/</link>
@@ -28,13 +35,6 @@
       <pubDate>Sun, 31 Mar 2024 00:00:00 +0000</pubDate>
       <guid>/2024-03-31-g-and-h-annual-visit/</guid>
       <description>&lt;p&gt;Garth and Helena end their annual visit in a couple of days when they fly back to Canada.&#xA;We packed a lot in, two big cycles one with Sara Wager which was a great day on the bikes and a great Indian meal at the end.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Weather</title>
-      <link>/collection/weather/</link>
-      <pubDate>Sun, 31 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>/collection/weather/</guid>
-      <description></description>
     </item>
     <item>
       <title>Millars Gran Fondo Medio</title>
