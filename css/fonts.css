@@ -1,0 +1,40 @@
+@font-face {
+    font-family: 'claire_handregular';
+    src: url('/fonts/claire_hand/clairehandregular-webfont.eot');
+    src: url('/fonts/claire_hand/clairehandregular-webfont.eot?#iefix') format('embedded-opentype'),
+         url('/fonts/claire_hand/clairehandregular-webfont.woff2') format('woff2'),
+         url('/fonts/claire_hand/clairehandregular-webfont.woff') format('woff'),
+         url('/fonts/claire_hand/clairehandregular-webfont.ttf') format('truetype'),
+         url('fonts/claire_hand/clairehandregular-webfont.svg#claire_handregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'claire_handbold';
+    src: url('/fonts/claire_hand/clairehandbold-webfont.eot');
+    src: url('/fonts/claire_hand/clairehandbold-webfont.eot?#iefix') format('embedded-opentype'),
+         url('/fonts/claire_hand/clairehandbold-webfont.woff2') format('woff2'),
+         url('/fonts/claire_hand/clairehandbold-webfont.woff') format('woff'),
+         url('/fonts/claire_hand/clairehandbold-webfont.ttf') format('truetype'),
+         url('/fonts/claire_hand/clairehandbold-webfont.svg#claire_handbold') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'linux_biolinum';
+    src: url('/fonts/linuxbiolinum/linbiolinum.woff2') format('woff2'),
+         url('/fonts/linuxbiolinum/linbiolinum.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+/*
+body {
+  font-family: Optima, Candara, Calibri, Arial, sans-serif;
+}
+code {
+  font-family: "Lucida Console", Monaco, monospace;
+  font-size: 85%;
+}
+*/
