@@ -6,8 +6,15 @@
     <description>Recent content on Keith&#39;s Diary and Other Stuff</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 01 Jun 2024 15:49:28 +0200</lastBuildDate>
+    <lastBuildDate>Fri, 14 Jun 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Books by Date</title>
+      <link>/collection/books/</link>
+      <pubDate>Fri, 14 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>/collection/books/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Spanish Superbikes</title>
       <link>/2024-06-01-spanish-superbikes/</link>
@@ -20,13 +27,6 @@
       <link>/collection/weather/</link>
       <pubDate>Fri, 31 May 2024 00:00:00 +0000</pubDate>
       <guid>/collection/weather/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Books by Date</title>
-      <link>/collection/books/</link>
-      <pubDate>Mon, 27 May 2024 00:00:00 +0000</pubDate>
-      <guid>/collection/books/</guid>
       <description></description>
     </item>
     <item>
