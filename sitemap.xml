@@ -2,28 +2,34 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>/blog/</loc>
+    <lastmod>2024-06-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/</loc>
+    <lastmod>2024-06-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/spain/</loc>
+    <lastmod>2024-06-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/</loc>
+    <lastmod>2024-06-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/valencia/</loc>
+    <lastmod>2024-06-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/2024-06-16-valencia-with-daryl-and-ellen/</loc>
+    <lastmod>2024-06-16T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>/collection/books/</loc>
     <lastmod>2024-06-14T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/collection/</loc>
     <lastmod>2024-06-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/</loc>
-    <lastmod>2024-06-14T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/blog/</loc>
-    <lastmod>2024-06-01T15:49:28+02:00</lastmod>
-  </url><url>
     <loc>/tags/motorcycle/</loc>
     <lastmod>2024-06-01T15:49:28+02:00</lastmod>
   </url><url>
-    <loc>/tags/spain/</loc>
-    <lastmod>2024-06-01T15:49:28+02:00</lastmod>
-  </url><url>
     <loc>/2024-06-01-spanish-superbikes/</loc>
-    <lastmod>2024-06-01T15:49:28+02:00</lastmod>
-  </url><url>
-    <loc>/tags/</loc>
     <lastmod>2024-06-01T15:49:28+02:00</lastmod>
   </url><url>
     <loc>/collection/weather/</loc>
@@ -90,9 +96,6 @@
     <lastmod>2023-12-16T17:20:50+01:00</lastmod>
   </url><url>
     <loc>/tags/marathon/</loc>
-    <lastmod>2023-12-01T16:59:00+01:00</lastmod>
-  </url><url>
-    <loc>/tags/valencia/</loc>
     <lastmod>2023-12-01T16:59:00+01:00</lastmod>
   </url><url>
     <loc>/2023-12-01-valencia-marathon-expo/</loc>
