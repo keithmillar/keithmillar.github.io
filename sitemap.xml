@@ -2,26 +2,32 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>/blog/</loc>
+    <lastmod>2024-07-26T11:23:38+02:00</lastmod>
+  </url><url>
+    <loc>/2024-07-26-july/</loc>
+    <lastmod>2024-07-26T11:23:38+02:00</lastmod>
+  </url><url>
+    <loc>/</loc>
+    <lastmod>2024-07-26T11:23:38+02:00</lastmod>
+  </url><url>
+    <loc>/tags/real/</loc>
+    <lastmod>2024-07-26T11:23:38+02:00</lastmod>
+  </url><url>
+    <loc>/tags/spain/</loc>
+    <lastmod>2024-07-26T11:23:38+02:00</lastmod>
+  </url><url>
+    <loc>/tags/</loc>
+    <lastmod>2024-07-26T11:23:38+02:00</lastmod>
+  </url><url>
     <loc>/collection/books/</loc>
     <lastmod>2024-07-22T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/collection/</loc>
     <lastmod>2024-07-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/</loc>
-    <lastmod>2024-07-22T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>/collection/weather/</loc>
     <lastmod>2024-06-30T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/blog/</loc>
-    <lastmod>2024-06-16T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/tags/spain/</loc>
-    <lastmod>2024-06-16T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/tags/</loc>
-    <lastmod>2024-06-16T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/tags/valencia/</loc>
     <lastmod>2024-06-16T00:00:00+00:00</lastmod>
@@ -63,9 +69,6 @@
     <lastmod>2024-03-05T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/2024-03-05-fire-rages-in-real/</loc>
-    <lastmod>2024-03-05T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/tags/real/</loc>
     <lastmod>2024-03-05T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/tags/pet/</loc>
