@@ -2,13 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>/collection/books/</loc>
+    <lastmod>2024-08-07T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>/collection/</loc>
-    <lastmod>2024-07-31T00:00:00+00:00</lastmod>
+    <lastmod>2024-08-07T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/</loc>
-    <lastmod>2024-07-31T00:00:00+00:00</lastmod>
+    <lastmod>2024-08-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/collection/weather/</loc>
+    <loc>/collection/2024-weather/</loc>
     <lastmod>2024-07-31T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/blog/</loc>
@@ -25,9 +28,6 @@
   </url><url>
     <loc>/tags/</loc>
     <lastmod>2024-07-26T11:23:38+02:00</lastmod>
-  </url><url>
-    <loc>/collection/books/</loc>
-    <lastmod>2024-07-22T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/tags/valencia/</loc>
     <lastmod>2024-06-16T00:00:00+00:00</lastmod>
@@ -350,14 +350,14 @@
     <loc>/tags/dusty/</loc>
     <lastmod>2021-01-22T16:23:03+01:00</lastmod>
   </url><url>
-    <loc>/collection/2020-weather/</loc>
-    <lastmod>2020-12-31T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>/2020-12-31-the-end/</loc>
     <lastmod>2020-12-31T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/2020-12-30-back-in-action/</loc>
     <lastmod>2020-12-30T11:55:09+01:00</lastmod>
+  </url><url>
+    <loc>/collection/2020-weather/</loc>
+    <lastmod>2020-12-30T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/2020-12-25-chrishmas-day/</loc>
     <lastmod>2020-12-25T00:00:00+00:00</lastmod>
