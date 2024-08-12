@@ -1,71 +1,39 @@
 @font-face {
-    font-family: 'claire_handregular';
-    src: url('/fonts/claire_hand/clairehandregular-webfont.eot');
-    src: url('/fonts/claire_hand/clairehandregular-webfont.eot?#iefix') format('embedded-opentype'),
-         url('/fonts/claire_hand/clairehandregular-webfont.woff2') format('woff2'),
-         url('/fonts/claire_hand/clairehandregular-webfont.woff') format('woff'),
-         url('/fonts/claire_hand/clairehandregular-webfont.ttf') format('truetype'),
-         url('fonts/claire_hand/clairehandregular-webfont.svg#claire_handregular') format('svg');
-    font-weight: normal;
-    font-style: normal;
-}
-
-@font-face {
-    font-family: 'claire_handbold';
-    src: url('/fonts/claire_hand/clairehandbold-webfont.eot');
-    src: url('/fonts/claire_hand/clairehandbold-webfont.eot?#iefix') format('embedded-opentype'),
-         url('/fonts/claire_hand/clairehandbold-webfont.woff2') format('woff2'),
-         url('/fonts/claire_hand/clairehandbold-webfont.woff') format('woff'),
-         url('/fonts/claire_hand/clairehandbold-webfont.ttf') format('truetype'),
-         url('/fonts/claire_hand/clairehandbold-webfont.svg#claire_handbold') format('svg');
-    font-weight: normal;
-    font-style: normal;
-}
-
-@font-face {
-    font-family: 'linux_biolinum';
-    src: url('/fonts/linuxbiolinum/linbiolinum.woff2') format('woff2'),
-         url('/fonts/linuxbiolinum/linbiolinum.woff') format('woff');
-    font-weight: normal;
-    font-style: normal;
-}
-
-@font-face {
-				font-family: "Atkinson Hyperlegible";
-				src: url(/fonts/htkinson-hyperlegible/Atkinson-Hyperlegible-Regular-102a.woff2) format("woff2");
-				font-weight: 400;
-				font-display: swap;
+	font-family: "Atkinson Hyperlegible";
+	src: url(/fonts/WOFF2/atkinson-hyperlegible/Atkinson-Hyperlegible-Regular-102a.woff2) format("woff2");
+	src: url(/fonts/TTF/atkinson-hyperlegible/Atkinson-Hyperlegible-Regular-102.ttf) format("truetype");
+	src: url(/fonts/WOFF/atkinson-hyperlegible/Atkinson-Hyperlegible-Regular-102.woff) format("woff");
+	src: url(/fonts/EOT/atkinson-hyperlegible/Atkinson-Hyperlegible-Regular-102.eot) format("eot");
+	src: url(/fonts/SVG/atkinson-hyperlegible/Atkinson-Hyperlegible-Regular-102.svg) format("svg");
+	font-weight: 400;
+	font-style: normal;
 			}
-
 
 body {
   max-width: 800px;
   margin: auto;
   padding: 1em;
   line-height: 1.5em;
-  font-family: 'Atkinson-Hyperlegible-Regular-102a.woff2';
-  /* font-family: 'linux_biolinum'; */
+  font-family: "Atkinson-Hyperlegible-Regular-102a.woff2", "Atkinson-Hyperlegible-Regular-102.woff", "Atkinson-Hyperlegible-Regular-102.ttf", "Atkinson-Hyperlegible-Regular-102.svg", "Atkinson-Hyperlegible-Regular-102.eot", "Arial";
       font-size: 110%;
 }
 
 header {
-font-family: 'claire_handregular';
+  font-family: "Atkinson-Hyperlegible-Regular-102a.woff2", "Atkinson-Hyperlegible-Regular-102.woff", "Atkinson-Hyperlegible-Regular-102.ttf", "Atkinson-Hyperlegible-Regular-102.svg", "Atkinson-Hyperlegible-Regular-102.eot", "Arial";
 }
 .menu {
-/*font-family: 'claire_handregular';*/
-font-family: 'Atkinson-Hyperlegible-Regular-102a.woff2';
+  font-family: "Atkinson-Hyperlegible-Regular-102a.woff2", "Atkinson-Hyperlegible-Regular-102.woff", "Atkinson-Hyperlegible-Regular-102.ttf", "Atkinson-Hyperlegible-Regular-102.svg", "Atkinson-Hyperlegible-Regular-102.eot", "Arial";
       font-size: 110%;
 }
 
 footer {
-/*font-family: 'claire_handregular';*/
-font-family: 'Atkinson-Hyperlegible-Regular-102a.woff2';
+  font-family: "Atkinson-Hyperlegible-Regular-102a.woff2", "Atkinson-Hyperlegible-Regular-102.woff", "Atkinson-Hyperlegible-Regular-102.ttf", "Atkinson-Hyperlegible-Regular-102.svg", "Atkinson-Hyperlegible-Regular-102.eot", "Arial";
 }
 
 h1, h2, h3, h4, h5, h6 {
   /* font-family: 'claire_handregular'; */
 /*font-family: 'linux_biolinum';*/
-font-family: 'Atkinson-Hyperlegible-Bold-102a.woff2';
+  font-family: "Atkinson-Hyperlegible-Regular-102a.woff2", "Atkinson-Hyperlegible-Regular-102.woff", "Atkinson-Hyperlegible-Regular-102.ttf", "Atkinson-Hyperlegible-Regular-102.svg", "Atkinson-Hyperlegible-Regular-102.eot", "Arial";
   }
 
   /* header and footer areas */
