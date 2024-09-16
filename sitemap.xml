@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>/collection/books/</loc>
+    <lastmod>2024-09-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/collection/</loc>
+    <lastmod>2024-09-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/</loc>
+    <lastmod>2024-09-16T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>/collection/2024-weather/</loc>
     <lastmod>2024-08-31T00:00:00+00:00</lastmod>
   </url><url>
@@ -11,13 +20,7 @@
     <loc>/blog/</loc>
     <lastmod>2024-08-31T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/collection/</loc>
-    <lastmod>2024-08-31T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>/tags/cycling/</loc>
-    <lastmod>2024-08-31T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/</loc>
     <lastmod>2024-08-31T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/tags/spain/</loc>
@@ -25,9 +28,6 @@
   </url><url>
     <loc>/tags/</loc>
     <lastmod>2024-08-31T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/collection/books/</loc>
-    <lastmod>2024-08-27T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/2024-07-26-july/</loc>
     <lastmod>2024-07-26T11:23:38+02:00</lastmod>
