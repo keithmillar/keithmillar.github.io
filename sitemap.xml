@@ -2,20 +2,44 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>/blog/</loc>
+    <lastmod>2024-12-17T16:44:28+01:00</lastmod>
+  </url><url>
+    <loc>/2024-12-17-kawasaki-kt-250/</loc>
+    <lastmod>2024-12-17T16:44:28+01:00</lastmod>
+  </url><url>
+    <loc>/</loc>
+    <lastmod>2024-12-17T16:44:28+01:00</lastmod>
+  </url><url>
+    <loc>/tags/motorcycle/</loc>
+    <lastmod>2024-12-17T16:44:28+01:00</lastmod>
+  </url><url>
+    <loc>/tags/</loc>
+    <lastmod>2024-12-17T16:44:28+01:00</lastmod>
+  </url><url>
+    <loc>/tags/trial/</loc>
+    <lastmod>2024-12-17T16:44:28+01:00</lastmod>
+  </url><url>
     <loc>/collection/books/</loc>
     <lastmod>2024-12-07T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/collection/</loc>
     <lastmod>2024-12-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/</loc>
-    <lastmod>2024-12-07T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>/collection/2024-weather/</loc>
     <lastmod>2024-12-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/blog/</loc>
-    <lastmod>2024-10-31T00:00:00+00:00</lastmod>
+    <loc>/tags/running/</loc>
+    <lastmod>2024-12-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/2024-12-01-valencia-marathon/</loc>
+    <lastmod>2024-12-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/2024-11-22-trial-classic-costa-brava/</loc>
+    <lastmod>2024-11-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/trials/</loc>
+    <lastmod>2024-11-22T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/tags/dana/</loc>
     <lastmod>2024-10-31T00:00:00+00:00</lastmod>
@@ -24,9 +48,6 @@
     <lastmod>2024-10-31T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/tags/spain/</loc>
-    <lastmod>2024-10-31T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/tags/</loc>
     <lastmod>2024-10-31T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/tags/london/</loc>
@@ -61,9 +82,6 @@
   </url><url>
     <loc>/2024-06-16-valencia-with-daryl-and-ellen/</loc>
     <lastmod>2024-06-16T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/tags/motorcycle/</loc>
-    <lastmod>2024-06-01T15:49:28+02:00</lastmod>
   </url><url>
     <loc>/2024-06-01-spanish-superbikes/</loc>
     <lastmod>2024-06-01T15:49:28+02:00</lastmod>
@@ -176,9 +194,6 @@
     <loc>/2023-03-12-elche-half-marathon/</loc>
     <lastmod>2023-03-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/running/</loc>
-    <lastmod>2023-03-12T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>/tags/albufera/</loc>
     <lastmod>2023-02-19T17:08:35+01:00</lastmod>
   </url><url>
@@ -264,9 +279,6 @@
     <lastmod>2022-05-20T15:30:05+02:00</lastmod>
   </url><url>
     <loc>/2022-04-trial-sant-joan-de-les-abadesse/</loc>
-    <lastmod>2022-04-15T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/tags/trials/</loc>
     <lastmod>2022-04-15T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/2022-03-29-march-rains/</loc>
