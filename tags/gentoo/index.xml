@@ -13,7 +13,7 @@
       <link>/2012-01-26-gentoo-emerge-hell/</link>
       <pubDate>Thu, 26 Jan 2012 00:00:00 +0000</pubDate>
       <guid>/2012-01-26-gentoo-emerge-hell/</guid>
-      <description>As normal with Gentoo when things start to go wrong they just keep getting worse. First kdepy4 gave trouble had to downgrade sip, that sort of fixed that. Then kdepim4 wouldn&amp;rsquo;t compile, ended up leaving it, hopefully it will be fixed in the next few days. Must spend some time tidying up portage keywords etc.</description>
+      <description>&lt;p&gt;As normal with Gentoo when things start to go wrong they just keep getting&#xA;worse. First kdepy4 gave trouble had to downgrade sip, that sort of fixed&#xA;that. Then kdepim4 wouldn&amp;rsquo;t compile, ended up leaving it, hopefully it will be&#xA;fixed in the next few days. Must spend some time tidying up portage keywords&#xA;etc.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

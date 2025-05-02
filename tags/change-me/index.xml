@@ -20,7 +20,7 @@
       <link>/2016-08-02-off-to-wales/</link>
       <pubDate>Tue, 02 Aug 2016 00:00:00 +0000</pubDate>
       <guid>/2016-08-02-off-to-wales/</guid>
-      <description>{{ more }}</description>
+      <description>&lt;p&gt;{{ more }}&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;/images/2016/&#34; alt=&#34;&#34;&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

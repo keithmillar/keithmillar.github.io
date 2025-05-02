@@ -3,15 +3,15 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>/collection/2025-weather/</loc>
-    <lastmod>2025-04-12T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/collection/books/</loc>
-    <lastmod>2025-04-12T00:00:00+00:00</lastmod>
+    <lastmod>2025-05-02T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/collection/</loc>
-    <lastmod>2025-04-12T00:00:00+00:00</lastmod>
+    <lastmod>2025-05-02T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/</loc>
+    <lastmod>2025-05-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/collection/books/</loc>
     <lastmod>2025-04-12T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/blog/</loc>
@@ -53,10 +53,10 @@
     <loc>/tags/trials/</loc>
     <lastmod>2024-11-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/dana/</loc>
+    <loc>/2024-10-31-dana/</loc>
     <lastmod>2024-10-31T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/2024-10-31-dana/</loc>
+    <loc>/tags/dana/</loc>
     <lastmod>2024-10-31T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/tags/london/</loc>
@@ -161,10 +161,10 @@
     <loc>/2023-11-14-flo-breaks-wrist/</loc>
     <lastmod>2023-11-21T17:03:50+01:00</lastmod>
   </url><url>
-    <loc>/tags/snikket/</loc>
+    <loc>/2023-10-31-snikket/</loc>
     <lastmod>2023-10-31T15:45:29+01:00</lastmod>
   </url><url>
-    <loc>/2023-10-31-snikket/</loc>
+    <loc>/tags/snikket/</loc>
     <lastmod>2023-10-31T15:45:29+01:00</lastmod>
   </url><url>
     <loc>/2023-09-01-la-vuelta-cheste/</loc>
@@ -212,10 +212,10 @@
     <loc>/tags/madrid/</loc>
     <lastmod>2023-01-31T17:57:03+01:00</lastmod>
   </url><url>
-    <loc>/tags/repair/</loc>
+    <loc>/2023-01-31-repair/</loc>
     <lastmod>2023-01-31T17:57:03+01:00</lastmod>
   </url><url>
-    <loc>/2023-01-31-repair/</loc>
+    <loc>/tags/repair/</loc>
     <lastmod>2023-01-31T17:57:03+01:00</lastmod>
   </url><url>
     <loc>/2023-01-26-madrid/</loc>
@@ -248,10 +248,10 @@
     <loc>/2022-10-16-v-marcha-ciclodeportiva-de-tous/</loc>
     <lastmod>2022-10-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/mallorca/</loc>
+    <loc>/2022-09-29-mallorca/</loc>
     <lastmod>2022-09-29T17:14:10+02:00</lastmod>
   </url><url>
-    <loc>/2022-09-29-mallorca/</loc>
+    <loc>/tags/mallorca/</loc>
     <lastmod>2022-09-29T17:14:10+02:00</lastmod>
   </url><url>
     <loc>/2022-08-07-holiday-spain-and-portugal/</loc>
@@ -509,10 +509,10 @@
     <loc>/2019-08-22-garden-upgrade/</loc>
     <lastmod>2019-08-22T18:43:46+01:00</lastmod>
   </url><url>
-    <loc>/tags/tollymore/</loc>
+    <loc>/2019-07-11-tollymore/</loc>
     <lastmod>2019-07-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/2019-07-11-tollymore/</loc>
+    <loc>/tags/tollymore/</loc>
     <lastmod>2019-07-11T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/tags/walking/</loc>
@@ -653,10 +653,10 @@
     <loc>/2018-08-15-montreal/</loc>
     <lastmod>2018-08-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/iceland/</loc>
+    <loc>/2018-08-13-iceland/</loc>
     <lastmod>2018-08-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/2018-08-13-iceland/</loc>
+    <loc>/tags/iceland/</loc>
     <lastmod>2018-08-13T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/2018-07-06-dunfanaghy/</loc>
@@ -671,22 +671,22 @@
     <loc>/2018-06-06-france/</loc>
     <lastmod>2018-06-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/italy/</loc>
-    <lastmod>2018-05-19T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>/2018-05-19-italy/</loc>
     <lastmod>2018-05-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/austria/</loc>
-    <lastmod>2018-05-16T00:00:00+00:00</lastmod>
+    <loc>/tags/italy/</loc>
+    <lastmod>2018-05-19T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/2018-05-16-austria/</loc>
     <lastmod>2018-05-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/liechtenstein/</loc>
-    <lastmod>2018-05-15T00:00:00+00:00</lastmod>
+    <loc>/tags/austria/</loc>
+    <lastmod>2018-05-16T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/2018-05-15-liechtenstein/</loc>
+    <lastmod>2018-05-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/liechtenstein/</loc>
     <lastmod>2018-05-15T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/tags/germany/</loc>
@@ -974,10 +974,10 @@
     <loc>/2016-01-24-medieval-llombai-tower-of-macastre/</loc>
     <lastmod>2016-01-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/yoga/</loc>
+    <loc>/2016-01-22-yoga/</loc>
     <lastmod>2016-01-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/2016-01-22-yoga/</loc>
+    <loc>/tags/yoga/</loc>
     <lastmod>2016-01-22T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/2016-01-21-the-best-laid-plans-by-flo/</loc>
