@@ -3,19 +3,37 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>/collection/books/</loc>
-    <lastmod>2025-08-10T00:00:00+00:00</lastmod>
+    <lastmod>2025-08-16T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/collection/</loc>
-    <lastmod>2025-08-10T00:00:00+00:00</lastmod>
+    <lastmod>2025-08-16T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/</loc>
-    <lastmod>2025-08-10T00:00:00+00:00</lastmod>
+    <lastmod>2025-08-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/blog/</loc>
+    <lastmod>2025-08-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/newtownards/</loc>
+    <lastmod>2025-08-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/2025-08-05-newtownards-part-three/</loc>
+    <lastmod>2025-08-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/</loc>
+    <lastmod>2025-08-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/queen/</loc>
+    <lastmod>2025-07-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/2025-07-11-queen-tribute/</loc>
+    <lastmod>2025-07-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/spain/</loc>
+    <lastmod>2025-07-11T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/collection/2025-weather/</loc>
     <lastmod>2025-07-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/blog/</loc>
-    <lastmod>2025-06-30T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/tags/freya/</loc>
     <lastmod>2025-06-30T00:00:00+00:00</lastmod>
@@ -23,16 +41,10 @@
     <loc>/2025-06-30-freya-joins-our-family/</loc>
     <lastmod>2025-06-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/</loc>
-    <lastmod>2025-06-30T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>/tags/aircon/</loc>
     <lastmod>2025-05-30T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/2025-05-30-aircon-kitchen-hospital/</loc>
-    <lastmod>2025-05-30T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/tags/spain/</loc>
     <lastmod>2025-05-30T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/tags/ards/</loc>
