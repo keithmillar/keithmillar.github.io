@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Wales on Keith&#39;s Diary and Other Stuff</title>
+    <link>/tags/wales/</link>
+    <description>Recent content in Wales on Keith&#39;s Diary and Other Stuff</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 02 Aug 2016 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/tags/wales/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Off to Wales</title>
+      <link>/2016-08-02-off-to-wales/</link>
+      <pubDate>Tue, 02 Aug 2016 00:00:00 +0000</pubDate>
+      <guid>/2016-08-02-off-to-wales/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;/images/2016/&#34; alt=&#34;&#34;&gt;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

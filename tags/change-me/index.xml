@@ -2,25 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Change Me on Keith&#39;s Diary and Other Stuff</title>
-    <link>/tags/change-me/</link>
+    <link>http://192.168.5.152:1313/tags/change-me/</link>
     <description>Recent content in Change Me on Keith&#39;s Diary and Other Stuff</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 31 Dec 2021 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/tags/change-me/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Year End Round Up</title>
-      <link>/2021-12-31-year-end-round-up/</link>
-      <pubDate>Fri, 31 Dec 2021 00:00:00 +0000</pubDate>
-      <guid>/2021-12-31-year-end-round-up/</guid>
-      <description>&lt;p&gt;More of the same, everything still up in the air due to covid. Travel very limited so we have stayed local since our return in July/August.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Off to Wales</title>
-      <link>/2016-08-02-off-to-wales/</link>
-      <pubDate>Tue, 02 Aug 2016 00:00:00 +0000</pubDate>
-      <guid>/2016-08-02-off-to-wales/</guid>
-      <description>&lt;p&gt;{{ more }}&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;/images/2016/&#34; alt=&#34;&#34;&gt;&lt;/p&gt;</description>
-    </item>
+    <atom:link href="http://192.168.5.152:1313/tags/change-me/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

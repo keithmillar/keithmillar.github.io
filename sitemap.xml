@@ -344,7 +344,7 @@
     <loc>/collection/2021-weather/</loc>
     <lastmod>2021-12-31T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/change-me/</loc>
+    <loc>/tags/covid/</loc>
     <lastmod>2021-12-31T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/2021-12-31-year-end-round-up/</loc>
@@ -439,9 +439,6 @@
   </url><url>
     <loc>/2020-11-21-back-in-real/</loc>
     <lastmod>2020-11-21T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/tags/covid/</loc>
-    <lastmod>2020-11-15T17:18:15+00:00</lastmod>
   </url><url>
     <loc>/2020-11-15-marking-time/</loc>
     <lastmod>2020-11-15T17:18:15+00:00</lastmod>
@@ -577,9 +574,6 @@
   </url><url>
     <loc>/2019-05-18-chinon/</loc>
     <lastmod>2019-05-18T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/tags/hello/</loc>
-    <lastmod>2019-05-17T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/2019-05-17-lembras-chinon/</loc>
     <lastmod>2019-05-17T00:00:00+00:00</lastmod>
@@ -885,6 +879,9 @@
     <lastmod>2016-08-22T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/2016-08-02-off-to-wales/</loc>
+    <lastmod>2016-08-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/wales/</loc>
     <lastmod>2016-08-02T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/2016-07-25-campobello-island/</loc>
