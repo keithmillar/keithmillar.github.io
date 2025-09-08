@@ -2,25 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Covid-19 on Keith&#39;s Diary and Other Stuff</title>
-    <link>/tags/covid-19/</link>
+    <link>http://192.168.5.152:1313/tags/covid-19/</link>
     <description>Recent content in Covid-19 on Keith&#39;s Diary and Other Stuff</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 15 Nov 2020 17:18:15 +0000</lastBuildDate>
-    <atom:link href="/tags/covid-19/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Marking Time</title>
-      <link>/2020-11-15-marking-time/</link>
-      <pubDate>Sun, 15 Nov 2020 17:18:15 +0000</pubDate>
-      <guid>/2020-11-15-marking-time/</guid>
-      <description>&lt;p&gt;Just doing as many jobs as possible, but the weather is awful and since Lotti got the ok from the vet we have decided to return to Spain if possible.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Resuming Normality</title>
-      <link>/2020-06-01-resuming-normality/</link>
-      <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
-      <guid>/2020-06-01-resuming-normality/</guid>
-      <description>&lt;p&gt;Today Valencia moved into phase 2 which allowed large stores to open with certain restrictions, and bars and restaurants to open with reduced capacity. Exercise is allowed without restriction finally we are getting back to some normality.&lt;/p&gt;</description>
-    </item>
+    <atom:link href="http://192.168.5.152:1313/tags/covid-19/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

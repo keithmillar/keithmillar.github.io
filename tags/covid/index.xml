@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Covid on Keith&#39;s Diary and Other Stuff</title>
+    <link>/tags/covid/</link>
+    <description>Recent content in Covid on Keith&#39;s Diary and Other Stuff</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 15 Nov 2020 17:18:15 +0000</lastBuildDate>
+    <atom:link href="/tags/covid/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Marking Time</title>
+      <link>/2020-11-15-marking-time/</link>
+      <pubDate>Sun, 15 Nov 2020 17:18:15 +0000</pubDate>
+      <guid>/2020-11-15-marking-time/</guid>
+      <description>&lt;p&gt;Just doing as many jobs as possible, but the weather is awful and since Lotti got the ok from the vet we have decided to return to Spain if possible.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Resuming Normality</title>
+      <link>/2020-06-01-resuming-normality/</link>
+      <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>/2020-06-01-resuming-normality/</guid>
+      <description>&lt;p&gt;Today Valencia moved into phase 2 which allowed large stores to open with certain restrictions, and bars and restaurants to open with reduced capacity. Exercise is allowed without restriction finally we are getting back to some normality.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Slowly Getting Back to Normal</title>
+      <link>/2020-05-06-slowly-getting-back-to-normal/</link>
+      <pubDate>Wed, 06 May 2020 14:11:52 +0200</pubDate>
+      <guid>/2020-05-06-slowly-getting-back-to-normal/</guid>
+      <description>&lt;p&gt;This is the first week since lock down began that we can legitimately leave the house for exercise, so we have managed a couple of walks and some MTB rides&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

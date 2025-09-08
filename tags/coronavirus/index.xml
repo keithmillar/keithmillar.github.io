@@ -2,25 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Coronavirus on Keith&#39;s Diary and Other Stuff</title>
-    <link>/tags/coronavirus/</link>
+    <link>http://192.168.5.152:1313/tags/coronavirus/</link>
     <description>Recent content in Coronavirus on Keith&#39;s Diary and Other Stuff</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 01 Jun 2020 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/tags/coronavirus/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Resuming Normality</title>
-      <link>/2020-06-01-resuming-normality/</link>
-      <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
-      <guid>/2020-06-01-resuming-normality/</guid>
-      <description>&lt;p&gt;Today Valencia moved into phase 2 which allowed large stores to open with certain restrictions, and bars and restaurants to open with reduced capacity. Exercise is allowed without restriction finally we are getting back to some normality.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Slowly Getting Back to Normal</title>
-      <link>/2020-05-06-slowly-getting-back-to-normal/</link>
-      <pubDate>Wed, 06 May 2020 14:11:52 +0200</pubDate>
-      <guid>/2020-05-06-slowly-getting-back-to-normal/</guid>
-      <description>&lt;p&gt;This is the first week since lock down began that we can legitimately leave the house for exercise, so we have managed a couple of walks and some MTB rides&lt;/p&gt;</description>
-    </item>
+    <atom:link href="http://192.168.5.152:1313/tags/coronavirus/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
