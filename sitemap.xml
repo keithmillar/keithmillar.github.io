@@ -2,28 +2,34 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/collection/2025-weather/</loc>
-    <lastmod>2025-09-01T00:00:00+00:00</lastmod>
+    <loc>/collection/books/</loc>
+    <lastmod>2025-09-15T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/collection/</loc>
-    <lastmod>2025-09-01T00:00:00+00:00</lastmod>
+    <lastmod>2025-09-15T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/</loc>
-    <lastmod>2025-09-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/collection/books/</loc>
-    <lastmod>2025-08-23T00:00:00+00:00</lastmod>
+    <lastmod>2025-09-15T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/blog/</loc>
-    <lastmod>2025-08-05T00:00:00+00:00</lastmod>
+    <lastmod>2025-09-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/2025-09-05-branch-down/</loc>
+    <lastmod>2025-09-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/real/</loc>
+    <lastmod>2025-09-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/</loc>
+    <lastmod>2025-09-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/collection/2025-weather/</loc>
+    <lastmod>2025-09-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/tags/newtownards/</loc>
     <lastmod>2025-08-05T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/2025-08-05-newtownards-part-three/</loc>
-    <lastmod>2025-08-05T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/tags/</loc>
     <lastmod>2025-08-05T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/tags/queen/</loc>
@@ -120,9 +126,6 @@
     <lastmod>2024-08-31T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/2024-07-26-july/</loc>
-    <lastmod>2024-07-26T11:23:38+02:00</lastmod>
-  </url><url>
-    <loc>/tags/real/</loc>
     <lastmod>2024-07-26T11:23:38+02:00</lastmod>
   </url><url>
     <loc>/tags/valencia/</loc>
@@ -869,8 +872,14 @@
     <loc>/2016-09-18-blu-shakedown-run/</loc>
     <lastmod>2016-09-18T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>/tags/campervam/</loc>
+    <lastmod>2016-09-18T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>/2016-09-14-carrick-a-rede-to-giants-causeway/</loc>
     <lastmod>2016-09-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/campervan/</loc>
+    <lastmod>2016-09-08T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/2016-09-08-quick-update-on-blu/</loc>
     <lastmod>2016-09-08T00:00:00+00:00</lastmod>
@@ -1057,9 +1066,6 @@
   </url><url>
     <loc>/2015-09-30-portugal-day-1/</loc>
     <lastmod>2015-09-30T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/tags/campervan/</loc>
-    <lastmod>2015-09-28T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/2015-09-28-lotti-s-new-campervan/</loc>
     <lastmod>2015-09-28T00:00:00+00:00</lastmod>
