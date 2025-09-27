@@ -2,25 +2,37 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>/blog/</loc>
+    <lastmod>2025-09-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/cycling/</loc>
+    <lastmod>2025-09-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/france/</loc>
+    <lastmod>2025-09-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/</loc>
+    <lastmod>2025-09-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/2025-09-20-mont-ventoux/</loc>
+    <lastmod>2025-09-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/</loc>
+    <lastmod>2025-09-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/travel/</loc>
+    <lastmod>2025-09-20T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>/collection/books/</loc>
     <lastmod>2025-09-15T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/collection/</loc>
     <lastmod>2025-09-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/</loc>
-    <lastmod>2025-09-15T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/blog/</loc>
-    <lastmod>2025-09-05T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>/2025-09-05-branch-down/</loc>
     <lastmod>2025-09-05T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/tags/real/</loc>
-    <lastmod>2025-09-05T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/tags/</loc>
     <lastmod>2025-09-05T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/collection/2025-weather/</loc>
@@ -120,9 +132,6 @@
     <lastmod>2024-09-27T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/2024-08-31-another-broken-wrist/</loc>
-    <lastmod>2024-08-31T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/tags/cycling/</loc>
     <lastmod>2024-08-31T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/2024-07-26-july/</loc>
@@ -455,9 +464,6 @@
     <loc>/2020-09-17-back-home/</loc>
     <lastmod>2020-09-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/travel/</loc>
-    <lastmod>2020-09-17T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>/tags/casita/</loc>
     <lastmod>2020-08-30T00:00:00+00:00</lastmod>
   </url><url>
@@ -567,9 +573,6 @@
     <lastmod>2019-05-23T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/2019-05-22-brehal-cherbourg-new-boat/</loc>
-    <lastmod>2019-05-22T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/tags/france/</loc>
     <lastmod>2019-05-22T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/2019-05-21-chinon-brehal/</loc>
