@@ -2,25 +2,31 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>/blog/</loc>
+    <lastmod>2025-12-27T15:43:20+01:00</lastmod>
+  </url><url>
+    <loc>/2025-12-27-december/</loc>
+    <lastmod>2025-12-27T15:43:20+01:00</lastmod>
+  </url><url>
+    <loc>/</loc>
+    <lastmod>2025-12-27T15:43:20+01:00</lastmod>
+  </url><url>
+    <loc>/tags/spain/</loc>
+    <lastmod>2025-12-27T15:43:20+01:00</lastmod>
+  </url><url>
+    <loc>/tags/</loc>
+    <lastmod>2025-12-27T15:43:20+01:00</lastmod>
+  </url><url>
     <loc>/collection/books/</loc>
     <lastmod>2025-12-23T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/collection/</loc>
     <lastmod>2025-12-23T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/</loc>
-    <lastmod>2025-12-23T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>/collection/2025-weather/</loc>
     <lastmod>2025-11-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/blog/</loc>
-    <lastmod>2025-11-22T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>/2025-11-22-classic-two-day-trial/</loc>
-    <lastmod>2025-11-22T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/tags/</loc>
     <lastmod>2025-11-22T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/tags/trial/</loc>
@@ -66,9 +72,6 @@
     <lastmod>2025-07-11T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/2025-07-11-queen-tribute/</loc>
-    <lastmod>2025-07-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/tags/spain/</loc>
     <lastmod>2025-07-11T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/tags/freya/</loc>
