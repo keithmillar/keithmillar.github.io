@@ -11,9 +11,6 @@
     <loc>/</loc>
     <lastmod>2025-12-31T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/collection/books/</loc>
-    <lastmod>2025-12-30T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>/blog/</loc>
     <lastmod>2025-12-27T15:43:20+01:00</lastmod>
   </url><url>
@@ -106,6 +103,9 @@
   </url><url>
     <loc>/2025-01-31-new-phone/</loc>
     <lastmod>2025-01-31T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/collection/books/</loc>
+    <lastmod>2025-01-07T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/collection/2024-weather/</loc>
     <lastmod>2024-12-31T00:00:00+00:00</lastmod>
