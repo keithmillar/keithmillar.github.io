@@ -1,26 +1,31 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Motorhome on Keith&#39;s Diary and Other Stuff</title>
-    <link>/tags/motorhome/</link>
-    <description>Recent content in Motorhome on Keith&#39;s Diary and Other Stuff</description>
-    <generator>Hugo</generator>
-    <language>en-us</language>
-    <lastBuildDate>Mon, 02 Oct 2017 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/tags/motorhome/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Ballyhalbert in Eddy</title>
-      <link>/2017-10-02-ballyhalbert-in-eddy/</link>
-      <pubDate>Mon, 02 Oct 2017 00:00:00 +0000</pubDate>
-      <guid>/2017-10-02-ballyhalbert-in-eddy/</guid>
-      <description>&lt;p&gt;Took our first official drive in Eddy down to Sandy Land.&lt;/p&gt;&#xA;&lt;p&gt;{{ more }}&#xA;Enjoyed a coffee and tested all the systems.&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;/images/2017/2017-10-02-ballyhalbert-in-eddy.jpg&#34; alt=&#34;Eddy&#34;&gt; &lt;strong&gt;Eddy&amp;rsquo;s First Journey&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;/images/2017/2017-10-02-ballyhalbert-in-eddy-2.jpg&#34; alt=&#34;Eddy&#34;&gt; &lt;strong&gt;Eddy&amp;rsquo;s First Journey&lt;/strong&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Motor Home</title>
-      <link>/2017-09-19-motor-home/</link>
-      <pubDate>Tue, 19 Sep 2017 00:00:00 +0000</pubDate>
-      <guid>/2017-09-19-motor-home/</guid>
-      <description>&lt;p&gt;Called into Thompson Leisure Yesterday just to look, guess what happened when we went back today.&lt;/p&gt;</description>
-    </item>
-  </channel>
+	<channel>
+		<title>Motorhome on Keith&#39;s Diary and Other Stuff</title>
+		<link>/tags/motorhome/</link>
+		<description>Recent content in Motorhome on Keith&#39;s Diary and Other Stuff</description>
+		<generator>Hugo</generator>
+		<language>en-us</language>
+		
+		
+		
+		
+			<lastBuildDate>Mon, 02 Oct 2017 00:00:00 +0000</lastBuildDate>
+		
+			<atom:link href="/tags/motorhome/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Ballyhalbert in Eddy</title>
+				<link>/2017-10-02-ballyhalbert-in-eddy/</link>
+				<pubDate>Mon, 02 Oct 2017 00:00:00 +0000</pubDate>
+				<guid>/2017-10-02-ballyhalbert-in-eddy/</guid>
+				<description>&lt;p&gt;Took our first official drive in Eddy down to Sandy Land.&lt;/p&gt;&#xA;&lt;p&gt;{{ more }}&#xA;Enjoyed a coffee and tested all the systems.&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;/images/2017/2017-10-02-ballyhalbert-in-eddy.jpg&#34; alt=&#34;Eddy&#34;&gt; &lt;strong&gt;Eddy&amp;rsquo;s First Journey&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;/images/2017/2017-10-02-ballyhalbert-in-eddy-2.jpg&#34; alt=&#34;Eddy&#34;&gt; &lt;strong&gt;Eddy&amp;rsquo;s First Journey&lt;/strong&gt;&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Motor Home</title>
+				<link>/2017-09-19-motor-home/</link>
+				<pubDate>Tue, 19 Sep 2017 00:00:00 +0000</pubDate>
+				<guid>/2017-09-19-motor-home/</guid>
+				<description>&lt;p&gt;Called into Thompson Leisure Yesterday just to look, guess what happened when we went back today.&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>

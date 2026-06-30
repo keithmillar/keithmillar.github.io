@@ -1,47 +1,52 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Ards on Keith&#39;s Diary and Other Stuff</title>
-    <link>/tags/ards/</link>
-    <description>Recent content in Ards on Keith&#39;s Diary and Other Stuff</description>
-    <generator>Hugo</generator>
-    <language>en-us</language>
-    <lastBuildDate>Wed, 28 Jan 2026 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/tags/ards/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>28 Victoria Crescent</title>
-      <link>/2026-01-28-28-victoria-crescent/</link>
-      <pubDate>Wed, 28 Jan 2026 00:00:00 +0000</pubDate>
-      <guid>/2026-01-28-28-victoria-crescent/</guid>
-      <description>&lt;p&gt;After a few false starts our house in Ards has finally been sold. Flo and I owned 28VC for almost 33 years although we have lived in Spain for the past 5 years.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Newtownards Part Two</title>
-      <link>/2025-04-22-newtownards-part-two/</link>
-      <pubDate>Tue, 22 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>/2025-04-22-newtownards-part-two/</guid>
-      <description>&lt;p&gt;Monday 14th April Karen was good enough to drop us of at&#xA;Enterprise to collect the hire van. Uneventful trip to Bangor with one stop for coffee and fuel&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Newtownards Part One</title>
-      <link>/2025-04-04-newtownards-part-one/</link>
-      <pubDate>Sun, 13 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>/2025-04-04-newtownards-part-one/</guid>
-      <description>&lt;p&gt;With only a few day&amp;rsquo;s between Garth and Helena leaving we were running against the clock to get ready for our trip to Newtownards and Cork.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Ready for Rental</title>
-      <link>/2022-06-12-ready-for-rental/</link>
-      <pubDate>Mon, 06 Jun 2022 19:02:05 +0200</pubDate>
-      <guid>/2022-06-12-ready-for-rental/</guid>
-      <description>&lt;p&gt;We flew to Dublin on Monday 30th and Flo&amp;rsquo;s brother Harry met us at the Airport with Kaths car, we then made good speed to Newtownards an settle in to get ready for the week ahead.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Quick Trip Home</title>
-      <link>/2022-02-28-quick-trip-home/</link>
-      <pubDate>Mon, 28 Feb 2022 00:00:00 +0000</pubDate>
-      <guid>/2022-02-28-quick-trip-home/</guid>
-      <description>&lt;p&gt;This turned out to be a month of changes. Flo was due to go home meet up with some friends and then travel to Rosslare and meet Cath, Frank and Louise. That was until Kathleen died on Monday 7th at 14:00.&lt;/p&gt;</description>
-    </item>
-  </channel>
+	<channel>
+		<title>Ards on Keith&#39;s Diary and Other Stuff</title>
+		<link>/tags/ards/</link>
+		<description>Recent content in Ards on Keith&#39;s Diary and Other Stuff</description>
+		<generator>Hugo</generator>
+		<language>en-us</language>
+		
+		
+		
+		
+			<lastBuildDate>Wed, 28 Jan 2026 00:00:00 +0000</lastBuildDate>
+		
+			<atom:link href="/tags/ards/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>28 Victoria Crescent</title>
+				<link>/2026-01-28-28-victoria-crescent/</link>
+				<pubDate>Wed, 28 Jan 2026 00:00:00 +0000</pubDate>
+				<guid>/2026-01-28-28-victoria-crescent/</guid>
+				<description>&lt;p&gt;After a few false starts our house in Ards has finally been sold. Flo and I owned 28VC for almost 33 years although we have lived in Spain for the past 5 years.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Newtownards Part Two</title>
+				<link>/2025-04-22-newtownards-part-two/</link>
+				<pubDate>Tue, 22 Apr 2025 00:00:00 +0000</pubDate>
+				<guid>/2025-04-22-newtownards-part-two/</guid>
+				<description>&lt;p&gt;Monday 14th April Karen was good enough to drop us of at&#xA;Enterprise to collect the hire van. Uneventful trip to Bangor with one stop for coffee and fuel&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Newtownards Part One</title>
+				<link>/2025-04-04-newtownards-part-one/</link>
+				<pubDate>Sun, 13 Apr 2025 00:00:00 +0000</pubDate>
+				<guid>/2025-04-04-newtownards-part-one/</guid>
+				<description>&lt;p&gt;With only a few day&amp;rsquo;s between Garth and Helena leaving we were running against the clock to get ready for our trip to Newtownards and Cork.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Ready for Rental</title>
+				<link>/2022-06-12-ready-for-rental/</link>
+				<pubDate>Mon, 06 Jun 2022 19:02:05 +0200</pubDate>
+				<guid>/2022-06-12-ready-for-rental/</guid>
+				<description>&lt;p&gt;We flew to Dublin on Monday 30th and Flo&amp;rsquo;s brother Harry met us at the Airport with Kaths car, we then made good speed to Newtownards an settle in to get ready for the week ahead.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Quick Trip Home</title>
+				<link>/2022-02-28-quick-trip-home/</link>
+				<pubDate>Mon, 28 Feb 2022 00:00:00 +0000</pubDate>
+				<guid>/2022-02-28-quick-trip-home/</guid>
+				<description>&lt;p&gt;This turned out to be a month of changes. Flo was due to go home meet up with some friends and then travel to Rosslare and meet Cath, Frank and Louise. That was until Kathleen died on Monday 7th at 14:00.&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>

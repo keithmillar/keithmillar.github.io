@@ -1,19 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Germany on Keith&#39;s Diary and Other Stuff</title>
-    <link>/tags/germany/</link>
-    <description>Recent content in Germany on Keith&#39;s Diary and Other Stuff</description>
-    <generator>Hugo</generator>
-    <language>en-us</language>
-    <lastBuildDate>Mon, 07 May 2018 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/tags/germany/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Germany </title>
-      <link>/2018-05-07-germany/</link>
-      <pubDate>Mon, 07 May 2018 00:00:00 +0000</pubDate>
-      <guid>/2018-05-07-germany/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;Ladenburg&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;Our plan was to stay in an aire by a camping shop while the shop was excellent the aire wasn&amp;rsquo;t so we moved on to Ladenburg.&lt;/p&gt;&#xA;&lt;p&gt;We stayed in an aire here about 1.5km from the town center. Wandered into the town for a beer and to check the bus times to Heidelberg for tomorrow.&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;/images/2018/2018-05-07-germany-2.jpg&#34; alt=&#34;Ladenburg&#34;&gt;&#xA;&lt;strong&gt;Ladenburg&lt;/strong&gt;&#xA;{{ more }}&lt;/p&gt;&#xA;&lt;p&gt;We made a cock up with the bus but we got their eventually. Heidelberg is a nice city built in a Valley by a river with a castle high on a hill over looking both.&lt;/p&gt;</description>
-    </item>
-  </channel>
+	<channel>
+		<title>Germany on Keith&#39;s Diary and Other Stuff</title>
+		<link>/tags/germany/</link>
+		<description>Recent content in Germany on Keith&#39;s Diary and Other Stuff</description>
+		<generator>Hugo</generator>
+		<language>en-us</language>
+		
+		
+		
+		
+			<lastBuildDate>Mon, 07 May 2018 00:00:00 +0000</lastBuildDate>
+		
+			<atom:link href="/tags/germany/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Germany </title>
+				<link>/2018-05-07-germany/</link>
+				<pubDate>Mon, 07 May 2018 00:00:00 +0000</pubDate>
+				<guid>/2018-05-07-germany/</guid>
+				<description>&lt;p&gt;&lt;strong&gt;Ladenburg&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;Our plan was to stay in an aire by a camping shop while the shop was excellent the aire wasn&amp;rsquo;t so we moved on to Ladenburg.&lt;/p&gt;&#xA;&lt;p&gt;We stayed in an aire here about 1.5km from the town center. Wandered into the town for a beer and to check the bus times to Heidelberg for tomorrow.&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;/images/2018/2018-05-07-germany-2.jpg&#34; alt=&#34;Ladenburg&#34;&gt;&#xA;&lt;strong&gt;Ladenburg&lt;/strong&gt;&#xA;{{ more }}&lt;/p&gt;&#xA;&lt;p&gt;We made a cock up with the bus but we got their eventually. Heidelberg is a nice city built in a Valley by a river with a castle high on a hill over looking both.&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>

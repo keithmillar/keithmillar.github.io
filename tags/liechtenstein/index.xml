@@ -1,19 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Liechtenstein on Keith&#39;s Diary and Other Stuff</title>
-    <link>/tags/liechtenstein/</link>
-    <description>Recent content in Liechtenstein on Keith&#39;s Diary and Other Stuff</description>
-    <generator>Hugo</generator>
-    <language>en-us</language>
-    <lastBuildDate>Tue, 15 May 2018 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/tags/liechtenstein/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Liechtenstein</title>
-      <link>/2018-05-15-liechtenstein/</link>
-      <pubDate>Tue, 15 May 2018 00:00:00 +0000</pubDate>
-      <guid>/2018-05-15-liechtenstein/</guid>
-      <description>&lt;p&gt;Moved on to Liechtenstein with a very Pleasant drive though Switzerland and by avoiding motorways we didn&amp;rsquo;t have to buy a Vinuett. Stopped for the night in Vaduz staying in the aire by the football stadium. Not mutch to say about Liechtenstein full of chinese ticking it off the list and lots of pre-owned jewlery Rolex etc.&lt;/p&gt;&#xA;&lt;p&gt;{{ more }}&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;/images/2018/2018-05-15-Liechtenstein-1.jpg&#34; alt=&#34;Liechtenstein&#34;&gt; &lt;strong&gt;Liechtenstein&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;/images/2018/2018-05-15-Liechtenstein-2.jpg&#34; alt=&#34;Liechtenstein&#34;&gt; &lt;strong&gt;Liechtenstein&lt;/strong&gt;&lt;/p&gt;</description>
-    </item>
-  </channel>
+	<channel>
+		<title>Liechtenstein on Keith&#39;s Diary and Other Stuff</title>
+		<link>/tags/liechtenstein/</link>
+		<description>Recent content in Liechtenstein on Keith&#39;s Diary and Other Stuff</description>
+		<generator>Hugo</generator>
+		<language>en-us</language>
+		
+		
+		
+		
+			<lastBuildDate>Tue, 15 May 2018 00:00:00 +0000</lastBuildDate>
+		
+			<atom:link href="/tags/liechtenstein/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Liechtenstein</title>
+				<link>/2018-05-15-liechtenstein/</link>
+				<pubDate>Tue, 15 May 2018 00:00:00 +0000</pubDate>
+				<guid>/2018-05-15-liechtenstein/</guid>
+				<description>&lt;p&gt;Moved on to Liechtenstein with a very Pleasant drive though Switzerland and by avoiding motorways we didn&amp;rsquo;t have to buy a Vinuett. Stopped for the night in Vaduz staying in the aire by the football stadium. Not mutch to say about Liechtenstein full of chinese ticking it off the list and lots of pre-owned jewlery Rolex etc.&lt;/p&gt;&#xA;&lt;p&gt;{{ more }}&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;/images/2018/2018-05-15-Liechtenstein-1.jpg&#34; alt=&#34;Liechtenstein&#34;&gt; &lt;strong&gt;Liechtenstein&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;/images/2018/2018-05-15-Liechtenstein-2.jpg&#34; alt=&#34;Liechtenstein&#34;&gt; &lt;strong&gt;Liechtenstein&lt;/strong&gt;&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>

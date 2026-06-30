@@ -1,19 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Gentoo on Keith&#39;s Diary and Other Stuff</title>
-    <link>/tags/gentoo/</link>
-    <description>Recent content in Gentoo on Keith&#39;s Diary and Other Stuff</description>
-    <generator>Hugo</generator>
-    <language>en-us</language>
-    <lastBuildDate>Thu, 26 Jan 2012 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/tags/gentoo/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Gentoo Emerge Hell</title>
-      <link>/2012-01-26-gentoo-emerge-hell/</link>
-      <pubDate>Thu, 26 Jan 2012 00:00:00 +0000</pubDate>
-      <guid>/2012-01-26-gentoo-emerge-hell/</guid>
-      <description>&lt;p&gt;As normal with Gentoo when things start to go wrong they just keep getting&#xA;worse. First kdepy4 gave trouble had to downgrade sip, that sort of fixed&#xA;that. Then kdepim4 wouldn&amp;rsquo;t compile, ended up leaving it, hopefully it will be&#xA;fixed in the next few days. Must spend some time tidying up portage keywords&#xA;etc.&lt;/p&gt;</description>
-    </item>
-  </channel>
+	<channel>
+		<title>Gentoo on Keith&#39;s Diary and Other Stuff</title>
+		<link>/tags/gentoo/</link>
+		<description>Recent content in Gentoo on Keith&#39;s Diary and Other Stuff</description>
+		<generator>Hugo</generator>
+		<language>en-us</language>
+		
+		
+		
+		
+			<lastBuildDate>Thu, 26 Jan 2012 00:00:00 +0000</lastBuildDate>
+		
+			<atom:link href="/tags/gentoo/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Gentoo Emerge Hell</title>
+				<link>/2012-01-26-gentoo-emerge-hell/</link>
+				<pubDate>Thu, 26 Jan 2012 00:00:00 +0000</pubDate>
+				<guid>/2012-01-26-gentoo-emerge-hell/</guid>
+				<description>&lt;p&gt;As normal with Gentoo when things start to go wrong they just keep getting&#xA;worse. First kdepy4 gave trouble had to downgrade sip, that sort of fixed&#xA;that. Then kdepim4 wouldn&amp;rsquo;t compile, ended up leaving it, hopefully it will be&#xA;fixed in the next few days. Must spend some time tidying up portage keywords&#xA;etc.&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>

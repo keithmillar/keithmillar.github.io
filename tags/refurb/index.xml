@@ -1,19 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Refurb on Keith&#39;s Diary and Other Stuff</title>
-    <link>/tags/refurb/</link>
-    <description>Recent content in Refurb on Keith&#39;s Diary and Other Stuff</description>
-    <generator>Hugo</generator>
-    <language>en-us</language>
-    <lastBuildDate>Mon, 22 Nov 2010 20:07:35 +0000</lastBuildDate>
-    <atom:link href="/tags/refurb/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Stove Installation</title>
-      <link>/2010-11-22-stove-installation/</link>
-      <pubDate>Mon, 22 Nov 2010 20:07:35 +0000</pubDate>
-      <guid>/2010-11-22-stove-installation/</guid>
-      <description>&lt;p&gt;Flo in her wisdom decided that we need a multi fuel Stove here are some pics of the aftermath.&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;/images/2010/img_0427.jpg&#34; alt=&#34;&#34;&gt;&#xA;&lt;img src=&#34;/images/2010/img_0429.jpg&#34; alt=&#34;&#34;&gt;&#xA;&lt;img src=&#34;/images/2010/img_0273.jpg&#34; alt=&#34;&#34;&gt;&#xA;&lt;img src=&#34;/images/2010/img_0276.jpg&#34; alt=&#34;&#34;&gt;&#xA;&lt;img src=&#34;/images/2010/img_0285.jpg&#34; alt=&#34;&#34;&gt;&#xA;&lt;img src=&#34;/images/2010/img_0288.jpg&#34; alt=&#34;&#34;&gt;&#xA;&lt;img src=&#34;/images/2010/img_0438.jpg&#34; alt=&#34;&#34;&gt;&#xA;&lt;img src=&#34;/images/2010/img_0443.jpg&#34; alt=&#34;&#34;&gt;&#xA;&lt;img src=&#34;/images/2010/img_0459.jpg&#34; alt=&#34;&#34;&gt;&#xA;&lt;img src=&#34;/images/2010/img_0531.jpg&#34; alt=&#34;&#34;&gt;&#xA;&lt;img src=&#34;/images/2010/img_0535.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;</description>
-    </item>
-  </channel>
+	<channel>
+		<title>Refurb on Keith&#39;s Diary and Other Stuff</title>
+		<link>/tags/refurb/</link>
+		<description>Recent content in Refurb on Keith&#39;s Diary and Other Stuff</description>
+		<generator>Hugo</generator>
+		<language>en-us</language>
+		
+		
+		
+		
+			<lastBuildDate>Mon, 22 Nov 2010 20:07:35 +0000</lastBuildDate>
+		
+			<atom:link href="/tags/refurb/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Stove Installation</title>
+				<link>/2010-11-22-stove-installation/</link>
+				<pubDate>Mon, 22 Nov 2010 20:07:35 +0000</pubDate>
+				<guid>/2010-11-22-stove-installation/</guid>
+				<description>&lt;p&gt;Flo in her wisdom decided that we need a multi fuel Stove here are some pics of the aftermath.&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;/images/2010/img_0427.jpg&#34; alt=&#34;&#34;&gt;&#xA;&lt;img src=&#34;/images/2010/img_0429.jpg&#34; alt=&#34;&#34;&gt;&#xA;&lt;img src=&#34;/images/2010/img_0273.jpg&#34; alt=&#34;&#34;&gt;&#xA;&lt;img src=&#34;/images/2010/img_0276.jpg&#34; alt=&#34;&#34;&gt;&#xA;&lt;img src=&#34;/images/2010/img_0285.jpg&#34; alt=&#34;&#34;&gt;&#xA;&lt;img src=&#34;/images/2010/img_0288.jpg&#34; alt=&#34;&#34;&gt;&#xA;&lt;img src=&#34;/images/2010/img_0438.jpg&#34; alt=&#34;&#34;&gt;&#xA;&lt;img src=&#34;/images/2010/img_0443.jpg&#34; alt=&#34;&#34;&gt;&#xA;&lt;img src=&#34;/images/2010/img_0459.jpg&#34; alt=&#34;&#34;&gt;&#xA;&lt;img src=&#34;/images/2010/img_0531.jpg&#34; alt=&#34;&#34;&gt;&#xA;&lt;img src=&#34;/images/2010/img_0535.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>
