@@ -10,9 +10,23 @@
 		
 		
 		
-			<lastBuildDate>Sat, 30 May 2026 00:00:00 +0000</lastBuildDate>
+			<lastBuildDate>Mon, 29 Jun 2026 00:00:00 +0000</lastBuildDate>
 		
 			<atom:link href="/blog/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Our New Office</title>
+				<link>/2026-06-29-our-new-office/</link>
+				<pubDate>Mon, 29 Jun 2026 00:00:00 +0000</pubDate>
+				<guid>/2026-06-29-our-new-office/</guid>
+				<description>&lt;p&gt;Finally got round to refurbishing the guest room and turning it into an Office/Music room.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Resurfaced At Last</title>
+				<link>/2026-06-19-resurfaced/</link>
+				<pubDate>Fri, 19 Jun 2026 00:00:00 +0000</pubDate>
+				<guid>/2026-06-19-resurfaced/</guid>
+				<description>&lt;p&gt;&lt;img src=&#34;/images/2026/2026-06-19-resurfaced.jpg&#34; alt=&#34;Camino Resurfaced&#34;&gt;&lt;strong&gt;Camino Resurfaced&lt;/strong&gt;&lt;/p&gt;</description>
+			</item>
 			<item>
 				<title>Not a Lot to Write About</title>
 				<link>/2026-05-30-not-a-lot-to-write-about/</link>
