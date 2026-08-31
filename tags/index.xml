@@ -10,9 +10,23 @@
 		
 		
 		
-			<lastBuildDate>Mon, 29 Jun 2026 00:00:00 +0000</lastBuildDate>
+			<lastBuildDate>Mon, 31 Aug 2026 11:19:12 +0200</lastBuildDate>
 		
 			<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Eclipse</title>
+				<link>/tags/eclipse/</link>
+				<pubDate>Mon, 31 Aug 2026 11:19:12 +0200</pubDate>
+				<guid>/tags/eclipse/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Freya</title>
+				<link>/tags/freya/</link>
+				<pubDate>Thu, 30 Jul 2026 11:04:09 +0200</pubDate>
+				<guid>/tags/freya/</guid>
+				<description></description>
+			</item>
 			<item>
 				<title>Office</title>
 				<link>/tags/office/</link>
@@ -116,13 +130,6 @@
 				<link>/tags/queen/</link>
 				<pubDate>Fri, 11 Jul 2025 00:00:00 +0000</pubDate>
 				<guid>/tags/queen/</guid>
-				<description></description>
-			</item>
-			<item>
-				<title>Freya</title>
-				<link>/tags/freya/</link>
-				<pubDate>Mon, 30 Jun 2025 00:00:00 +0000</pubDate>
-				<guid>/tags/freya/</guid>
 				<description></description>
 			</item>
 			<item>

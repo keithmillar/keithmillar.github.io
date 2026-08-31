@@ -2,28 +2,40 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>/blog/</loc>
+    <lastmod>2026-08-31T11:19:12+02:00</lastmod>
+  </url><url>
+    <loc>/tags/eclipse/</loc>
+    <lastmod>2026-08-31T11:19:12+02:00</lastmod>
+  </url><url>
+    <loc>/</loc>
+    <lastmod>2026-08-31T11:19:12+02:00</lastmod>
+  </url><url>
+    <loc>/2026-08-31-solar-and-lunar-eclipse/</loc>
+    <lastmod>2026-08-31T11:19:12+02:00</lastmod>
+  </url><url>
+    <loc>/tags/</loc>
+    <lastmod>2026-08-31T11:19:12+02:00</lastmod>
+  </url><url>
     <loc>/collection/books/</loc>
     <lastmod>2026-08-16T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/collection/</loc>
     <lastmod>2026-08-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/</loc>
-    <lastmod>2026-08-16T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>/collection/2026-weather/</loc>
     <lastmod>2026-08-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/blog/</loc>
-    <lastmod>2026-06-29T00:00:00+00:00</lastmod>
+    <loc>/tags/freya/</loc>
+    <lastmod>2026-07-30T11:04:09+02:00</lastmod>
+  </url><url>
+    <loc>/2026-07-30-new-speakers-and-freya-to-the-vet/</loc>
+    <lastmod>2026-07-30T11:04:09+02:00</lastmod>
   </url><url>
     <loc>/tags/office/</loc>
     <lastmod>2026-06-29T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/2026-06-29-our-new-office/</loc>
-    <lastmod>2026-06-29T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/tags/</loc>
     <lastmod>2026-06-29T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/2026-06-19-resurfaced/</loc>
@@ -115,9 +127,6 @@
   </url><url>
     <loc>/2025-07-11-queen-tribute/</loc>
     <lastmod>2025-07-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/tags/freya/</loc>
-    <lastmod>2025-06-30T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/2025-06-30-freya-joins-our-family/</loc>
     <lastmod>2025-06-30T00:00:00+00:00</lastmod>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Eclipse on Keith&#39;s Diary and Other Stuff</title>
+		<link>/tags/eclipse/</link>
+		<description>Recent content in Eclipse on Keith&#39;s Diary and Other Stuff</description>
+		<generator>Hugo</generator>
+		<language>en-us</language>
+		
+		
+		
+		
+			<lastBuildDate>Mon, 31 Aug 2026 11:19:12 +0200</lastBuildDate>
+		
+			<atom:link href="/tags/eclipse/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Solar and Lunar Eclipse</title>
+				<link>/2026-08-31-solar-and-lunar-eclipse/</link>
+				<pubDate>Mon, 31 Aug 2026 11:19:12 +0200</pubDate>
+				<guid>/2026-08-31-solar-and-lunar-eclipse/</guid>
+				<description>&lt;p&gt;On Wednesday the 12th we had perfect conditions to view the full Solar Eclipse, could not have asked for better.&lt;/p&gt;&#xA;&lt;p&gt;Then on the 28th we got a partial Lunar Eclipse I think it was about 04:00 once again great conditions.&lt;/p&gt;</description>
+			</item>
+	</channel>
+</rss>
