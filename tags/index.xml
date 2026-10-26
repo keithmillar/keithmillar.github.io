@@ -10,9 +10,30 @@
 		
 		
 		
-			<lastBuildDate>Mon, 31 Aug 2026 11:19:12 +0200</lastBuildDate>
+			<lastBuildDate>Mon, 19 Oct 2026 00:00:00 +0000</lastBuildDate>
 		
 			<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Cycling</title>
+				<link>/tags/cycling/</link>
+				<pubDate>Mon, 19 Oct 2026 00:00:00 +0000</pubDate>
+				<guid>/tags/cycling/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Mallorca</title>
+				<link>/tags/mallorca/</link>
+				<pubDate>Mon, 19 Oct 2026 00:00:00 +0000</pubDate>
+				<guid>/tags/mallorca/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Flo</title>
+				<link>/tags/flo/</link>
+				<pubDate>Thu, 10 Sep 2026 00:00:00 +0000</pubDate>
+				<guid>/tags/flo/</guid>
+				<description></description>
+			</item>
 			<item>
 				<title>Eclipse</title>
 				<link>/tags/eclipse/</link>
@@ -56,13 +77,6 @@
 				<description></description>
 			</item>
 			<item>
-				<title>Cycling</title>
-				<link>/tags/cycling/</link>
-				<pubDate>Sun, 22 Mar 2026 00:00:00 +0000</pubDate>
-				<guid>/tags/cycling/</guid>
-				<description></description>
-			</item>
-			<item>
 				<title>Ards</title>
 				<link>/tags/ards/</link>
 				<pubDate>Wed, 28 Jan 2026 00:00:00 +0000</pubDate>
@@ -88,13 +102,6 @@
 				<link>/tags/birthday/</link>
 				<pubDate>Sun, 05 Oct 2025 00:00:00 +0000</pubDate>
 				<guid>/tags/birthday/</guid>
-				<description></description>
-			</item>
-			<item>
-				<title>Flo</title>
-				<link>/tags/flo/</link>
-				<pubDate>Sun, 05 Oct 2025 00:00:00 +0000</pubDate>
-				<guid>/tags/flo/</guid>
 				<description></description>
 			</item>
 			<item>
@@ -312,13 +319,6 @@
 				<link>/tags/visit/</link>
 				<pubDate>Sun, 06 Nov 2022 19:32:36 +0100</pubDate>
 				<guid>/tags/visit/</guid>
-				<description></description>
-			</item>
-			<item>
-				<title>Mallorca</title>
-				<link>/tags/mallorca/</link>
-				<pubDate>Thu, 29 Sep 2022 17:14:10 +0200</pubDate>
-				<guid>/tags/mallorca/</guid>
 				<description></description>
 			</item>
 			<item>
